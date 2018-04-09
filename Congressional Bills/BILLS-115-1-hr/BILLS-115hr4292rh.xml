@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" bill-type="olc" dms-id="H551130EECE1C43649544E557ADCA929B" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 4292 RH: Financial Institution Living Will Improvement Act of 2017</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-11-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 345</calendar>
+		<congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 4292</legis-num>
+		<associated-doc display="yes" role="report">[Report No. 115–465]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action display="yes">
+			<action-date date="20171107">November 7, 2017</action-date>
+			<action-desc><sponsor name-id="Z000017">Mr. Zeldin</sponsor> (for himself and <cosponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name added-display-style="italic" committee-id="HBA00" deleted-display-style="strikethrough">Committee on Financial Services</committee-name></action-desc>
+		</action>
+		<action><action-date>December 14, 2017</action-date><action-desc>Additional sponsors: <cosponsor name-id="R000487">Mr. Royce of California</cosponsor> and <cosponsor name-id="S001191">Ms. Sinema</cosponsor></action-desc></action><action>
+			<action-date>December 14, 2017</action-date>
+			<action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as introduced on November 7, 2017</action-instruction>
+		</action>
+		<action display="yes">
+			<action-date><?xm-replace_text {action-date}?></action-date>
+			<action-desc display="yes"><pagebreak></pagebreak></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To reform the living will process under the Dodd-Frank Wall Street Reform and Consumer Protection
+			 Act.<pagebreak></pagebreak></official-title>
+	</form>
+	<legis-body changed="added" committee-id="HBA00" display-enacting-clause="yes-display-enacting-clause" id="H6E05AD746356482BA330D2C7AC43C9DA" reported-display-style="italic" style="OLC">
+ <section id="H14039725EFC54C71B4BA8F3FD23332F1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Financial Institution Living Will Improvement Act of 2017</short-title></quote>.</text> </section><section id="HE6BED0B4105D429FAE1EC04FFA82EFE8"><enum>2.</enum><header>Living will reforms</header> <subsection id="HB9A0075901684713A149157BAEEC49D9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 165(d) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/12/5365">12 U.S.C. 5365(d)</external-xref>) is amended—</text>
+ <paragraph id="HB19CE348F43442D9AD133A77A5CE03BD"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (1), by striking <quote>periodically</quote> and inserting <quote>every 2 years</quote>; and</text> </paragraph><paragraph id="HF9A198BC57A34A66AB20C68136A33059"><enum>(2)</enum><text>in paragraph (3)—</text>
+ <subparagraph id="HEF340ADAEF474EB782C99CB25D9FDC96"><enum>(A)</enum><text>by striking <quote>The Board</quote> and inserting the following:</text> <quoted-block changed="added" committee-id="HBA00" display-inline="no-display-inline" id="H5CCACDA75FE5433FABEDF891773BD33F" reported-display-style="italic" style="OLC"> <subparagraph id="H801B21147DDF425B9071450C9AC564EC"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The Board</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </subparagraph><subparagraph id="H595C4A226B3A4EF2BC892CAA9E706DE3"><enum>(B)</enum><text>by striking <quote>shall review</quote> and inserting the following:</text> <quoted-block changed="added" committee-id="HBA00" display-inline="yes-display-inline" id="H803C769859374F148864B8BE0DBAC20B" reported-display-style="italic" style="OLC"> <text>shall—</text><clause id="HC6B8CD65F31543769AB1B4F11DE307B5"><enum>(i)</enum><text display-inline="yes-display-inline">review</text></clause><after-quoted-block>;</after-quoted-block></quoted-block> </subparagraph><subparagraph id="HECA449EA2791464AA4CCBB97524DCDD3"><enum>(C)</enum><text>by striking the period and inserting <quote>; and</quote>; and</text>
+ </subparagraph><subparagraph id="H2621ED0EC69A4311A1B01E34966B45A4"><enum>(D)</enum><text>by adding at the end the following:</text> <quoted-block changed="added" committee-id="HBA00" display-inline="no-display-inline" id="H649CEA6E645549778B97BE2B2A627C1A" reported-display-style="italic" style="OLC"> <clause id="HCC07DF4B52354006920FCB9A38A433EB"><enum>(ii)</enum><text display-inline="yes-display-inline">not later than the end of the 6-month period beginning on the date the company submits the resolution plan, provide feedback to the company on such plan.</text>
+ </clause><subparagraph id="H62B47228313C49DE9960974CA5B6954F"><enum>(B)</enum><header>Disclosure of assessment framework</header><text display-inline="yes-display-inline">The Board of Governors and the Corporation shall publicly disclose the assessment framework that is used to review information under this paragraph.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph></subsection><subsection id="H0C3F77E186BC412D9DB50406AC3A83E5"><enum>(b)</enum><header>Treatment of other resolution plan requirements</header>
+ <paragraph id="H654E4AF6D4E74595AB69ACA83815F1FB"><enum>(1)</enum><header>In general</header><text>With respect to an appropriate Federal banking agency that requires a banking organization to submit to the agency a resolution plan not described under section 165(d) of the Dodd-Frank Wall Street Reform and Consumer Protection Act—</text>
+ <subparagraph id="HE9363A616EC541529B6BABBF727FDA6A"><enum>(A)</enum><text display-inline="yes-display-inline">the respective agency shall ensure that the review of such resolution plan is consistent with the requirements contained in the amendments made by this Act;</text>
+ </subparagraph><subparagraph id="H3CA18CAD6CBE4ECB9A463B0EACD0C801"><enum>(B)</enum><text display-inline="yes-display-inline">the agency may not require the submission of such a resolution plan more often than every 2 years; and</text>
+ </subparagraph><subparagraph id="H403222ADD01146248DBAE3635D6F3A8F"><enum>(C)</enum><text>paragraphs (6) and (7) of such section 165(d) shall apply to such a resolution plan.</text> </subparagraph></paragraph><paragraph id="H05A08E8554414B0397CFE5534ED471C9"><enum>(2)</enum><header>Definitions</header><text>For purposes of this subsection:</text>
+ <subparagraph id="HABEBEB55EB6840F6B0B259061DDFEC00"><enum>(A)</enum><header>Appropriate Federal banking agency</header><text>The term <quote>appropriate Federal banking agency</quote>—</text> <clause display-inline="no-display-inline" id="H54DFCD73D60D4C97A820EFB0AC7F7767"><enum>(i)</enum><text>has the meaning given such term under section 3 of the Federal Deposit Insurance Act; and</text>
+ </clause><clause id="H906586F343EC4B139D7F45F31F7BE966"><enum>(ii)</enum><text>means the National Credit Union Administration, in the case of an insured credit union.</text> </clause></subparagraph><subparagraph display-inline="no-display-inline" id="HAB5770059B8E4979BDC14FBBB6839C84"><enum>(B)</enum><header>Banking organization</header><text>The term <term>banking organization</term> means—</text>
+ <clause id="H842C47E1450B4EE2BF735A97E54B05CE"><enum>(i)</enum><text>an insured depository institution;</text> </clause><clause id="H5296BF240C5648AEB635BB86BAFD0A74"><enum>(ii)</enum><text>an insured credit union;</text>
+ </clause><clause id="H136E8D1E27FD4F0EA0892CE1ABFF3B74"><enum>(iii)</enum><text display-inline="yes-display-inline">a depository institution holding company;</text> </clause><clause id="H340D429479284953A80C5FADA7527448"><enum>(iv)</enum><text display-inline="yes-display-inline">a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act; and</text>
+ </clause><clause id="HE83BA20EA8B8468EBB2E5E00A78C6324"><enum>(v)</enum><text display-inline="yes-display-inline">a U.S. intermediate holding company established by a foreign banking organization pursuant to section 252.153 of title 12, Code of Federal Regulations.</text>
+ </clause></subparagraph><subparagraph id="HCB1D03244EAE4FFBB6688C84AEEEF152"><enum>(C)</enum><header>Insured credit union</header><text>The term <quote>insured credit union</quote> has the meaning given that term under section 101 of the Federal Credit Union Act.</text> </subparagraph><subparagraph id="HC4817453974047B8801B90AB11152CDD"><enum>(D)</enum><header>Other banking terms</header><text>The terms <quote>depository institution holding company</quote> and <quote>insured depository institution</quote> have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.</text>
+ </subparagraph></paragraph></subsection><subsection id="HA390E970752D402CA76726B1EF48D1C8"><enum>(c)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this Act, or any amendment made by this Act, shall be construed as limiting the authority of an appropriate Federal banking agency (as defined under subsection (b)(2)) to obtain information from an institution in connection with such agency’s authority to examine or require reports from the institution.</text>
+			</subsection></section></legis-body>
+	<endorsement display="yes">
+		<action-date>December 14, 2017</action-date>
+		<action-desc>Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action-desc></endorsement>
+</bill>
+
+

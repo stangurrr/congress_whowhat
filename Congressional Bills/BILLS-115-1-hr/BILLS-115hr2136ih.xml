@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDBDC61C3BB6A44BBB4DCB37C21EC61FF" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 2136 IH: To amend the Internal Revenue Code of 1986 to provide an exception from certain reporting requirements with respect to the foreign accounts of individuals who live abroad.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-04-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2136</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20170425">April 25, 2017</action-date><action-desc><sponsor name-id="M000087">Mrs. Carolyn B. Maloney of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to provide an exception from certain reporting
+			 requirements with respect to the foreign accounts of individuals who live
+			 abroad.</official-title></form>
+	<legis-body id="H7A4F2A58B4A24D7599C706065B41A2B1" style="OLC">
+		<section id="HF7AFC7BD510C4D77876C90C548E9A610" section-type="section-one"><enum>1.</enum><header>Exception to certain reporting requirements applicable to foreign financial institutions with
+			 respect to certain individuals who live abroad</header>
+ <subsection id="HA8F14421769A47C99F66BDA0FD400253"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1471">Section 1471(d)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (C) as subparagraph (D) and by inserting after subparagraph (B) the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HC702F5FD57E14AAB9686CB3D6255BAE7" style="OLC">
+					<subparagraph id="HAF64DB6B8E2F454691F7F43C8D10FA24"><enum>(C)</enum><header>Exception for certain individuals who live abroad</header>
+ <clause id="HFE60438A0A634081A69A3B001DCADFFA"><enum>(i)</enum><header>In general</header><text>Unless the foreign financial institution elects to not have this subparagraph apply, such term shall not include any depository account maintained by such financial institution if each holder of such account is—</text>
+ <subclause id="H929AA53840EE456CB99372649EB961F6"><enum>(I)</enum><text>a natural person, and</text> </subclause><subclause id="HD217D543E9A34B86A21E2A9E4963A324"><enum>(II)</enum><text>a qualified individual with respect to a foreign country in which such foreign financial institution is licensed to conduct business.</text>
+ </subclause></clause><clause id="H5D3F7C3EC9C4427988DED46F8DD619DB"><enum>(ii)</enum><header>Qualified individual</header><text>For purposes of this subparagraph, an individual is a qualified individual with respect to any foreign country if such individual would be a qualified individual under section 911(d) if the only foreign country taken into account under such section were such foreign country.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H2B862A13B70C44C7A969E27D0E2F2F7A"><enum>(b)</enum><header>Effective date</header>
+ <paragraph id="HE32BFD58A1524931BB6F9C3EF5C7580A"><enum>(1)</enum><header>In general</header><text>The amendments made by this section shall take effect on the date of the enactment of this Act.</text> </paragraph><paragraph id="HCEDC7EB2E0704B5590A24949A6171100"><enum>(2)</enum><header>Modification of agreements</header><text>At the request of any foreign financial institution, the Secretary of the Treasury (or the Secretary’s delegate) shall, as promptly as is practicable, modify any agreement which is in effect between the Secretary and such foreign financial institution under <external-xref legal-doc="usc" parsable-cite="usc/26/1471">section 1471</external-xref> of the Internal Revenue Code of 1986 to take into account the amendments made by this section.</text>
+				</paragraph></subsection></section><section id="H60733BC98AF4476A87BE8A7DF5D9B0A9"><enum>2.</enum><header>Exception for certain individuals who live abroad to certain reporting requirements applicable to
+			 individuals with foreign financial assets</header>
+ <subsection id="H333502CA4D52489F9E6B65B60C8E250D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6038D">Section 6038D</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="HCBFC337882BC46CE9B1E99157ADDFCE5" style="OLC">
+					<subsection id="H1C6D89FF152442CAB7EDC3AAB9100E01"><enum>(h)</enum><header>Exception for certain financial accounts of individuals living abroad</header>
+ <paragraph id="HADE4ED97DC744628BF7090C3721BC8DB"><enum>(1)</enum><header>In general</header><text>In the case of a qualified individual with respect to any foreign country, subsection (a) shall not apply to such individual for any taxable year if such individual would not be required to provide any information under such subsection for such taxable year if the qualified foreign accounts in which such individual holds an interest were not taken into account as specified foreign financial assets for purposes of this section.</text>
+ </paragraph><paragraph id="H833448A290344C049E11D39D3811CA39"><enum>(2)</enum><header>Qualified foreign account</header><text>For purposes of this subsection, the term <quote>qualified foreign account</quote> means, with respect to any qualified individual, any account described in subsection (b)(1) which is maintained by a financial institution which is licensed to conduct business in the foreign country with respect to which such individual is a qualified individual.</text>
+ </paragraph><paragraph id="HBEE93D05F64D4F36850D1FAD024CCB78"><enum>(3)</enum><header>Qualified individual</header><text>For purposes of this subsection, an individual is a qualified individual with respect to any foreign country if such individual would be a qualified individual under section 911(d) if the only foreign country taken into account under such section were such foreign country.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H44F6DF3DC8E94E25B28AC40F8A539947"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body></bill>
+
+

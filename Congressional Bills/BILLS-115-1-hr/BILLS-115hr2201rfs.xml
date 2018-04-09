@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" bill-type="olc" dms-id="H9619238892554C26A327EFDD6407B5BA" key="H" public-private="public" stage-count="1">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 2201 : Micro Offering Safe Harbor Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-11-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IIB</distribution-code>
+		<congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 2201</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action><action-date date="20171113">November 13, 2017</action-date><action-desc>Received; read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type>
+		<official-title display="yes">To amend the Securities Act of 1933 to exempt certain micro-offerings from the registration
+			 requirements of such Act, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H6B274B8C4B6045B1A45AD4FF26D375F6" style="OLC">
+ <section id="H359B9BA79622488EA2D8BF4E9A95AFB5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Micro Offering Safe Harbor Act</short-title></quote>.</text> </section><section id="H832040BF1F3A48A495FAF7AB9B570178"><enum>2.</enum><header>Exemptions for micro-offerings</header> <subsection id="HCA612272540040D1BB55E8B8B31CD68E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 4 of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77d">15 U.S.C. 77d</external-xref>) is amended—</text>
+ <paragraph id="HA5E17184A678466FB92DD42F145CA4DE"><enum>(1)</enum><text>in subsection (a), by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H28827011F643477CBFED9B0510799DA0" style="OLC"> <paragraph id="H0987FF3DA6664380A3E8E8DBC0B0262D"><enum>(8)</enum><text display-inline="yes-display-inline">transactions meeting the requirements of subsection (f).</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="H826671CB07F6487983A31C07A424258F"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H661965314D7A4D86B86A0C179EE78A15" style="OLC"> <subsection id="HEA9F727D85974BF3B044BBDA020639E6"><enum>(f)</enum><header>Certain micro-Offerings</header> <paragraph id="H553043CC652443B6BC7D22AEFB8241EB"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The transactions referred to in subsection (a)(8) are transactions involving the sale of securities by an issuer (including all entities controlled by or under common control with the issuer) that meet all of the following requirements:</text>
+ <subparagraph id="H1FC243001C8A4A7687BFBBC9091E1B5D"><enum>(A)</enum><header>Pre-existing relationship</header><text>Each purchaser has a substantive pre-existing relationship with an officer of the issuer, a director of the issuer, or a shareholder holding 10 percent or more of the shares of the issuer.</text>
+ </subparagraph><subparagraph id="H23AF3CEDC710475888FB770AF19713FB"><enum>(B)</enum><header>35 or fewer purchasers</header><text>There are no more than, or the issuer reasonably believes that there are no more than, 35 purchasers of securities from the issuer that are sold in reliance on the exemption provided under subsection (a)(8) during the 12-month period preceding such transaction.</text>
+ </subparagraph><subparagraph id="H57D3FF42860A402A841F8CA918416D6C"><enum>(C)</enum><header>Small offering amount</header><text>The aggregate amount of all securities sold by the issuer, including any amount sold in reliance on the exemption provided under subsection (a)(8), during the 12-month period preceding such transaction, does not exceed $500,000.</text>
+								</subparagraph></paragraph><paragraph id="H173455BAAB084E14851466831F56666D"><enum>(2)</enum><header>Disqualification</header>
+ <subparagraph id="H60FAE8CAC5FB4E1A9ACD9F3EF3349B07"><enum>(A)</enum><header>In general</header><text>The exemption provided under subsection (a)(8) shall not be available for a transaction involving a sale of securities if any person described in subparagraph (B) would have triggered disqualification pursuant to section 230.506(d) of title 17, Code of Federal Regulations.</text>
+ </subparagraph><subparagraph id="H3FD47C83B4474361ADFB6D6451D77ABD"><enum>(B)</enum><header>Persons described</header><text>The persons described in this subparagraph are the following:</text> <clause id="HF670B6D94229483CA6740702CBE8565E"><enum>(i)</enum><text>The issuer.</text>
+ </clause><clause id="H5A220EFFB74C44E7B5CFB62033E6A2A4"><enum>(ii)</enum><text>Any predecessor of the issuer.</text> </clause><clause id="HA085CF408FF74C8C9B65571C1D8078B6"><enum>(iii)</enum><text>Any affiliated issuer.</text>
+ </clause><clause id="HBD176DF51A3240DABD409571CDBEA831"><enum>(iv)</enum><text>Any director, executive officer, other officer participating in the offering, general partner, or managing member of the issuer.</text>
+ </clause><clause id="HE7C1177D86414EFC9CFBAABB4F069026"><enum>(v)</enum><text>Any beneficial owner of 20 percent or more of the issuer’s outstanding voting equity securities, calculated on the basis of voting power.</text>
+ </clause><clause id="HA5B8B6B8165F4CFDB3297ED4178E7096"><enum>(vi)</enum><text>Any promoter connected with the issuer in any capacity at the time of such sale.</text> </clause><clause id="H161BA00F11B14760B17EFEE14D796315"><enum>(vii)</enum><text>Any investment manager of an issuer that is a pooled investment fund.</text>
+ </clause><clause id="HEC012EC007A74003AA19CF663774A000"><enum>(viii)</enum><text>Any person that has been or will be paid (directly or indirectly) remuneration for solicitation of purchasers in connection with such sale of securities.</text>
+ </clause><clause id="H9DF5A983E3954B8C998355E430D6952B"><enum>(ix)</enum><text>Any general partner or managing member of any such investment manager or solicitor.</text> </clause><clause id="H54BE530C207748019B4197B54EB83B3C"><enum>(x)</enum><text>Any director, executive officer, or other officer participating in the offering of any such investment manager or solicitor or general partner or managing member of such investment manager or solicitor.</text></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H3D0CBC04BB174B0ABCCC46D55B381482"><enum>(b)</enum><header>Exemption under State regulations</header><text display-inline="yes-display-inline">Section 18(b)(4) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77r">15 U.S.C. 77r(b)(4)</external-xref>) is amended—</text> <paragraph id="H48EEFFCF8F83451FB7990D2E30FB12A6"><enum>(1)</enum><text>in subparagraph (F), by striking <quote>or</quote> at the end;</text>
+ </paragraph><paragraph id="H82983A0C82B846698FCD86E022B21E68"><enum>(2)</enum><text>in subparagraph (G), by striking the period and inserting <quote>; or</quote>; and</text> </paragraph><paragraph id="H823B96018AFB4039AC1C7B27797CB6A3"><enum>(3)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H4889B937D075444ABA7B76E7562D12B9" style="OLC">
+ <subparagraph id="HFC9E438E9DC44EA1A1B869BD94E7338E"><enum>(H)</enum><text display-inline="yes-display-inline">section 4(a)(8).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection></section></legis-body> <attestation><attestation-group><attestation-date chamber="House" date="20171109">Passed the House of Representatives November 9, 2017.</attestation-date><attestor display="yes">Karen L. Haas,</attestor><role>Clerk.</role></attestation-group></attestation> </bill> 
+

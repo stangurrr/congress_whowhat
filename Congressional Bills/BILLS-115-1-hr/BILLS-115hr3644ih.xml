@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA4160D21BB4B4DCA8D2E57CC0430E0BE" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3644 IH: Drone Operator Safety Act of 2017</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 3644</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action display="yes">
+			<action-date date="20170804">August 4, 2017</action-date>
+			<action-desc><sponsor name-id="L000559">Mr. Langevin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend title 18, United States Code, to provide for the punishment of unsafe operation of
+			 unmanned aircraft, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H41D18C4705A148A880B84AF2CAC8B5D8" style="OLC">
+ <section id="H7C6D9CABF7954FD69C516C45B2430B36" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Drone Operator Safety Act of 2017</short-title></quote>.</text> </section><section id="HA2F470E6A66049FAB8116F3D463B8837"><enum>2.</enum><header>Unsafe operation of unmanned aircraft</header> <subsection id="HE25CDB2BF01A40D0B723EC57850259F4"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/2">Chapter 2</external-xref> of title 18, United States Code, is amended—</text>
+ <paragraph id="H112E5577601A4D50A47789CEE9F1BCB0"><enum>(1)</enum><text>in section 31—</text> <subparagraph id="H22FFC9C7A99C453481F70C97D6743520"><enum>(A)</enum><text>in subsection (a)—</text>
+ <clause id="H0F5DDBF26ED44550B38360A0DB6C333E"><enum>(i)</enum><text>by redesignating paragraph (10) as paragraph (11); and</text> </clause><clause id="HB59AA51E282D48C6BD7506069DD19326"><enum>(ii)</enum><text>by inserting after paragraph (9) the following:</text>
+							<quoted-block id="HFF67F676EB284FB480FA84B94A60AFC4" style="OLC">
+ <paragraph id="HA410CAA0C751457097C4877B47183152"><enum>(10)</enum><header>Unmanned aircraft</header><text display-inline="yes-display-inline">The term <quote>unmanned aircraft</quote> has the meaning given that term in section 331 of the FAA Modernization and Reform Act of 2012 (<external-xref legal-doc="public-law" parsable-cite="pl/112/95">Public Law 112–95</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/49/40101">49 U.S.C. 40101</external-xref> note).</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </clause></subparagraph><subparagraph id="HE0E3F3ED220A4D52B6B2388696D38538"><enum>(B)</enum><text>in subsection (b), by inserting <quote><quote>airport</quote>,</quote> before <quote><quote>appliance</quote>,</quote>; and</text> </subparagraph></paragraph><paragraph id="HDCCA0DA4B1144DC6BE4D4C265522BA9C"><enum>(2)</enum><text>by inserting after section 39A the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HE602B901B9A5408F900583415720D2EB" style="USC">
+						<section id="H6D0C5863612D48B19250BDEBB881389C"><enum>39B.</enum><header>Unsafe operation of unmanned aircraft</header>
+ <subsection id="H3909A150FBA84D938D7122148876B479"><enum>(a)</enum><header>Offense</header><text display-inline="yes-display-inline">It shall be unlawful to operate an unmanned aircraft and, in so doing, knowingly or recklessly interfering with, or disrupting the operation of, an aircraft or other airborne vehicle carrying one or more occupants operating in the special aircraft jurisdiction of the United States, in a manner that poses an imminent safety hazard to such occupants.</text>
+							</subsection><subsection id="HF0BCBD9962DD471A98D9C20B3A2DB232"><enum>(b)</enum><header>Penalty</header>
+ <paragraph id="HC8E86C1F957A4C0AA8C8C0CCE92FF9F3"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), a person who violates subsection (a) shall be fined under this title, imprisoned for not more than 1 year, or both.</text>
+ </paragraph><paragraph id="HD7F87220A8FE4DC8B75CAF9B1A880A51"><enum>(2)</enum><header>Serious bodily injury or death</header><text>Any person who attempts to cause, or knowingly or recklessly causes, serious bodily injury or death while violating subsection (a) shall be fined under this title, imprisoned for any term of years or for life, or both.</text>
+								</paragraph></subsection><subsection id="H1022CDD7C260404295BB5DE76BE346C9"><enum>(c)</enum><header>Operation of unmanned aircraft in close proximity to airports</header>
+ <paragraph id="HBE59EA45136E4BF190FABD54FCA0992F"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The operation of an unmanned aircraft, including an operation covered by section 336 of the FAA Modernization and Reform Act of 2012 (<external-xref legal-doc="public-law" parsable-cite="pl/112/95">Public Law 112–95</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/49/40101">49 U.S.C. 40101</external-xref> note), within a runway exclusion zone shall be considered a violation of subsection (a) unless—</text>
+ <subparagraph id="H5094AC46F14F4DC8A4564A9356715F64"><enum>(A)</enum><text display-inline="yes-display-inline">the operation of the unmanned aircraft received prior authorization for the operation from the air traffic control tower at the airport; or</text>
+ </subparagraph><subparagraph id="HCA62D82EC1054817A4C8F06562C199CA"><enum>(B)</enum><text>the operation is the result of a circumstance, such as a malfunction, that could not have been reasonably foreseen or prevented by the operator.</text>
+ </subparagraph></paragraph><paragraph id="HEC02CEA279504EF999A2C4B117A15D91"><enum>(2)</enum><header>Runway exclusion zone defined</header><text>In this subsection, the term <quote>runway exclusion zone</quote> means a rectangular area—</text> <subparagraph id="H93F3EB7BBA094B0788CD099F668BF6A2"><enum>(A)</enum><text>centered on the centerline of a runway of an airport; and</text>
+ </subparagraph><subparagraph id="HE3BF0D21519B473DB1276136B229BB34"><enum>(B)</enum><text>the length of which extends parallel to the runway’s centerline to points that are 1 statute mile from each end of the runway and the width of which is ½ statute mile.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H0E91351B986843388AE1A6AE64CFAFED"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/2">chapter 2</external-xref> of title 18, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/18/39A">section 39A</external-xref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HE430C208EEC942BE9C78D6A55E4AF237" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">39B. Unsafe operation of unmanned aircraft.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>
+
+

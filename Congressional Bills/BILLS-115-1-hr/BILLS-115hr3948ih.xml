@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5707A761C59E4087A24DAB64BB60BB2A" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3948 IH: Protection of Source Code Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-10-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3948</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20171004">October 4, 2017</action-date><action-desc><sponsor name-id="D000614">Mr. Duffy</sponsor> (for himself, <cosponsor name-id="S001157">Mr. David Scott of Georgia</cosponsor>, and <cosponsor name-id="H001059">Mr. Hultgren</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Securities and Exchange Commission from compelling a person to produce or furnish
+			 algorithmic trading source code or similar intellectual property to the
+			 Commission unless the Commission first issues a subpoena, and for other
+			 purposes.</official-title></form>
+	<legis-body id="HEC57EBC38C4842CB9E2EBC66E4716DF3" style="OLC">
+ <section id="H04CB0B02592B415C9D348CBCB8A09F2E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protection of Source Code Act</short-title></quote>.</text> </section><section id="H1DB0A69AEF03490097FF35A64BA7BF53" section-type="subsequent-section"><enum>2.</enum><header>Procedure for obtaining certain intellectual property</header> <subsection id="H2D2EC8635B444BFEAB66428D8609F9AE"><enum>(a)</enum><header>Persons under Securities Act of 1933</header><text>Section 8 of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77h">15 U.S.C. 77h</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H2973F9B2FA1A4B3EBC9785938B370875" style="OLC">
+ <subsection id="HC6B505E0E00044539F6C7E070DA4C377"><enum>(g)</enum><header>Procedure for obtaining certain intellectual property</header><text display-inline="yes-display-inline">The Commission is not authorized to compel under this title a person to produce or furnish source code, including algorithmic trading source code or similar intellectual property that forms the basis for design of or provides insight to the source code, to the Commission unless the Commission first issues a subpoena.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H1E3A914C49B1496D95D879371C31CB2D"><enum>(b)</enum><header>Persons under the Securities Exchange Act of 1934</header><text display-inline="yes-display-inline">Section 23 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78w">15 U.S.C. 78w</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H437CAAEDA408455EA2ED853A36820CAD" style="OLC">
+ <subsection id="H64C08DF92ABD42A5B1A900B8F131B335"><enum>(e)</enum><header>Procedure for obtaining certain intellectual property</header><text display-inline="yes-display-inline">The Commission is not authorized to compel under this title a person to produce or furnish source code, including algorithmic trading source code or similar intellectual property that forms the basis for design of or provides insight to the source code, to the Commission unless the Commission first issues a subpoena.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H84A9315999594A68A3CD0568DF339F55"><enum>(c)</enum><header>Investment Companies</header><text display-inline="yes-display-inline">Section 31 of the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-30">15 U.S.C. 80a–30</external-xref>) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HBFEEEDDFCDB945898DC5989D480ABEB5" style="OLC">
+ <subsection id="H6C7F47D9F66645269D6F920CCAFBB525"><enum>(e)</enum><header>Procedure for obtaining certain intellectual property</header><text display-inline="yes-display-inline">The Commission is not authorized to compel under this title an investment company to produce or furnish source code, including algorithmic trading source code or similar intellectual property that forms the basis for design of or provides insight to the source code, to the Commission unless the Commission first issues a subpoena.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HF9EFF7F147314B659E16EB065D685295"><enum>(d)</enum><header>Investment Advisers</header><text display-inline="yes-display-inline">Section 204 of the Investment Advisers Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-4">15 U.S.C. 80b–4</external-xref>) is amended—</text> <paragraph id="HDFE8BFB2C0064725968627649CB0E59F"><enum>(1)</enum><text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H2528EE98CD6044B585AA561C82647BC8" style="OLC">
+ <subsection id="H27F5080DA46B4E958ED26EAC69D5F7CA"><enum>(f)</enum><header>Procedure for obtaining certain intellectual property</header><text display-inline="yes-display-inline">The Commission is not authorized to compel under this title an investment adviser to produce or furnish source code, including algorithmic trading source code or similar intellectual property that forms the basis for design of or provides insight to the source code, to the Commission unless the Commission first issues a subpoena.</text></subsection><after-quoted-block>; and</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HFEE6E663541A4F8F8C36B6E303268267"><enum>(2)</enum><text display-inline="yes-display-inline">in the second subsection (d), by striking <quote>(d)</quote> and inserting <quote>(e)</quote>.</text> </paragraph></subsection></section></legis-body></bill> 
+

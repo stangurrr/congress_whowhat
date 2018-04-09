@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3CE74C425B334A489F5073EE7BA8A386" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 4162 IH: Pell Grant Modernization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-10-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4162</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20171027">October 27, 2017</action-date><action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> (for himself and <cosponsor name-id="G000580">Mr. Garrett</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to adjust the period of eligibility for Federal Pell
+			 Grants, and for other purposes.</official-title></form>
+	<legis-body id="HD4E7C5717FD644C78B69AFD82046A31D" style="OLC">
+ <section id="HE9FFF7D63E5B4456B458E3B1CA7ABD07" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pell Grant Modernization Act</short-title></quote>.</text> </section><section id="H46E063DB3D624364AA7C3F999C71C76E"><enum>2.</enum><header>Eligibility for Federal Pell Grants</header> <subsection id="H4422179CF4834A7593F0C4B310F8BAA6"><enum>(a)</enum><header>10-Semester period of eligibility</header><text display-inline="yes-display-inline">Section 401(c)(5) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1070a">20 U.S.C. 1070a(c)(5)</external-xref>) is amended by striking <quote>12 semesters</quote> both places it appears and inserting <quote>10 semesters</quote>.</text>
+ </subsection><subsection id="H2B9C70730B0A4FEF80DAE6CCC11ED702"><enum>(b)</enum><header>Full-Time student</header><text display-inline="yes-display-inline">Subparagraph (A) of section 481(a)(2) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1088">20 U.S.C. 1088(a)(2)</external-xref>) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="H6D200F00FA3947E2B0B3977A137D8AE8" style="OLC">
+					<paragraph display-inline="no-display-inline" id="H258A247A5F164AB2B1C5035BA8DE5BDC"><enum>(2)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="HBBE294C9D516461BB64AF803E5F7B889"><enum>(A)</enum><text display-inline="yes-display-inline">For the purpose of any program under this title, the term academic year shall—</text> <clause id="HDD34CA19CD05436B8443FE2B7BC49A2E" indent="up1"><enum>(i)</enum><text>require—</text>
+ <subclause id="H7FB7866A92834A55B49F1F1620347A07"><enum>(I)</enum><text display-inline="yes-display-inline">a minimum of 30 weeks of instructional time for a course of study that measures its program length in credit hours; or</text>
+ </subclause><subclause id="HFEC1C1AA16AB42E48B663F1DE10113F5"><enum>(II)</enum><text display-inline="yes-display-inline">a minimum of 26 weeks of instructional time for a course of study that measures its program length in clock hours;</text>
+ </subclause></clause><clause id="H9D78D1EAABD744C98F499E1F217BC058" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">require an undergraduate course of study to contain an amount of instructional time whereby a full-time student is expected to complete at least—</text>
+ <subclause id="H7985EA52CDCA4C63BD6984130956C05D"><enum>(I)</enum><text>30 semester or trimester hours or 45 quarter credit hours in a course of study that measures its program length in credit hours; or</text>
+ </subclause><subclause id="H25126180C3DA446DB060AE1917AD0F6F"><enum>(II)</enum><text display-inline="yes-display-inline">1,125 clock hours in a course of study that measures its program length in clock hours;</text> </subclause></clause><clause id="H4BE1816CA5B94563850CA40E602DA860" indent="up1"><enum>(iii)</enum><text>require an undergraduate course of study to contain an amount of instructional time whereby a <fraction>3/4</fraction>-time student is expected to complete at least—</text>
+ <subclause id="HCC5A7A6D658E403C8A6D386CE0A50B7C"><enum>(I)</enum><text>22 semester or trimester hours or 33 credit hours in a course of study that measures its program length in credit hours; or</text>
+ </subclause><subclause id="H8162038ED1EB48BBB2FFEDDC4B5C6905"><enum>(II)</enum><text>825 clock hours in a course of study that measures its program length in clock hours;</text> </subclause></clause><clause id="H29374F16608F4F2DB931158AA5FB629A" indent="up1"><enum>(iv)</enum><text>require an undergraduate course of study to contain an amount of instructional time whereby a <fraction>1/2</fraction>-time student is expected to complete at least—</text>
+ <subclause id="HCF700858F01E40319781995E6B52DCED"><enum>(I)</enum><text>14 semester or trimester hours or 21 credit hours in a course of study that measures its program length in credit hours; or</text>
+ </subclause><subclause id="H609380D20F7C4C3794E3ABFBA95A1E71"><enum>(II)</enum><text>525 clock hours in a course of study that measures its program length in clock hours; and</text> </subclause></clause><clause id="H478C4D24155C4E6BAFA4A735D42F8452" indent="up1"><enum>(v)</enum><text>require an undergraduate course of study to contain an amount of instructional time whereby a less than <fraction>1/2</fraction>-time student is expected to complete less than—</text>
+ <subclause id="H234CC376EB2644B894FFAD052D9FAF17"><enum>(I)</enum><text>14 semester or trimester hours or 21 credit hours in a course of study that measures its program length in credit hours; or</text>
+ </subclause><subclause id="H2BFB62907FC941D2AD87E00AEDC5F782"><enum>(II)</enum><text>525 clock hours in a course of study that measures its program in clock hours.</text></subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="HBCCCBA3F98FA4C16988FBA96972F9A2F"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall take effect on July 1, 2018.</text>
+			</subsection></section></legis-body></bill>
+
+

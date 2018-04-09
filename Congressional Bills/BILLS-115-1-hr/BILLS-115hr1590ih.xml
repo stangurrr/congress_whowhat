@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7E73856079F04BBCAC5AFFCCC5A636C2" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 1590 IH: Communicating Lender Activity Reports from the Small Business Administration Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-03-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1590</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20170316">March 16, 2017</action-date><action-desc><sponsor name-id="T000474">Mrs. Torres</sponsor> (for herself, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="S001200">Mr. Soto</cosponsor>, <cosponsor name-id="S001193">Mr. Swalwell of California</cosponsor>, and <cosponsor name-id="C001072">Mr. Carson of Indiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Small Business Administration to make information relating to lenders making covered
+			 loans publicly available, and for other purposes.</official-title></form>
+	<legis-body id="HF81DC0203E7E436CADCA7E7CADB76CC9" style="OLC">
+ <section id="H365EF9B8DA6F4996BF48C979D93D5BF3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Communicating Lender Activity Reports from the Small Business Administration Act</short-title></quote> or the <quote><short-title>CLEAR SBA Act</short-title></quote>.</text> </section><section id="HDD4A2C1616AC42DD88A0155753C1A9CA"><enum>2.</enum><header>SBA lender activity index</header><text display-inline="no-display-inline">Section 4 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/633">15 U.S.C. 633</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H4023E80A75CB46759C14A34FA588DF93" style="OLC">
+				<subsection id="H1CA902F515764169ADF5079AC7FECACA"><enum>(i)</enum><header>SBA lender activity index</header>
+ <paragraph id="HA19BB360FE5F458AA090DC1BBFD36EDC"><enum>(1)</enum><header>Definition</header><text>In this subsection, the term <term>covered loan</term> means a loan made or debenture issued under this Act or the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/661">15 U.S.C. 661</external-xref> et seq.) by a private individual or entity.</text>
+ </paragraph><paragraph id="H456445C4DF19406987D46C5BA269FEF6"><enum>(2)</enum><header>Requirement</header><text>Not later than 6 months after the date of enactment of this subsection, the Administrator shall make publicly available on the Web site of the Administration a user-friendly database of information relating to lenders making covered loans (to be known as the <quote>Lender Activity Index</quote>).</text>
+					</paragraph><paragraph id="HE1939B66CBDD455B99FD11CCF4530F0B"><enum>(3)</enum><header>Data included</header>
+ <subparagraph id="H84368F093E2B4BDAB5F7B70DD66A75F7"><enum>(A)</enum><header>In general</header><text>The database made available under paragraph (2) shall include, for each lender making a covered loan—</text>
+ <clause id="HA8BDC99A91D843C38F312229D2EC9C8A"><enum>(i)</enum><text>the name of the lender;</text> </clause><clause id="H1514FF3698334FBC81EA2BF4797CBC34"><enum>(ii)</enum><text>the number of covered loans made by the lender;</text>
+ </clause><clause id="HE947A9308C094E09A6BF1A9C00B58EC5"><enum>(iii)</enum><text>the total dollar amount of covered loans made by the lender;</text> </clause><clause id="H54697061572C4A5B9B1E3134443F5901"><enum>(iv)</enum><text>a list of each ZIP Code in which a recipient of a covered loan made by the lender is located;</text>
+ </clause><clause id="HD526778B5B61477889D2014EE17A0596"><enum>(v)</enum><text>a list of the industries of the recipients to which the lender made a covered loan;</text> </clause><clause commented="no" id="H4E28FA6373314AE7BE2E63086E34CDC0"><enum>(vi)</enum><text>whether the covered loan is for an existing business or a new business;</text>
+ </clause><clause id="HDA901331A5294811BECC6DA65305484F"><enum>(vii)</enum><text>the number and total dollar amount of covered loans made by the lender to—</text> <subclause id="HC513436FDBC641F494FCC7FAC8334874"><enum>(I)</enum><text>small business concerns owned and controlled by women;</text>
+ </subclause><subclause id="H918C6217FBCA4915820C06EEB1E6ED5B"><enum>(II)</enum><text>socially and economically disadvantaged small business concerns (as defined in section 8(a)(4)(A)); and</text>
+ </subclause><subclause id="H8063ED529AF64FE997547F0FDCF57735"><enum>(III)</enum><text>small business concerns owned and controlled by veterans; and</text> </subclause></clause><clause id="H9A74DA8D4F5E45BCA787EA7AF13BFC34"><enum>(viii)</enum><text>whether the covered loan was made under section 7(a) or under the program to provide financing to small business concerns through guarantees of loans under title V of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/695">15 U.S.C. 695</external-xref> et seq.).</text>
+ </clause></subparagraph><subparagraph id="HF0E3FE11D1D34F0EB8D189606FBE9F89"><enum>(B)</enum><header>Incorporation of data</header><text>The Administrator shall—</text> <clause id="H1EA043F61FD74F7991B55FD02D55C299"><enum>(i)</enum><text>include in the database made available under paragraph (2) information relating to covered loans made during fiscal years 2009, 2010, 2011, 2012, 2013, 2014, 2015, and 2016; and</text>
+ </clause><clause id="H619918ECB03E4373BA712FDF9E2EE35C"><enum>(ii)</enum><text>incorporate information relating to covered loans on an ongoing basis.</text> </clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H97C6A3BD475A49B6B19AEE8637DE17D0"><enum>(C)</enum><header>Period of data availability</header><text>The Administrator shall retain information relating to a covered loan in the database made available under paragraph (2) until not earlier than the end of the third fiscal year beginning after the fiscal year during which the covered loan was made.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body></bill>
+
+

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0EA7A01CE6C74579BC93DE641CA6A7D9" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 2195 IH: OSC Access Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-04-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2195</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20170427">April 27, 2017</action-date><action-desc><sponsor name-id="B001294">Mr. Blum</sponsor> (for himself, <cosponsor name-id="C001076">Mr. Chaffetz</cosponsor>, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="R000602">Miss Rice of New York</cosponsor>, <cosponsor name-id="C001077">Mr. Coffman</cosponsor>, and <cosponsor name-id="S001175">Ms. Speier</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 5, United States Code, to provide for access of the Special Counsel to certain
+			 information.</official-title></form>
+	<legis-body id="H0F6D99A9AA824CE09D2931077F7F9B64" style="OLC">
+ <section id="HAF893C320AE44E8BADF80018A96CEE05" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>OSC Access Act</short-title></quote>.</text> </section><section id="HA5204018757A42CE8EDCBF089D65A1E5"><enum>2.</enum><header>Adequate access of Special Counsel to information</header><text display-inline="no-display-inline">Section 1212(b) of title 5, United States Code, is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HC588C0C7DD0249A5BB464E04D3BEC601" style="OLC">
+				<paragraph id="HD6533D6CEFF84B4A892CF087692F8CC6" indent="up1"><enum>(5)</enum>
+ <subparagraph commented="no" display-inline="yes-display-inline" id="HF6A8184C485A4F7F897CE91B813CCAF4"><enum>(A)</enum><text>Except as provided in subparagraph (B), the Special Counsel, in carrying out this subchapter, is authorized to—</text>
+ <clause id="HFAB47678661F4AEF9F8943D347114067" indent="up1"><enum>(i)</enum><text>have timely access to all records, data, reports, audits, reviews, documents, papers, recommendations, or other material available to the applicable agency that relate to an investigation, review, or inquiry conducted under—</text>
+ <subclause id="HDD57F068B9BD4CB58011BCDB67503DD6"><enum>(I)</enum><text>section 1213, 1214, 1215, or 1216 of this title; or</text> </subclause><subclause id="H64A02AB54ADA4AEA90808C11B895E5EE"><enum>(II)</enum><text>section 4324(a) of title 38;</text>
+ </subclause></clause><clause id="H37BD9D0BACF2407FBD6284645BB745D2" indent="up1"><enum>(ii)</enum><text>request from any agency the information or assistance that may be necessary for the Special Counsel to carry out the duties and responsibilities of the Special Counsel under this subchapter; and</text>
+ </clause><clause id="H1A394C9534B94A7D9FF19E8B89326B06" indent="up1"><enum>(iii)</enum><text>require, during an investigation, review, or inquiry of an agency, the agency to provide to the Special Counsel any record or other information that relates to an investigation, review, or inquiry conducted under—</text>
+ <subclause id="HCBDD52228F734DCFA3EC5D7B6322FADB"><enum>(I)</enum><text>section 1213, 1214, 1215, or 1216 of this title; or</text> </subclause><subclause id="H69378E1722F74C18860F8B689452742E"><enum>(II)</enum><text>section 4324(a) of title 38.</text>
+							</subclause></clause></subparagraph><subparagraph id="H916AFDACA61542ADA7C2546DFFBB649D" indent="up1"><enum>(B)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="HBFEF1172540343DC913E378B2161F547"><enum>(i)</enum><text display-inline="yes-display-inline">The authorization of the Special Counsel under subparagraph (A) shall not apply with respect to any entity listed in section 2302(a)(2)(C) (ii) or (iii) unless the Special Counsel is investigating, or otherwise carrying out activities relating to the enforcement of, an action under subchapter III of chapter 73.</text>
+ </clause><clause id="H439C0F27C2904D0297F79F68B355693D" indent="up1"><enum>(ii)</enum><text>The Attorney General or an Inspector General may withhold from the Special Counsel material described in subparagraph (A) if—</text>
+ <subclause id="H9DC22C2035CA4B778925C72D82B1717D"><enum>(I)</enum><text>disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material; and</text>
+ </subclause><subclause id="HE3AAFD6189224C22B01F716FF6298F31"><enum>(II)</enum><text>the Attorney General or the Inspector General, as applicable, submits to the Special Counsel a written report that describes—</text>
+ <item id="H0BE761AEFCAC4C69AE2EBB46B7AF9C67"><enum>(aa)</enum><text>the material being withheld; and</text> </item><item id="HE3E34F3D84F74EF28C2B566FA633842C"><enum>(bb)</enum><text>the reason that the material is being withheld.</text>
+								</item></subclause></clause></subparagraph><subparagraph id="H1B7ACEB73F61459DB9BAB6652647CBBB" indent="up1"><enum>(C)</enum>
+ <clause commented="no" display-inline="yes-display-inline" id="HF6D209FE0C854CF0B9E07FB01BDDAEE7"><enum>(i)</enum><text>A claim of common law privilege by an agency, or an officer or employee of an agency, shall not prevent the Special Counsel from obtaining any material described in subparagraph (A) with respect to the agency.</text>
+ </clause><clause id="H515BD6E520824E7A9C494B22066F592B" indent="up1"><enum>(ii)</enum><text>The submission of material described in subparagraph (A) by an agency to the Special Counsel may not be deemed to waive any assertion of privilege by the agency against a non-Federal entity or against an individual in any other proceeding.</text>
+ </clause><clause id="H98B59FF394AB4E0685A914EFF968E8E6" indent="up1"><enum>(iii)</enum><text>With respect to any record or other information made available to the Special Counsel by an agency under subparagraph (A), the Special Counsel may only disclose the record or information for a purpose that is in furtherance of any authority provided to the Special Counsel in this subchapter.</text>
+ </clause></subparagraph></paragraph><paragraph id="HAA3584B720E84A50877485C5914DA5B8" indent="up1"><enum>(6)</enum><text>The Special Counsel shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and each committee of Congress with jurisdiction over the applicable agency a report regarding any case of contumacy or failure to comply with a request submitted by the Special Counsel under paragraph (5)(A).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body></bill>
+
+

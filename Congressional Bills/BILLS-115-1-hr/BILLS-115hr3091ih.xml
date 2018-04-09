@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5266DAD5E9594A36B7A6BB60E20D06DB" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3091 IH: Voter Roll Integrity Act of 2017</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-06-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 3091</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action display="yes">
+			<action-date date="20170628">June 28, 2017</action-date>
+			<action-desc><sponsor name-id="P000607">Mr. Pocan</sponsor> (for himself and <cosponsor name-id="C000714">Mr. Conyers</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the National Voter Registration Act of 1993 to limit the authority of State election
+			 officials to remove registrants from the official list of eligible voters
+			 in elections for Federal office in the State on the basis of interstate
+			 cross-checks, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HA7DAC19AED7E45498F521721A480D01C" style="OLC">
+ <section id="H04077B0759E44769968AB8CD4AE22872" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Voter Roll Integrity Act of 2017</short-title></quote>.</text> </section><section id="HCA8224BDE3D941F995F4B709262EF100"><enum>2.</enum><header>Conditions on removal of registrants from official list of eligible voters on basis of interstate cross-checks</header> <subsection id="H1151D354012F4429B5768D42F9A6500C"><enum>(a)</enum><header>Minimum information required for removal under cross-Check</header><text display-inline="yes-display-inline">Section 8(c)(2) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(c)(2)</external-xref>) is amended—</text>
+ <paragraph id="H87893E78559C4E71A95AD0E1D2AB93EC"><enum>(1)</enum><text>by redesignating subparagraph (B) as subparagraph (F); and</text> </paragraph><paragraph id="H3DDA620EF0CD42EFB9AFBADD7BCEEF67"><enum>(2)</enum><text>by inserting after subparagraph (A) the following new subparagraphs:</text>
+					<quoted-block display-inline="no-display-inline" id="H5E0047376E5246CD898DE303D3722FD9" style="traditional">
+ <subparagraph id="H94F3100D3E874FE8B4F7A5C1FC5E5C42" indent="up2"><enum>(B)</enum><text>To the extent that the program carried out by a State under subparagraph (A) to systematically remove the names of ineligible voters from the official lists of eligible voters uses information obtained in an interstate cross-check, the State may not remove the name of the voter from such a list unless—</text>
+ <clause id="HFBF573EB166E440DBFD2D664E56F580D"><enum>(i)</enum><text>the State obtained the voter’s full name (including the voter’s middle name, if any) and date of birth, and the last 4 digits of the voter’s social security number, in the interstate cross-check; or</text>
+ </clause><clause id="H8242CE3ED6D04DF9AC6C2092E06EF740"><enum>(ii)</enum><text>the State obtained documentation from the ERIC system that the voter is no longer a resident of the State.</text>
+ </clause></subparagraph><subparagraph id="HA7236E36671C4CA6A6F8D1019136BA4F" indent="up2"><enum>(C)</enum><text display-inline="yes-display-inline">Prior to removing the name of a voter from the official lists of eligible voters on the basis of information obtained in an interstate cross-check, the State shall transmit a notification to the voter that the voter is to be removed from the list on the basis of such information, and shall include in the notification the identification of the State from which the information was obtained.</text>
+ </subparagraph><subparagraph id="H5C2EEB1C6EED4F6FBCBB324F4D0BC0E5" indent="up2"><enum>(D)</enum><text>The State shall ensure that any personally-identifiable information relating to a voter that is obtained in an interstate cross-check is secured and maintained in a manner that does not permit any person other than the appropriate State election official to determine the identity of the voter.</text>
+ </subparagraph><subparagraph id="HE0D21D23BE7940E1AD893153CEAB4BDD" indent="up2"><enum>(E)</enum><text>In this paragraph—</text> <clause id="HFB84DC32E9EE4DA586FFB08E43D3B6B6"><enum>(i)</enum><text display-inline="yes-display-inline">the term <term>interstate cross-check</term> means the transmission of information from an election official in one State to an election official of another State; and</text>
+ </clause><clause id="H3D47A6A5672E49D69813A4DD3449F901"><enum>(ii)</enum><text>the term <term>ERIC system</term> means the system operated by the Electronic Registration Information Center to share voter registration information and voter identification information among participating States.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+ </paragraph></subsection><subsection id="H875988754F9B4A3097FD4D12B5F7FF70"><enum>(b)</enum><header>Requiring completion of cross-Checks not later than 6 months prior to election</header><text>Subparagraph (A) of section 8(c)(2) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(c)(2)</external-xref>) is amended by striking <quote>not later than 90 days</quote> and inserting the following: <quote>not later than 90 days (or, in the case of a program in which the State uses interstate cross-checks, not later than 6 months)</quote>.</text>
+ </subsection><subsection id="H99156884F6824DC4B5A7C52FD23C9A01"><enum>(c)</enum><header>Conforming amendment</header><text>Subparagraph (F) of section 8(c)(2) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(c)(2)</external-xref>) is amended by striking <quote>Subparagraph (A)</quote> and inserting <quote>This paragraph</quote>.</text> </subsection><subsection id="H57C004810C7345C399766B3AA3291143"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this Act shall apply with respect to elections held on or after the expiration of the 6-month period which begins on the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA14DED9EEF50473BBCB7F649D36FC759" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 4191 IH: HHS Cybersecurity Modernization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-10-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4191</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20171031">October 31, 2017</action-date><action-desc><sponsor name-id="L000576">Mr. Long</sponsor> (for himself and <cosponsor name-id="M001163">Ms. Matsui</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Public Health Service Act to authorize the Secretary of Health and Human Services to
+			 designate an officer within the Department of Health and Human Services as
+			 having primary responsibility for the information security (including
+			 cybersecurity) programs of the Department, and for other purposes.</official-title></form>
+	<legis-body id="H62103EC484C5431BB6A0EFD4037A40BB" style="OLC">
+ <section id="HF167572258734AD7AF5BBDE2D4B964B8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>HHS Cybersecurity Modernization Act</short-title></quote>.</text> </section><section id="H2C552B71CD8140378DD3EE97298D3E07"><enum>2.</enum><header>Information security</header> <subsection id="H6684BB556EBB489596770D11E2B51951"><enum>(a)</enum><header>Authority To designate chief information security officer</header><text display-inline="yes-display-inline">Title II of the Public Health Service Act is amended by inserting after section 229 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/237a">42 U.S.C. 237a</external-xref>) the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H92AD20C98AAE4C69906597C02A30EFBA" style="OLC">
+ <section id="H488A438E52294EC1A7626E4234F0A7CA"><enum>229A.</enum><header>Authority to designate chief information security officer</header><text display-inline="no-display-inline">Notwithstanding any other provision of law—</text> <paragraph id="H51AF6923FB334E6BB2CFDF0BBE8BA7A1"><enum>(1)</enum><text>the Secretary may designate an officer within the Department as having primary responsibility for the information security (including cybersecurity) programs of the Department;</text>
+ </paragraph><paragraph id="H63AAF500C166443AB73A7CE3302E1705"><enum>(2)</enum><text>any such designated officer shall report directly to the Secretary or directly to another senior officer within the Department of the Secretary’s choosing; and</text>
+ </paragraph><paragraph id="HDB8F0D596F604717AAEFF249FD6D22E6"><enum>(3)</enum><text display-inline="yes-display-inline">the Secretary may transfer the functions, personnel, assets, and liabilities of the Chief Information Security Officer in the Office of the Chief Information Officer of the Department of Health and Human Services, as such position exists on September 30, 2017, to such designated officer.</text></paragraph></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H88A1ECD76930476991A391D089DF3060"><enum>(b)</enum><header>Report</header>
+ <paragraph id="H1377961D75CD491385D1C5369584C87E"><enum>(1)</enum><header>In general</header><text>Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services shall develop and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a plan on the role of the Department of Health and Human Services (in this subsection referred to as the <quote>Department</quote>) in preparing for and responding to cybersecurity threats.</text>
+ </paragraph><paragraph id="H0A05ABFA795040E3855271F519383553"><enum>(2)</enum><header>Contents</header><text>The plan under paragraph (1) shall—</text> <subparagraph id="H6ECA23B49F494E528447F239B263102E"><enum>(A)</enum><text>differentiate between—</text>
+ <clause id="HCEAD9E27DE0F48F1BA0F9110BA94E9BD"><enum>(i)</enum><text>the responsibilities of the Department overall and each of its agencies and offices in maintaining the security and integrity of their respective information systems; and</text>
+ </clause><clause id="H291E300E8806468CAEF6BDFA9DB423CF"><enum>(ii)</enum><text display-inline="yes-display-inline">the responsibilities of the Department overall and each of its agencies and offices in regulating and providing guidance, information, education, training, and assistance to the health care sector;</text>
+ </clause></subparagraph><subparagraph id="H51067850DDCE41138EBAC3AD33C01FA0"><enum>(B)</enum><text>specify how the Department overall and each of its agencies and offices delineates between the responsibilities described in subparagraph (A)(i) and those described in subparagraph (A)(ii) through organization, personnel, policies, and procedures;</text>
+ </subparagraph><subparagraph id="H9E9B2CC48A6E468A81A8C07C9351D8BD"><enum>(C)</enum><text display-inline="yes-display-inline">address the coordination of the responsibilities described in subparagraph (A)(i) and those described in subparagraph (A)(ii) across the agencies and offices of the Department;</text>
+ </subparagraph><subparagraph id="H09FEDCF7A86F4AB49996CC3E6A49AFDF"><enum>(D)</enum><text display-inline="yes-display-inline">address any types of conflicts that can arise (within the Department or the health care sector) because of the Department having both the responsibilities described in subparagraph (A)(i) and those described in subparagraph (A)(ii);</text>
+ </subparagraph><subparagraph id="H9A7AC22FBEC045CBB731EC160998D9FB"><enum>(E)</enum><text>differentiate between—</text> <clause id="H453AB4E1858840089CFC236DA62FFC80"><enum>(i)</enum><text>the role of the Department in regulating the health care sector; and</text>
+ </clause><clause id="HB15CCD93C71F4C57BA5BEF3CCAEC94EB"><enum>(ii)</enum><text>the role of the Department as a Sector-Specific Agency for the health care sector under Presidential Policy Directive 21 (signed on February 12, 2013); and</text>
+ </clause></subparagraph><subparagraph id="H14AFC5DA821B46DC936D7086AD88C4D6"><enum>(F)</enum><text display-inline="yes-display-inline">specify how the Department delineates between the role described in subparagraph (E)(i) and the role described in subparagraph (E)(ii) through organization, personnel, policies, and procedures.</text>
+ </subparagraph></paragraph></subsection><subsection id="H4D3CFB601B034D58B8A14FAAB2B3709D"><enum>(c)</enum><header>No additional appropriations authorized</header><text display-inline="yes-display-inline">No additional funds are authorized to be appropriated to carry out this Act, or the amendments made by this Act. This Act, and the amendments made by this Act, shall be carried out using amounts otherwise authorized or appropriated.</text>
+			</subsection></section></legis-body></bill>
+
+

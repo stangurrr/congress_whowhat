@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBDE5D5A1831D4895A6E5373D34207AA5" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3751 IH: PAPER Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-09-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3751</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20170912">September 12, 2017</action-date><action-desc><sponsor name-id="M001187">Mr. Meadows</sponsor> (for himself and <cosponsor name-id="L000559">Mr. Langevin</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name>, and in addition to the Permanent Select Committee on <committee-name committee-id="HIG00">Intelligence</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Help America Vote Act of 2002 to direct the Election Assistance Commission to develop
+			 best practices for States to use to protect the integrity of elections for
+			 Federal office, to make election technology improvement grants to States
+			 for adopting and applying such best practices in the administration of
+			 elections for Federal office, and for other purposes.</official-title></form>
+	<legis-body id="H277B36F7A92447EE9183CC0DF91ACDFA" style="OLC">
+ <section id="HA884862C44F64B6495FD4E61FF96588D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting the American Process for Election Results Act</short-title></quote> or the <quote>PAPER Act</quote>.</text> </section><section id="HF727A37ACE3D41DCB0AB32876E1FEF2E"><enum>2.</enum><header>Development of best practices for protecting integrity of Federal elections</header> <subsection id="H5AD008AC07204EBDA49F490C8CB7B070"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/20901">52 U.S.C. 20901</external-xref> et seq.) is amended by inserting after section 247 the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HAFE976E0CF384C26905B49CFC3FDE79A" style="OLC">
+					<section id="H847DB7DBB5B04886B4EA0E7DC1F761D5"><enum>248.</enum><header>Study and report on best practices for protecting the integrity of Federal elections and for
+			 storing and securing voter registration data</header>
+ <subsection id="H8587DEEAA39E4435A71FEAFDE20E30DA"><enum>(a)</enum><header>In general</header><text>The Commission, in consultation with the National Institute of Standards and Technology, the Secretary of the Department of Homeland Security, the Election Assistance Commission Standards Board, the Election Assistance Commission Board of Advisors, the Election Assistance Commission Technical Guidelines Development Committee, the National Association of Secretaries of State, the National Association of State Election Directors, the National Association of Election Officials, the International Association of Government Officials, the National Association of State Chief Information Officers, the Multi-State Information Sharing and Analysis Center, and other stakeholders the Commission determines necessary, shall conduct a study on each of the following:</text>
+ <paragraph id="H8410814AF6C94CDEBB917B6D98F08915"><enum>(1)</enum><text>Best practices for cybersecurity of Federal elections, including best practices for storing and securing voter registration data.</text>
+ </paragraph><paragraph id="H86353E77291049A0A84906AB14E78343"><enum>(2)</enum><text>Best practices for election audits, with the goal of ensuring that—</text> <subparagraph id="HB4C1126A8B0447EFB1CCE87A0874285F"><enum>(A)</enum><text>each vote cast in an election for Federal office is accompanied by a paper record of the vote that is visible to the voter and is retained by the appropriate election official for a period sufficient to conduct the audit described in subparagraph (B); and</text>
+ </subparagraph><subparagraph id="HBFA8DE8F351C475CA279943F9FDEEEF7"><enum>(B)</enum><text>prior to the certification of the results of any election for Federal office, appropriate election officials conduct a manual audit of a random sample of the paper records of the votes cast in the election, as described in subparagraph (A), that provides high statistical confidence in the results of the election.</text>
+ </subparagraph></paragraph></subsection><subsection id="HDE1E4D10DD6E4138AC9F88EEBEE91A44"><enum>(b)</enum><header>Public hearings</header><text>In conducting each of the studies under this section, the Commission shall hold public hearings.</text> </subsection><subsection id="H1D66A2E3E6714E63AC95BB032AB52622"><enum>(c)</enum><header>Issues considered</header> <paragraph id="H7857E47A01244A4699343993B393951B"><enum>(1)</enum><header>Cybersecurity of Federal elections, including best practices for storing and securing voter registration data</header><text>In conducting the study under subsection (a)(1), the Commission shall consider the following:</text>
+ <subparagraph id="HBBF269929B86440A91F2C5976B136B95"><enum>(A)</enum><text>The interference by foreign actors in the 2016 Federal election.</text> </subparagraph><subparagraph id="HC85CD706724647B996569ACD38EF62A7"><enum>(B)</enum><text>The opinion of intelligence officials that foreign states are likely to attempt to interfere in future Federal elections.</text>
+ </subparagraph><subparagraph id="H9DB81E9A97A64279937F75568CEB01FE"><enum>(C)</enum><text>Election administration profiles based on the cybersecurity framework of the National Institute of Standards and Technology.</text>
+ </subparagraph><subparagraph id="HAF8A052C10B64B97B3C94CF47073C63E"><enum>(D)</enum><text>Best practices for storing and securing voter registration data.</text> </subparagraph><subparagraph commented="no" id="HD94267F635AA4294B77C71B11E4DE68D"><enum>(E)</enum><text>All components of election infrastructure, as designated by the Secretary of Homeland Security, on January 6, 2017, as a subsector of a critical infrastructure sector (as defined in section 2001 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/601">6 U.S.C. 601</external-xref>)).</text>
+ </subparagraph><subparagraph id="H8780A98B81C94AF889772409AD6CFC8C"><enum>(F)</enum><text>The implications of the aging of voting equipment on cybersecurity.</text> </subparagraph><subparagraph id="HCC4E7DD469D34A8DB8C42127BAB3B026"><enum>(G)</enum><text>Any existing Federal funding sources that may be used to assist State and local governments to improve election cybersecurity.</text>
+ </subparagraph><subparagraph id="H9E9D69A7025D4E9398F02EAED702A704"><enum>(H)</enum><text>Any related issues the Commission identifies as necessary to complete a comprehensive study of best practices for cybersecurity of Federal elections.</text>
+ </subparagraph></paragraph><paragraph id="HAAA7990200644F8B97AC1A9B04D1C344"><enum>(2)</enum><header>Election audits</header><text>In conducting the study under subsection (a)(2), the Commission shall consider the following:</text> <subparagraph id="H38A0C21034E74BE1802358D634A82F11"><enum>(A)</enum><text>Public confidence in the administration of Federal elections.</text>
+ </subparagraph><subparagraph id="HF8964218A3B9400EAD49B71482BB621C"><enum>(B)</enum><text>Verifying the integrity of the election process.</text> </subparagraph><subparagraph id="H892098F1541A485297A2100ECA30185D"><enum>(C)</enum><text>Confirming the accuracy of results reported by the voting system.</text>
+ </subparagraph><subparagraph id="HC1B28EC1D60D4147AD09685F710BFFF3"><enum>(D)</enum><text>Ensuring that the voting system is accurately tabulating ballots.</text> </subparagraph><subparagraph id="H68DEC8D868B34950806A791F68BB50C4"><enum>(E)</enum><text>Ensuring that the winners of each election for Federal office are called correctly.</text>
+ </subparagraph><subparagraph id="H3DFDF961165D42BCB778C350E1DD604C"><enum>(F)</enum><text>Current State requirements related to election audits.</text> </subparagraph><subparagraph id="HB355644C92EC4A1F89755F84A5396DE9"><enum>(G)</enum><text>Durational requirements needed to facilitate an election audit prior to election certification, including variations in the acceptance of postal ballots and election certification deadlines.</text>
+ </subparagraph><subparagraph id="H1B81B521D858461FB0953A37397537C5"><enum>(H)</enum><text>Administrative requirements and challenges for various types of election audits.</text> </subparagraph><subparagraph id="H5A3F548ECBF347ED8ECF91E12B577DDA"><enum>(I)</enum><text>The potential to identify areas of improvement in election administration using varying types of election audits.</text>
+ </subparagraph><subparagraph id="HE1A7902F9C7349FFB7FE8F282FBBF6DB"><enum>(J)</enum><text>The use of voting systems producing voter-verified paper ballots.</text> </subparagraph><subparagraph id="H7C7B5570449346A6808BA6B2F6F99A07"><enum>(K)</enum><text>Any related issues the Commission identifies as necessary to complete a comprehensive study of best practices for election audits.</text>
+ </subparagraph></paragraph></subsection><subsection id="HD57BA88FDD1B46D5BFE43AD5D1F4B154"><enum>(d)</enum><header>Report and recommendations</header><text>Not later than the date that is 6 months after the date of the enactment of this section, the Commission shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives on each of the studies conducted under this section, together with recommendations with the matters described in paragraphs (1) and (2) of subsection (a).</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="H9D681B463D0346F68D9739AF404FD905"><enum>(b)</enum><header>Clerical amendment</header><text>The table of contents for such Act is amended by inserting after the item relating to section 247 the following new item:</text>
+				<quoted-block id="HA6D9C713139D45FB8AD231027DD4DDF1" style="OLC">
+					<toc>
+						<toc-entry idref="H277B36F7A92447EE9183CC0DF91ACDFA" level="section">Sec. 248. Study and report on best practices for protecting the integrity of Federal elections and
+			 for storing and securing voter registration data.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H74862A51DD324D4E8601643E57501F61"><enum>3.</enum><header>Election technology improvement grants</header>
+ <subsection id="HDF259A17F885438EBA3A8FF18132EC9C"><enum>(a)</enum><header>In general</header><text>The Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/20901">52 U.S.C. 20901</external-xref> et seq.) is amended by adding at the end the following new title:</text>
+				<quoted-block display-inline="no-display-inline" id="HA5AE69ACF6C7464B8AB2FCC15C682C8C" style="OLC">
+					<title id="H29FA3774C06E49B3BBA9117C6E2807B4" style="OLC"><enum>X</enum><header>Election technology improvement grants</header>
+						<section id="HC146196BB48245C3A3FD6D60BFC017F9">
+							<enum>1001.</enum>
+							<header>Election technology improvement grants</header>
+							<subsection id="H5AA334A7188943FBA8B783B8BFFC2BEB">
+								<enum>(a)</enum>
+								<header>In general</header>
+ <text>The Commission shall make a payment in an amount determined under section 1002 to each State which meets the conditions described in section 1003.</text>
+							</subsection><subsection id="H01A12F4CD7D64294B8CA716CC5E5D208">
+								<enum>(b)</enum>
+								<header>Use of funds</header>
+								<paragraph id="H671F938FB92444D3A9C04B0AB7AC7A8C">
+									<enum>(1)</enum>
+									<header>In general</header>
+ <text>Except as provided in paragraph (2), a State receiving payment under this title shall use the payment—</text>
+ <subparagraph id="H46FD9D38B3464C6381244BDE5E7108EB"><enum>(A)</enum><text>in the case of a State that has undergone a Security Risk an Vulnerability Assessment from the Department of Homeland Security with respect to the State's election system, to address any recommendations or vulnerabilities resulting from such assessment, and</text>
+ </subparagraph><subparagraph id="H8D190B49143245B3BDEB54EC84CC4D7C"><enum>(B)</enum><text>to implement the recommendations of the Commission under section 248(d) in accordance with the plan developed under section 1003.</text>
+									</subparagraph><continuation-text continuation-text-level="paragraph">In the case of a State described in subparagraph (A), no amount of the payment received under this
+			 title may be used for any purpose described in subparagraph (B) before the
+			 date the State submits a State plan that meets the requirements of section
+			 1003(b)(1)(A).</continuation-text></paragraph><paragraph id="HAB055911C7D64D2F8E34186FFF03C41B">
+									<enum>(2)</enum>
+									<header>Other activities</header>
+ <text>A State may use a payment under this title to carry out other activities to improve the administration of elections for Federal office if the State certifies to the Commission that—</text>
+									<subparagraph id="HCE66862094834D7FA30D64A9CCE0DD4D">
+										<enum>(A)</enum>
+ <text>the State has implemented the recommendations of the Commission under section 248(d);</text> </subparagraph><subparagraph id="HCB75CBEBF2D449C7AE9E3D977AB2000E"> <enum>(B)</enum> <text>the State will use any remaining funds to improve, upgrade, or acquire new technological equipment related to election administration, which may include—</text>
+ <clause id="H6C525EFFE3D14ADEBFEB812DC39B728C"><enum>(i)</enum><text>voting machines;</text> </clause><clause id="HB3743CB5B30643C2B35AD0E63B722524"><enum>(ii)</enum><text>election management systems;</text>
+ </clause><clause id="HB16C03C3FEBF4878BF846BB6222B2639"><enum>(iii)</enum><text>electronic poll books;</text> </clause><clause id="HB43F2BFFF1A24729B73A9315D33430CA"><enum>(iv)</enum><text>online voter registration systems;</text>
+ </clause><clause id="H77D6047C2EE44C2BB1A0958A8186B84B"><enum>(v)</enum><text>participation in the Electronic Registration Information Center;</text> </clause><clause id="H8154C7F9F39B48BB92DDC784A91D19B7"><enum>(vi)</enum><text>accessible voting equipment; and</text>
+ </clause><clause id="HE4A45553F9CB405B85F60FA483219CD5"><enum>(vii)</enum><text>other technological upgrades identified by the Commission in the studies conducted under section 248(a); and</text>
+ </clause></subparagraph><subparagraph id="H3FC64B4F70C3455C991EF6AE91E78A11"><enum>(C)</enum><text>the State has appropriated funds for carrying out such activities in an amount equal to 10 percent of the total amount to be spent for such activities (taking into account the payment under this section and the amount spent by the State).</text>
+									</subparagraph><continuation-text continuation-text-level="paragraph">No amount of the payment received under this title may be used for any purpose described in this
+			 paragraph before the date the State submits the certification described in
+			 section 1003(b)(1)(C).</continuation-text></paragraph><paragraph id="H8AA665CCA9ED465E8B7779E0AA77B8B5"><enum>(3)</enum><header>Prohibition on use for voting machines not producing voter-verified paper ballots</header>
+ <subparagraph id="HE73D5C5450334F8FB30E0450E7CF6156"><enum>(A)</enum><header>In general</header><text>None of the payments provided under this title may be used for any voting system that does not produce a voter-verified paper ballot.</text>
+ </subparagraph><subparagraph id="HC0219D3B16F241388E295FDD4D21A46E"><enum>(B)</enum><header>Exception</header><text>Subparagraph (A) shall not apply to any payment used for the purposes described in paragraph (1)(A).</text>
+									</subparagraph></paragraph></subsection></section><section id="HECAC15BBC8034AA684E726D05C3CE8D6">
+							<enum>1002.</enum>
+							<header>Allocation of funds</header>
+							<subsection id="H115DCB97633841508FEC6BD5926C5AA7">
+								<enum>(a)</enum>
+								<header>In general</header>
+ <text>Subject to subsection (c), the amount of a payment made to a State under this title shall be equal to the product of—</text>
+								<paragraph id="H3050F6B5AC0A425E8077A87AF59CE7CE">
+									<enum>(1)</enum>
+ <text>the total amount appropriated for payments pursuant to the authorization under section 1007; and</text> </paragraph><paragraph id="H4CDDAB73C6044A289C344181FB3E20BE"> <enum>(2)</enum> <text>the State allocation percentage for the State (as determined under subsection (b)).</text>
+								</paragraph></subsection><subsection id="HD336DB986800452F98CF6F73D75F6A66">
+								<enum>(b)</enum>
+								<header>State allocation percentage defined</header>
+ <text>The <quote>State allocation percentage</quote> for a State is the amount (expressed as a percentage) equal to the quotient of—</text> <paragraph id="H186759D3B3F14937891036E10272D96F"> <enum>(1)</enum> <text>the voting age population of the State (as reported in the most recent decennial census); and</text>
+								</paragraph><paragraph id="HA0AF995602F74B17874F801ADD31B284">
+									<enum>(2)</enum>
+ <text>the total voting age population of all States (as reported in the most recent decennial census).</text> </paragraph></subsection><subsection id="H5FC829F696E94661A4CF290F60979426"> <enum>(c)</enum> <header>Minimum amount of payment</header> <text>The amount of a payment made to a State under this section may not be less than—</text>
+								<paragraph id="H390BBDED97B64A7FBFA71D4E32BE88CE">
+									<enum>(1)</enum>
+ <text>in the case of any of the several States or the District of Columbia, one-half of 1 percent of the total amount appropriated for payments under this title under section 1007; or</text>
+								</paragraph><paragraph id="HADAA05C19C104568A74D2CD697933975">
+									<enum>(2)</enum>
+ <text>in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of Northern Mariana Islands, or the United States Virgin Islands, one-tenth of 1 percent of such total amount.</text>
+								</paragraph></subsection><subsection id="H121F5EC0CA84450EB07D3EBA368A1FCD">
+								<enum>(d)</enum>
+								<header>Pro rata reductions</header>
+ <text>The Commission shall make such pro rata reductions to the allocations determined under subsection (a) as are necessary to comply with the requirements of subsection (c).</text>
+							</subsection><subsection id="H6C0B8AB862DF4B4DA869FAB408EF12F9">
+								<enum>(e)</enum>
+								<header>Continuing availability of funds after appropriation</header>
+ <text>A payment to a State under this title shall be available to the State without fiscal year limitation.</text>
+							</subsection></section><section id="H2514F0FE35624EB991320D3FABF5FCF0">
+							<enum>1003.</enum>
+							<header>Condition for receipt of funds</header>
+							<subsection id="HFD9C8E325F70432C96B5888C4397B88D">
+								<enum>(a)</enum>
+								<header>In general</header>
+ <text>A State is eligible to receive a payment under this title if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b). A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows: <quote>______ hereby certifies that it is in compliance with the requirements referred to in section 1003(b) of the Help America Vote Act of 2002.</quote> (with the blank to be filled in with the name of the State involved).</text>
+							</subsection><subsection id="H62941B06E0694B979F0108D3613E18CD">
+								<enum>(b)</enum>
+								<header>State plan requirement; certification of compliance with applicable laws and requirements</header>
+ <paragraph id="H7E5B63F6F2474DF3947F51DE907EC0AB"><enum>(1)</enum><header>In general</header><text>The requirements referred to in this subsection are as follows:</text> <subparagraph id="H10E676DE50BA4022B4449693AF05D564"><enum>(A)</enum><text>The State has filed with the Commission a State plan which the State certifies—</text>
+										<clause id="H045E072B8D334BFFBCF82E6ECE2B6EBA">
+											<enum>(i)</enum>
+ <text>contains each of the elements described in section 1004;</text> </clause><clause id="H94EE850E9BDF49559AC93D46D709DF6A"> <enum>(ii)</enum> <text>is developed in accordance with section 1005; and</text>
+										</clause><clause id="H133D8B566B994BB398BC5A150DF5BE37">
+											<enum>(iii)</enum>
+ <text>meets the public notice and comment requirements of section 1006.</text> </clause></subparagraph><subparagraph id="HB6EAA6AB3F614F8B8DC9D884A4839344"> <enum>(B)</enum> <text>The State is in compliance with each of the laws described in section 906, as such laws apply with respect to this Act.</text>
+									</subparagraph><subparagraph id="H9AEA6F297F2E4062890634B187ED6F5D">
+										<enum>(C)</enum>
+ <text>To the extent that any portion of the payment is used for activities other than implementing the recommendations of the Department of Homeland Security in connection with a Risk and Vulnerability Assessment described in section 1001(b)(1)(A) or the recommendations of the Commission under section 248(d)—</text>
+										<clause id="H06D9B77FE4254290962B27232D545B61">
+											<enum>(i)</enum>
+ <text>the State's proposed uses of the payment are not inconsistent with such recommendations; and</text> </clause><clause id="HFA3167E9655D441097823AAF35E63A3F"> <enum>(ii)</enum> <text>the use of the funds under this subparagraph is consistent with the requirements of section 1001(b)(2)(B).</text>
+ </clause></subparagraph></paragraph><paragraph id="HADBB87BCF6C94B5D98A6253A7F6BB341"><enum>(2)</enum><header>Special rule for Requirements with respect to risk and vulnerability assessments</header><text>In the case of a State that has undergone a Security Risk an Vulnerability Assessment from the Department of Homeland Security with respect to the State's election system, paragraph (1) shall not apply and the State shall be treated as having met the requirements of this subsection if the State has met the requirement of paragraph (1)(B) and has filed with the Commission a State plan which contains the elements described in section 1004 with respect to the recommendations of the Department of Homeland Security with respect to such assessment.</text>
+								</paragraph></subsection><subsection id="H17C90EEABE8340BEA429B1E9E1EC9EC3">
+								<enum>(c)</enum>
+								<header>Methods of compliance left to discretion of state</header>
+ <text>The specific choices on the methods of complying with the elements of a State plan shall be left to the discretion of the State.</text>
+							</subsection><subsection id="H6930F3A9BAFC4E518D913F9BA174B53F">
+								<enum>(d)</enum>
+								<header>Timing for filing of certification</header>
+ <paragraph id="HD00ADA3C550D422082E9968C94FD2C63"><enum>(1)</enum><header>In general</header><text>A State may not file a statement of certification under subsection (a) until the expiration of the 45-day period which begins on the date the State plan under this section has been published on both the website of the chief State election official and the website of the Election Assistance Commission pursuant to section 1005(b).</text>
+ </paragraph><paragraph commented="no" id="H8BBA28030CD74596A8BF67B6E276C2F4"><enum>(2)</enum><header>Exception for Risk and Vulnerability Assessment matters</header><text>Paragraph (1) shall not apply to any part of plan which is developed in connection with addressing recommendations of the Department of Homeland Security in connection with a Risk and Vulnerability Assessment described in section 1001(b)(1)(A).</text>
+ </paragraph></subsection><subsection id="HBD1E7B680AEC46FB9C730467798E0237"><enum>(e)</enum><header>Chief State election official defined</header><text>In this title, the <quote>chief State election official</quote> of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/42/1973gg-8">42 U.S.C. 1973gg–8</external-xref>) to be responsible for coordination of the State's responsibilities under such Act.</text>
+							</subsection></section><section id="H41A593D69B6941949B8F748602E56108">
+							<enum>1004.</enum>
+							<header>State plan</header>
+							<subsection id="H8FBC07CCF3CC486FA30206D2F90B2A7B">
+								<enum>(a)</enum>
+								<header>In general</header>
+ <text>The State plan shall contain a description of each of the following:</text> <paragraph id="H663A1F6AC31C49AA8F2EDC1AD123A45E"> <enum>(1)</enum> <text>How the State will use the payment under this title—</text>
+ <subparagraph id="H9C2A075AD27C4308A2AB5F5DEB92B385"><enum>(A)</enum><text>to implement—</text> <clause id="H1612F0A1AC474A06BA47B0EE3D995250"><enum>(i)</enum><text>any recommendations of the Department of Homeland Security in connection with a Risk and Vulnerability Assessment described in section 1001(b)(1)(A), if applicable; and</text>
+ </clause><clause id="H395CD1AB268749E4B3835F3C84D41B60"><enum>(ii)</enum><text>the recommendations of the Commission under section 248(d); and</text> </clause></subparagraph><subparagraph id="HCD750FF9C4B94CF6B44BD5AE829E320B"><enum>(B)</enum><text>if applicable under section 1001(b)(2), to carry out other activities to improve the administration of elections.</text>
+									</subparagraph></paragraph><paragraph id="H92377197E91C456B868BB77F73F7076F">
+									<enum>(2)</enum>
+ <text>How the State will distribute and monitor the distribution of the payment to units of local government or other entities in the State for carrying out the activities described in paragraph (1), including a description of—</text>
+									<subparagraph id="H2B0CCBC03D9A4AC2ACD41B4E07C2ACFD">
+										<enum>(A)</enum>
+ <text>the criteria to be used to determine the eligibility of such units or entities for receiving the payment; and</text>
+									</subparagraph><subparagraph id="H494EF25FA96D487E97D8621FD3B42E04">
+										<enum>(B)</enum>
+ <text>the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (3).</text>
+									</subparagraph></paragraph><paragraph id="H6473A543A5244C2AA3D4E368441317FB">
+									<enum>(3)</enum>
+ <text>How the State will adopt performance goals and measures that will be used by the State to determine its success and the success of units of local government in the State in carrying out the plan, including timetables for meeting each of the elements of the plan, descriptions of the criteria the State will use to measure performance and the process used to develop such criteria, and a description of which official is to be held responsible for ensuring that each performance goal is met.</text>
+								</paragraph><paragraph id="H4E56D940045742D683F277F076EE7E3D">
+									<enum>(4)</enum>
+ <text>How the State will conduct ongoing management of the plan, except that the State may not make any material change in the administration of the plan unless the change—</text>
+ <subparagraph id="H2637B5FDF1D743D8AA9D9F05E235554E"><enum>(A)</enum><text>is developed and published on the website of the chief State election official and the website of the Election Assistance Commission in accordance with section 1005 in the same manner as the State plan;</text>
+									</subparagraph><subparagraph id="HE9B51C154E5940A291670A4A432BAB3F">
+										<enum>(B)</enum>
+ <text>is subject to public notice and comment in accordance with section 1006 in the same manner as the State plan; and</text>
+									</subparagraph><subparagraph id="H75734046FA57485F8872F976AAB4B588">
+										<enum>(C)</enum>
+ <text>takes effect only after the expiration of the 30-day period which begins on the date the change has been published on both the website of the chief State election official and the website of the Election Assistance Commission.</text>
+									</subparagraph></paragraph><paragraph id="H89206F5807F84ECE8DD3A7446BBBF0CB">
+									<enum>(5)</enum>
+ <text>A description of the committee which participated in the development of the State plan in accordance with section 1005 and the procedures followed by the committee under such section and section 1006.</text>
+								</paragraph><continuation-text continuation-text-level="subsection">Paragraphs (5) and (6) shall not apply to any part of a plan which pertains to addressing
+			 recommendations of the Department of Homeland Security in connection with
+			 a Risk and Vulnerability Assessment described in section 1001(b)(1)(A).</continuation-text></subsection><subsection id="HBEFDC877D6A74484BCC4CEF7D54ABEF4">
+								<enum>(b)</enum>
+								<header>Protection against actions based on information in plan</header>
+								<paragraph id="H80585CD4B48746829825AC5C759AC70F">
+									<enum>(1)</enum>
+									<header>In general</header>
+ <text>No action may be brought under this Act against a State or other jurisdiction on the basis of any information contained in the State plan filed under this title.</text>
+								</paragraph><paragraph id="H09814C5336BB4A4A8B91DEE11CC54D01">
+									<enum>(2)</enum>
+									<header>Exception for criminal acts</header>
+ <text>Paragraph (1) may not be construed to limit the liability of a State or other jurisdiction for criminal acts or omissions.</text>
+								</paragraph></subsection></section><section id="H965B32F0FD054960910F90FD096B118C">
+							<enum>1005.</enum>
+							<header>Process for development and filing of plan; publication by Commission</header>
+							<subsection id="HE4FE30C8E1E948628A2564CE64952B26">
+								<enum>(a)</enum>
+								<header>Development of plan</header>
+ <text display-inline="yes-display-inline">The chief State election official shall develop the State plan under this title through a committee of appropriate individuals, including the chief election officials of the two most populous jurisdictions within the State, other local election officials, stake holders, and other citizens, appointed for such purpose by the chief State election official.</text>
+ </subsection><subsection id="H1C888659975C4DFB86C039486232C2B2"><enum>(b)</enum><header>Publication of plan by commission</header><text>After receiving the State plan of a State under this title, the Commission shall cause to have the plan published on both the website of the chief State election official and the website of the Election Assistance Commission.</text>
+							</subsection></section><section id="HBE882D342F504C12B85793CE10B498AA">
+							<enum>1006.</enum>
+ <header>Requirement for public notice and comment</header><text display-inline="no-display-inline">For purposes of section 1003(b)(1)(C), a State plan meets the public notice and comment requirements of this section if—</text>
+							<paragraph id="HDE55A454C813409089A503BC5D53273B">
+								<enum>(1)</enum>
+ <text>not later than 30 days prior to the submission of the plan, the State made a preliminary version of the plan available for public inspection and comment;</text>
+							</paragraph><paragraph id="H580A07808F5C4EED9008E73BF9B74BFE">
+								<enum>(2)</enum>
+ <text>the State publishes notice that the preliminary version of the plan is so available; and</text> </paragraph><paragraph id="H59D21D0443744ED68426586814979436"> <enum>(3)</enum> <text>the State took the public comments made regarding the preliminary version of the plan into account in preparing the plan which was filed with the Commission.</text>
+							</paragraph></section><section id="H144C6E80093249FFB47E6349E01A15B0">
+							<enum>1007.</enum>
+							<header>Authorization of appropriations</header>
+							<subsection id="H4762B19ABB444823854A15947E54A73E">
+								<enum>(a)</enum>
+								<header>In general</header>
+ <text>There are authorized to be appropriated such sums as are necessary for payments under this title for fiscal years 2018 and 2019.</text>
+							</subsection><subsection id="HAA3A8EEF2A144EC79EFBEB432EAD42B4">
+								<enum>(b)</enum>
+								<header>Availability</header>
+ <text>Any amounts appropriated pursuant to the authority of subsection (a) shall remain available without fiscal year limitation until expended.</text>
+							</subsection></section><section id="H37CF5875C7B44FF782925B9AA498DBB4">
+							<enum>1008.</enum>
+							<header>Reports</header>
+ <text display-inline="no-display-inline">Not later than 6 months after the end of the fiscal year for which a State received a payment under this title, the State shall submit a report to the Commission on the activities conducted with the funds provided, and shall include in the report—</text>
+							<paragraph id="H1D7DB344AED0462D8B7090142ACDE47F">
+								<enum>(1)</enum>
+ <text>a list of expenditures made with respect to each category of activities described in section 1001(b); and</text>
+ </paragraph><paragraph id="HEDDFE0D4CB8A4296939F57027304298C"><enum>(2)</enum><text>an analysis and description of the activities funded under this title to meet the requirements of this title and an analysis and description of how such activities conform to the State plan under section 1004.</text>
+							</paragraph></section></title><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="H30B44E358C424E488394B4FFFFD70DB1"><enum>(b)</enum><header display-inline="yes-display-inline">Clerical amendment</header><text display-inline="yes-display-inline">The table of contents of such Act is amended by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="H5609DA96A6C84BB7BE039804AEC652E4" style="OLC"> <toc> <toc-entry bold="off" level="title">TITLE X—Election Technology Improvement Grants</toc-entry> <toc-entry bold="off" level="section">Sec. 1001. Election technology improvement grants.</toc-entry> <toc-entry bold="off" level="section">Sec. 1002. Allocation of funds.</toc-entry> <toc-entry bold="off" level="section">Sec. 1003. Condition for receipt of funds.</toc-entry> <toc-entry bold="off" level="section">Sec. 1004. State plan.</toc-entry> <toc-entry bold="off" level="section">Sec. 1005. Process for development and filing of plan; publication by Commission.</toc-entry> <toc-entry bold="off" level="section">Sec. 1006. Requirement for public notice and comment.</toc-entry> <toc-entry bold="off" level="section">Sec. 1007. Authorization of appropriations.</toc-entry> <toc-entry bold="off" level="section">Sec. 1008. Reports.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block> </subsection></section><section id="H061B2B874DE5458B9BE0CD78616CA6B7"><enum>4.</enum><header>Contracting assistance</header> <subsection id="H7E43F7E94F104204947C0426F9BEA087"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Administrator of the General Services Administration, in consultation with the Director of the National Institute of Standards and Technology, shall take such actions as may be necessary through competitive processes—</text>
+ <paragraph id="H245A23DA04CE4274ACF4AE749ECA5BA9"><enum>(1)</enum><text>to qualify a set of private sector organizations which are capable of providing cybersecurity services to States to secure their election systems and infrastructure from cyber attacks;</text>
+ </paragraph><paragraph id="H992D4BF0C2D74B5BBFDA16EC35337C1C"><enum>(2)</enum><text>to establish contract vehicles to enable States to access the services of one or more of such private sector organizations as soon as payments are made under title X of the Help America Vote Act of 2002, as added by section 3;</text>
+ </paragraph><paragraph id="HF16A0941C2B3468CBD449AA1F0FF62F6"><enum>(3)</enum><text>to ensure that such contract vehicles permit individual States to augment Federal funds with funding otherwise available to the States; and</text>
+ </paragraph><paragraph id="H17A9318AD6BA4CA6B27B1742947CCC79"><enum>(4)</enum><text>to provide a list of qualified organizations to the Election Assistance Commission in order to ensure it is readily available to State election officials.</text>
+ </paragraph></subsection><subsection id="HA6F85B370BCC42D2BE505E3B4AF09EDD"><enum>(b)</enum><header>State defined</header><text>In this section, the term <term>State</term> means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.</text>
+			</subsection></section><section id="HA90432D042384C438FAB234AE653DA07"><enum>5.</enum><header>Information sharing with State election officials</header>
+			<subsection id="HD3A21697B66A4ACF9DE23DE35E4351C3"><enum>(a)</enum><header>Security clearance</header>
+ <paragraph id="HDC0629CFE1F14CE9B29452221BBCD35D"><enum>(1)</enum><header>Expediting provision of clearance for chief State election officials</header><text>Not later than 30 days after the date of enactment of this Act, the Secretary of Homeland Security shall establish an expedited process for providing the appropriate security clearance for the chief State election official of each State and 1 designee selected by such official to ensure that information relating to cybersecurity incidents and threats is communicated to such officials in a timely manner.</text>
+ </paragraph><paragraph id="HA7A4696C817249F1823F770E1489E26A"><enum>(2)</enum><header>State defined</header><text>In this subsection, the term <term>State</term> means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.</text>
+ </paragraph></subsection><subsection id="HE7E42982ACDF452E93693DE2777B4D4C"><enum>(b)</enum><header>Information sharing</header><text>Not later than 30 days after the date of enactment of this Act, the Secretary of Homeland Security and the Director of National Intelligence shall establish a cybersecurity incident notification process and cybersecurity incident response protocols for the sharing of information among State and Federal officials relating to election cybersecurity threats, vulnerabilities, and breaches.</text>
+			</subsection><subsection id="HC2B97982D4F04F40957B2CE88A1FB8D0"><enum>(c)</enum><header>Report to congress</header>
+ <paragraph id="H94A703E5E1004C89AD066906755BC439"><enum>(1)</enum><header>In general</header><text>Not later than 30 days after the day of enactment of this Act, and each year thereafter, the Secretary of Homeland Security and the Director of National Intelligence shall submit a joint report to appropriate congressional committees in both classified and unclassified form, on foreign threats to elections in the United States. The report shall address the current and probable threats to our election system and strategies to prevent foreign interference.</text>
+ </paragraph><paragraph id="H81D2C368EDE74EB4930D2676614AD73D"><enum>(2)</enum><header>Appropriate congressional committees</header><text>For purposes of paragraph (1), the term <term>appropriate congressional committees</term> means—</text> <subparagraph id="H6954C5E1CCB54BB1A844A8A3CA5686A5"><enum>(A)</enum><text>the Committee on Rules and Administration, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and</text>
+ </subparagraph><subparagraph id="H5B23CDDE4E8B43B4BBF14C98A78F8164"><enum>(B)</enum><text>the Committee on House Administration, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.</text>
+					</subparagraph></paragraph></subsection></section></legis-body></bill>
+
+

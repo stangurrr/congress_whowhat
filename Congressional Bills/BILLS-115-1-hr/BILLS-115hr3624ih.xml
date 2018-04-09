@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H34BA9D2C940A44DBB7C29E53289B60A0" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3624 IH: Rural Economic Vitalization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 3624</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action display="yes">
+			<action-date date="20170728">July 28, 2017</action-date>
+			<action-desc><sponsor name-id="S000510">Mr. Smith of Washington</sponsor> (for himself, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="C001090">Mr. Cartwright</cosponsor>, <cosponsor name-id="M001143">Ms. McCollum</cosponsor>, <cosponsor name-id="J000298">Ms. Jayapal</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="H001064">Mr. Heck</cosponsor>, and <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, and in addition to the Committee on <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To authorize voluntary grazing permit retirement on Federal lands managed by the Department of
+			 Agriculture or the Department of the Interior where livestock grazing is
+			 impractical, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HB9CC989F103C4A40B5D0B8E2476A0547" style="OLC">
+		<section id="H6842DF4442D54065A29CFD2ACED39559" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header>
+ <subsection id="HF7442F16E20F4975844CFDE14570DF33"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Rural Economic Vitalization Act</short-title></quote>.</text> </subsection><subsection id="HC599CF42035D4F74B1702B41FBBCD335"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H6842DF4442D54065A29CFD2ACED39559" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H0E69E34DEE414549B698C014A1307CF9" level="section">Sec. 2. Findings.</toc-entry>
+					<toc-entry idref="H1CA1967A8EE940A5BC4B80B315CCCC8D" level="section">Sec. 3. Definitions.</toc-entry>
+					<toc-entry idref="HF83417F46C774A4BB32FE9893E01F64D" level="section">Sec. 4. Rural vitalization program.</toc-entry>
+					<toc-entry idref="H6307EF7223324102B230F8BD5CFC85A4" level="section">Sec. 5. Effect of waiver of grazing permit or lease.</toc-entry></toc>
+ </subsection></section><section id="H0E69E34DEE414549B698C014A1307CF9"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="H5637AD1605BD4FD8A39D91F89E6877AC"><enum>(1)</enum><text>The use of Federal lands by grazing permittees and lessees for commercial livestock grazing is increasingly difficult due to growing conflicts with other legitimate multiple uses of the lands, such as environmental protection and burgeoning recreational use, and with congressionally mandated goals of wildlife and habitat protection and improved water quality and quantity.</text>
+ </paragraph><paragraph id="H2EC41D8905CF4B71B5F29091AD4ACE26"><enum>(2)</enum><text>A combination of sustained drought, foreign competition, changing domestic markets, industry restructuring, and individual ranch finances has resulted in Federal grazing permits and leases becoming stranded investments for many permittees and lessees.</text>
+ </paragraph><paragraph id="HF9E786B0EE3C4AF0B3B5E667ACE94C8E"><enum>(3)</enum><text>Attempts to resolve grazing conflicts with other multiple uses often require extensive range developments, intensive herd management, and continuous monitoring that greatly increases costs to both permittees and lessees and taxpayers, far out of proportion to the benefit received.</text>
+ </paragraph><paragraph id="H538C6A965E5F4302B3E9DC5F22D94D00"><enum>(4)</enum><text>Certain grazing allotments on Federal lands have, or are likely to become, unsuitable for commercial livestock production as a result of the combined effect of the factors referred to in paragraphs (1) through (3) and other factors.</text>
+ </paragraph><paragraph id="HEA822AF394EA4059AC8B7DB9255B9F8E"><enum>(5)</enum><text>The cost of the Federal grazing program greatly exceeds revenues to the Federal treasury from grazing receipts.</text>
+ </paragraph><paragraph id="HB04DEA62CAF54528B75C59C1465F288A"><enum>(6)</enum><text>Many permittees and lessees have indicated their willingness to end their commercial livestock grazing on Federal lands in exchange for compensation to reasonably compensate them for the effort and investment that they have made in a grazing allotment.</text>
+ </paragraph><paragraph id="H80EAE8D6334C44AEBC59DF1F15179493"><enum>(7)</enum><text>Compensating permittees and lessees who relinquish their grazing permit or lease would help recapitalize an ailing sector of rural America by providing economic options to permittees and lessees that do not presently exist by allowing them to restructure their ranch operations, start new businesses, or retire with security.</text>
+ </paragraph><paragraph id="H670A88985D814724AB7D8E0B0FE0A686"><enum>(8)</enum><text>Paying reasonable compensation for the relinquishment of a grazing permit or lease will help alleviate the need for permittees and lessees to sell or subdivide their private lands.</text>
+ </paragraph></section><section id="H1CA1967A8EE940A5BC4B80B315CCCC8D"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> <paragraph id="H80B02FE841C9445EA4298EC3AB826FA9"><enum>(1)</enum><header>Commercial livestock grazing</header><text>The term <term>commercial livestock grazing</term> means the grazing of domestic livestock on Federal lands as authorized by a grazing permit or lease. The term does not include beasts of burden used for recreational purposes.</text>
+ </paragraph><paragraph id="HEE9D95974CEC4C4ABB21FEFA6DC275D4"><enum>(2)</enum><header>Grazing allotment</header><text>The term <term>grazing allotment</term> means the designated portion of Federal land upon which domestic livestock are permitted to graze by a grazing permit or lease.</text>
+ </paragraph><paragraph id="H6692703CEC0A4264A21A4F1E68EDE0E2"><enum>(3)</enum><header>Grazing permit; lease</header><text>The terms <term>grazing permit or lease</term> and <term>grazing permit and lease</term> mean any document authorizing the use of Federal lands for the purpose of commercial livestock grazing.</text>
+ </paragraph><paragraph id="HCE26047085DC4808A89320C138D0BF6B"><enum>(4)</enum><header>Permittee; lessee</header><text>The terms <term>permittee or lessee</term> and <term>permittee and lessee</term> mean a livestock operator that holds a valid existing grazing permit or lease.</text> </paragraph><paragraph id="H57887C62E40842F6AE6AE7D1F65AA7BC"><enum>(5)</enum><header>Range developments</header><text>The term <term>range developments</term> means structures, fences, and other permanent fixtures placed on Federal lands for the furtherance of the purpose of grazing domestic livestock. The term does not include rolling stock, livestock and diversions of water from Federal lands onto non-Federal lands.</text>
+ </paragraph><paragraph id="HF2292602696F468D8DD19B01B8DB5FB5"><enum>(6)</enum><header>Secretaries</header><text>The term <term>Secretaries</term> refers to the Secretary of Agriculture and the Secretary of the Interior.</text> </paragraph><paragraph id="HE7566A6814AB4A349D5C5D60C58A08B6"><enum>(7)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of Agriculture or the Secretary of the Interior, as appropriate to the administration of a grazing permit or lease.</text>
+			</paragraph></section><section id="HF83417F46C774A4BB32FE9893E01F64D"><enum>4.</enum><header>Rural vitalization program</header>
+			<subsection id="HD46E4BDD7D6C4048A390D758C6B00C06"><enum>(a)</enum><header>Waiver of Grazing Permit or Lease</header>
+ <paragraph id="HA3863673BF824FA385B1909918F6FA6C"><enum>(1)</enum><header>Acceptance by secretary</header><text>Subject to the limitation set forth in subsection (c), the Secretary shall accept any grazing permit or lease that is waived by a grazing permittee or lessee.</text>
+ </paragraph><paragraph id="H17C5FEDB3C004F7D8E622B72DCF7A477"><enum>(2)</enum><header>Termination</header><text>The Secretary shall terminate any grazing permit or lease acquired under paragraph (1).</text> </paragraph><paragraph id="H6DA1F76C26A34032A7BFB3CC08146BEF"><enum>(3)</enum><header>No new grazing permit or lease</header><text>With respect to each grazing lease or grazing permit waived under paragraph (1), the Secretary shall—</text>
+ <subparagraph id="HB0BE38EF0EBB4D7797021EC0FD2340CA"><enum>(A)</enum><text>not issue any new grazing permit or lease within the grazing allotment covered by the grazing permit or lease; and</text>
+ </subparagraph><subparagraph id="HCA3DC42F8237463CB9D7B2B474DB7E37"><enum>(B)</enum><text>ensure a permanent end to livestock grazing on the grazing allotment covered by the grazing permit or lease.</text>
+					</subparagraph></paragraph></subsection><subsection id="HD66D3BE6C11B45008DE8FA88C80FE3BD"><enum>(b)</enum><header>Waiver of Grazing Permit or Lease on Common Allotments</header>
+ <paragraph id="H91FA24682B4140BE8CBC9213B23B825C"><enum>(1)</enum><header>In general</header><text>If a grazing allotment covered by a grazing permit or lease that is waived under subsection (a) is also covered by another grazing permit or lease that is not waived, the Secretary shall reduce the level of commercial livestock grazing on the grazing allotment to reflect the waiver.</text>
+ </paragraph><paragraph id="H22FC943CDC6842D19046E5DBE27B5CE1"><enum>(2)</enum><header>Authorized level</header><text>To ensure that there is a permanent reduction in the level of livestock grazing on the land covered by the grazing permit or lease waived under subsection (a), the Secretary shall not allow grazing to exceed the level established under paragraph (1).</text>
+ </paragraph></subsection><subsection id="H0F72A925C83F4A988312CB6D5F5A4E99"><enum>(c)</enum><header>Limitation</header><text>The Secretaries shall accept not more than 100 grazing permits and leases, in the aggregate, per year under this section on a first come, first served basis.</text>
+			</subsection></section><section id="H6307EF7223324102B230F8BD5CFC85A4"><enum>5.</enum><header>Effect of waiver of grazing permit or lease</header>
+ <subsection id="HD858B9549C0F400787E7823F9E1F35C2"><enum>(a)</enum><header>Effect on range developments</header><text>A permittee or lessee who waives a grazing permit or lease to the Secretary under section 4 shall be deemed to have waived any claim to all range developments on the associated grazing allotment, notwithstanding any other provision of law.</text>
+ </subsection><subsection id="H3E2FDE77C3AB4012B723902B682B10D8"><enum>(b)</enum><header>Securing retired allotments against unauthorized use</header><text>The Secretary shall ensure that grazing allotments retired from grazing under this Act are rendered reasonably secure from trespass grazing by domestic livestock.</text>
+ </subsection><subsection id="HEEF2D25E9E8F4222AF215CE5E436DD63"><enum>(c)</enum><header>Relation to other authority</header><text>Nothing in this Act shall be construed to affect the Secretary’s authority to modify or terminate grazing permits or leases in accordance with other law.</text>
+ </subsection><subsection id="H61D140E83C2F488A9854EC093B6EF6F6"><enum>(d)</enum><header>Relation to valid existing rights</header><text>Nothing in this Act affects the allocation, ownership, interest, or control, in existence on the date of the enactment of this Act, of any water, water right, or any other valid existing right held by the United States, Indian tribe, State, county, municipality or private individual, partnership or corporation.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

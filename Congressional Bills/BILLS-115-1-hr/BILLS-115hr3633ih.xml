@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEFE135E1723247ECBB7FB2A90B6A4171" key="H" public-private="public">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3633 IH: CEO Accountability and Responsibility Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-08-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session>
+		<legis-num display="yes">H. R. 3633</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action display="yes">
+			<action-date date="20170801">August 1, 2017</action-date>
+			<action-desc><sponsor name-id="D000623">Mr. DeSaulnier</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Internal Revenue Code of 1986 to adjust the rate of income tax of a publicly traded
+			 corporation based on the ratio of compensation of the corporation’s
+			 highest paid employee to the median compensation of all the corporation’s
+			 employees.</official-title>
+	</form>
+	<legis-body id="H4F9368EB54F64992AE9FF8BC21101DB9" style="OLC">
+ <section id="HFB2422DD2B274A6E9F6978F3A301FCE8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>CEO Accountability and Responsibility Act</short-title></quote>.</text> </section><section id="H8BCB5E25EE3E4DBB9C0EFA735B6E147D"><enum>2.</enum><header>Income tax rate of publicly traded corporations based on compensation ratio</header> <subsection id="HBA6E310775AE432B93CF34D6B6DC522A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/11">Section 11</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HB2B29047C6DD447E969B3DCB6CD632BC" style="OLC">
+					<subsection id="HE299BFF9FEDC40C9B3D7053C70C640A8"><enum>(e)</enum><header>Tax rate of publicly traded corporations based on compensation ratio</header>
+ <paragraph id="HC933AEBEC93C487896D026F826B288C2"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a publicly traded corporation (as defined in section 162(m)(2)), in the amount of tax under subsection (b) shall be determined—</text>
+ <subparagraph id="HA588E27C4D6C495C85541ED5EDEA5176"><enum>(A)</enum><text>by adjusting the highest rate of tax applicable to the taxpayer by the percentage point adjustment specified in paragraph (2), and</text>
+ </subparagraph><subparagraph id="H56A8A8A7FA7A486B944CAB09259E31A3"><enum>(B)</enum><text>by making proper adjustments to—</text> <clause id="HE0C31E880179474FB60849F07F78EBE7"><enum>(i)</enum><text>the dollar amount in clause (ii) of the second sentence of paragraph (1), and</text>
+ </clause><clause id="H9CAAB4DB97BC4BB0A1E53CEE6A5BA853"><enum>(ii)</enum><text display-inline="yes-display-inline">the dollar amount in clause (ii) of the third sentence of paragraph (1).</text> </clause></subparagraph></paragraph><paragraph id="H6777D5D4CEE44550AA1BAE3E7BF9C8A9"><enum>(2)</enum><header>Adjustment of tax rate</header><text>For purposes of paragraph (1), the percentage points specified in this paragraph shall be determined as follows:</text>
+							<table align-to-level="section" blank-lines-before="1" colsep="1" frame="topbot" line-rules="hor-ver" rowsep="0" rule-weights="4.4.4.0.0.0" table-template-name="Generic: 2 text, even cols" table-type="">
+								<tgroup cols="2" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="10.10.12"><colspec coldef="txt" colname="column1" colwidth="256.50pt" min-data-value="150" rowsep="0"></colspec><colspec coldef="fig" colname="column2" colwidth="298.50pt" min-data-value="27" rowsep="0"></colspec><thead>
+										<row><entry align="center" colname="column1" morerows="0" namest="column1" rowsep="1">If the compensation ratio is:</entry><entry align="center" colname="column2" morerows="0" namest="column2" rowsep="1">The percentage point<linebreak></linebreak> adjustment is:</entry></row></thead>
+									<tbody>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">Not more than 25</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0"> −1 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 25 but not more than 50</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">−0.5 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 50 but not more than 100</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">zero</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 100 but not more than 150</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">+0.5 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 150 but not more than 200</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">+1 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 200 but not more than 250</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">+1.5 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 250 but not more than 300</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">+2 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 300 but not more than 400</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">+2.5 percentage points</entry></row>
+										<row><entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">More than 400</entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0">+3 percentage points.</entry></row></tbody></tgroup></table>
+ </paragraph><paragraph id="HC6CF12FF6297433DAE25D3AFCADAF2B8"><enum>(3)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this subsection—</text> <subparagraph id="H31C3D6C7B5D04C4FAC65729B8638387B"><enum>(A)</enum><header>Compensation ratio</header><text>The compensation ratio for a taxable year means a ratio—</text>
+ <clause id="HC961E867175C4BBAA93C89781AAEB522"><enum>(i)</enum><text>the numerator of which is the amount equal to the greater of the compensation of the chief operating officer or the highest paid employee of the taxpayer for the calendar year preceding the beginning of the taxable year, and</text>
+ </clause><clause id="H2C886B74E32A46AB8FEF9B522039347C"><enum>(ii)</enum><text>the denominator of which is the amount equal to the median compensation of all employees employed by the taxpayer in the United States for the calendar year preceding the beginning of the taxable year.</text>
+								</clause></subparagraph><subparagraph id="HCC235EC8B357475B95933AAC90517A24"><enum>(B)</enum><header>Compensation</header>
+ <clause display-inline="no-display-inline" id="H7EA3A517456D4A5385771A72B67E1240"><enum>(i)</enum><header>Employees</header><text>In the case of employees of the taxpayer other than the chief operating officer or the highest paid employee, the term <term>compensation</term> means wages (as defined in section 3121(a)) paid by the taxpayer during a calendar year.</text>
+ </clause><clause id="H12A9E2E8F22B423F9B517583D7EC8B8B"><enum>(ii)</enum><header>CEO and highest paid employee</header><text>In the case of the chief operating officer and the highest paid employee of the taxpayer, the term <term>compensation</term> means total compensation for the calendar year, as reported in the Summary Compensation Table reported to the Securities and Exchange Commission pursuant to Item 402 of Regulation S–K of the Securities and Exchange Commission.</text>
+								</clause></subparagraph></paragraph><paragraph display-inline="no-display-inline" id="H868A5EA685174C27B9FE0FB6FD7218E4"><enum>(4)</enum><header>Special rule if contracted or foreign employee ratio increases</header>
+ <subparagraph display-inline="no-display-inline" id="HE8EDE4E2DB974AF38B9B30B85581411B"><enum>(A)</enum><header>In general</header><text>If—</text> <clause id="H64D2724B4B214C27852576C69CECCB67"><enum>(i)</enum><text>the total number of full-time employees, determined on an annual full-time equivalent basis, employed by the taxpayer in the United States for a taxable year is reduced by more than 10 percent, as compared to the total number of full-time employees, determined on an annual full-time equivalent basis, employed by the taxpayer in the United States for the preceding taxable year, and</text>
+ </clause><clause id="HE26E75EA1EBE44FDAF6D18F037F967A8"><enum>(ii)</enum><text>the total number of contracted employees or foreign full-time employees, determined on an annual full-time equivalent basis, of the taxpayer for that taxable year has increased, as compared with the total number of contracted employees or foreign full-time employees, determined on an annual full-time equivalent basis, of the taxpayer for the preceding taxable year,</text>
+								</clause><continuation-text continuation-text-level="subparagraph">then the applicable tax rate determined under paragraph (2) shall be increased by 50 percent. For
+			 taxpayers who first commence doing business during the taxable year, the
+			 number of full-time employees, contracted employees, and foreign full-time
+ employees for the immediately preceding prior taxable year shall be zero.</continuation-text></subparagraph><subparagraph id="H7387161011204E61B78359E865D6FACA"><enum>(B)</enum><header>Definitions</header><text>For purposes of this paragraph—</text> <clause id="HCFAAC6A0E5A94BD392D2B5DE80A7FCF1"><enum>(i)</enum><header>Annual full-time equivalent</header><text>The term <term>annual full-time equivalent</term> means—</text>
+ <subclause id="H32C66EFAFE4445A68F1BB808667C689E"><enum>(I)</enum><text>in the case of a full-time employee paid hourly qualified wages, the total number of hours worked for the taxpayer by the employee, not to exceed 2,000 hours per employee, divided by 2,000, and</text>
+ </subclause><subclause id="HE686E286245A4141A55028E4FD75BBB9"><enum>(II)</enum><text>in the case of a salaried full-time employee, the total number of weeks worked for the taxpayer by the employee divided by 52.</text>
+ </subclause></clause><clause id="HF23BB6A4244447A5A94E3F9B58F57DFA"><enum>(ii)</enum><header>Contracted full-time employee</header><text>The term <term>contracted full-time employee</term> means an individual engaged by the taxpayer to provide a specific set of services established pursuant to the terms and conditions of a written employment contract that delineates the length of employment, the salary and bonuses (if any) to be paid, and the benefits that accrue to that individual.</text>
+ </clause><clause id="H62ECF9AAA5C8493FAD6E0DBD4CBDB151"><enum>(iii)</enum><header>Foreign full-time employee</header><text>The term <term>foreign full-time employee</term> means a full-time employee of the taxpayer that is employed at a location other than the United States.</text>
+ </clause><clause id="HC39335DC96284E88A4B0FFDD03941AB5"><enum>(iv)</enum><header>Full-time employee</header><text>The term <term>full-time employee</term> means an employee of the taxpayer that either—</text> <subclause id="HA18ACC67C39C4DF7B5224AD57D01A094"><enum>(I)</enum><text>is paid compensation by the taxpayer for services of not less than an average of 35 hours per week, or</text>
+ </subclause><subclause id="H28DC0441E3734459B85B931540C83CE0"><enum>(II)</enum><text>is a salaried employee of the taxpayer and is paid compensation during the taxable year for full-time employment.</text>
+ </subclause></clause></subparagraph></paragraph><paragraph id="H50D763ED98B44CAC95EAFE623125BD36"><enum>(5)</enum><header>Controlled groups</header><text display-inline="yes-display-inline">For purposes of this subsection, all persons treated as a single employer under subsection (b), (c), (m) or (o) of section 414 shall be treated as one person.</text>
+ </paragraph><paragraph id="H984258B5F6A342D2801E0AEC05D7C226"><enum>(6)</enum><header>Reports</header><text display-inline="yes-display-inline">The taxpayer shall furnish such reports to the Secretary with respect to compensation and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner as may be required by the Secretary.</text>
+ </paragraph><paragraph id="H604607AC4F564B0E93E38E5707C784C3"><enum>(7)</enum><header>Regulations</header><text display-inline="yes-display-inline">The Secretary shall prescribe such regulations and other guidance as may be necessary or appropriate to carry out this subsection, including any guidelines regarding the determination of wages, average compensation, and compensation ratio.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+ </subsection><subsection id="HC68E6400EA9A4F348A6937C1BE55CB9A"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>
+
+

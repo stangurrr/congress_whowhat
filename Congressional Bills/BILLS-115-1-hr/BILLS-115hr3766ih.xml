@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCF70B33430624B8289BB01158FB88DBD" key="H" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 HR 3766 IH: Credit Information Protection Act of 2017</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2017-09-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">115th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3766</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20170913">September 13, 2017</action-date><action-desc><sponsor name-id="H001047">Mr. Himes</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Fair Credit Reporting Act to require consumer reporting agencies to place a security
+			 freeze on a consumer report without a fee if the consumer reporting agency
+			 is subject to a breach of data security, and for other purposes.</official-title></form>
+	<legis-body id="HF2148A93EB91460888DC0AA4DEA24BEF" style="OLC">
+ <section id="HC51031FD0A2540DEB4A56775CBD194AA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Credit Information Protection Act of 2017</short-title></quote>.</text> </section><section id="HE191D009759F41C7BBDBDD702480025E" section-type="subsequent-section"><enum>2.</enum><header>Security freezes on consumer reports</header><text display-inline="no-display-inline">Section 605A of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681c-1">15 U.S.C. 1681c–1</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="HAB99096F90B94DA6843CBF3133FD4833" style="OLC">
+				<subsection id="H11DE124629B34D5794D8EF5E7137EDB9"><enum>(i)</enum><header>Security freezes</header>
+ <paragraph id="H3E946ACBCBF64431BAB9F22118E584A6"><enum>(1)</enum><header>In general</header><text>A consumer reporting agency described in section 603(p) shall provide to a consumer, upon request, a security freeze on the consumer report of such consumer after a breach of data security at such a consumer reporting agency.</text>
+ </paragraph><paragraph id="HB7BCF171D9A94EE2861209C17CD0109C"><enum>(2)</enum><header>Types of security freezes</header><text display-inline="yes-display-inline">A consumer reporting agency shall—</text> <subparagraph id="HA57CECEA39BA4E738D1929A76BF7493D"><enum>(A)</enum><text>place a security freeze on a consumer report without a fee to any consumer; and</text>
+ </subparagraph><subparagraph id="H3BD296B59B3E411F8CC0854F1E80B961"><enum>(B)</enum><text>with respect to a consumer that has been specifically notified by the consumer reporting agency that the consumer was affected by the breach of data security, place or remove an unlimited amount of security freezes, upon request, without a fee.</text>
+ </subparagraph></paragraph><paragraph id="H4AED26FA1B0F493EADE1C6ED93EC2B04"><enum>(3)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this subsection:</text> <subparagraph id="HECC205D92CE044668C998187606C08F0"><enum>(A)</enum><header>Breach of data security</header> <clause id="H16C7FEFA6F954D5FAA3AE5A0E9A0A0DA"><enum>(i)</enum><header>In general</header><text>The term <term>breach of data security</term> means the unauthorized acquisition of sensitive financial account information or sensitive personal information.</text>
+ </clause><clause id="HE40B8D57EF73491C81FB57496C17F49F"><enum>(ii)</enum><header>Exception for data that is not in usable form</header><text>The term <term>breach of data security</term> does not include the unauthorized acquisition of sensitive financial account information or sensitive personal information that is encrypted, redacted, or otherwise protected by another method that renders the information unreadable and unusable if the encryption, redaction, or protection process or key is not also acquired without authorization.</text>
+ </clause></subparagraph><subparagraph id="H98F372939F124753AF253006C5EE6646"><enum>(B)</enum><header>Security freeze</header><text>The term <quote>security freeze</quote> means a notice placed in a consumer report, at the request of a consumer, that prohibits the credit reporting agency from releasing the consumer report or any information in the consumer report without the express authorization of the consumer.</text>
+ </subparagraph><subparagraph display-inline="no-display-inline" id="H47D86465323B4837841CAA0A297A4610"><enum>(C)</enum><header>Sensitive financial account information</header><text>The term <term>sensitive financial account information</term> means a financial account number relating to a consumer, including a credit card number or debit card number, in combination with any security code, access code, password, or other personal identification information required to access the financial account.</text>
+						</subparagraph><subparagraph id="H6473E9030349437E803A195780BCC6FC"><enum>(D)</enum><header>Sensitive personal information</header>
+ <clause commented="no" id="H125C46BEA1694462B8CCB013DD7F9281"><enum>(i)</enum><header>In general</header><text>The term <term>sensitive personal information</term> includes—</text> <subclause commented="no" id="H8D202F765D444C27AA26982CB03390C4"><enum>(I)</enum><text>a Social Security number; and</text>
+ </subclause><subclause commented="no" id="H56170A9FD5BA4F30AB4162FF05DA3F80"><enum>(II)</enum><text>the first and last name of a consumer in combination with—</text> <item commented="no" id="HCC57CA7F1F254788A659285C4E11D47D"><enum>(aa)</enum><text>the consumer’s driver’s license number, passport number, military identification number, or other similar number issued on a government document used to verify identity;</text>
+ </item><item commented="no" id="HBE717863530F49E9B09D814494DA0F5D"><enum>(bb)</enum><text>information that could be used to access a consumer’s account, such as a user name and password or e-mail and password; or</text>
+ </item><item commented="no" id="H87CD9C85A2EE4D3FBFBAEE13AF3B4E86"><enum>(cc)</enum><text>biometric data of the consumer used to gain access to financial accounts of the consumer.</text> </item></subclause></clause><clause id="H938FE54743534723A3D09312BD6E4590"><enum>(ii)</enum><header>Exception</header><text>The term <term>sensitive personal information</term> does not include publicly available information that is lawfully made available to the general public and obtained from—</text>
+ <subclause id="H4820F271AD334A2CA8B6033665E18B2F"><enum>(I)</enum><text>Federal, State, or local government records; or</text> </subclause><subclause id="H7AAF46559A13456FA7965249DE3DD41E"><enum>(II)</enum><text>widely distributed media.</text>
+								</subclause></clause></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body></bill>
+
+
