@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-21</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-21</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-02-20</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-02-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-02-20</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2018-04-05T20:00:01Z</pubDate>
+        <title>H.R. 5076, Small Bank Exam Cycle Improvement Act of 2018</title>
+        <url>https://www.cbo.gov/publication/53713</url>
+      </item>
+    </cboCostEstimates>
+    <notes />
+    <updateDate>2018-04-05T20:12:24Z</updateDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-03-21</actionDate>
+      <links />
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+    </latestAction>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <title>Small Bank Exam Cycle Improvement Act of 2018</title>
+    <sponsors>
+      <item>
+        <district>22</district>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2344</lisID>
+          <bioguideId>T000478</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Claudia</firstName>
+        <lastName>Tenney</lastName>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <middleName />
+        <bioguideId>T000478</bioguideId>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2018-02-20</introducedDate>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <amendments />
+    <createDate>2018-02-21T03:10:58Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2018-03-21T20:45:01Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-20T15:27:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <lastName>Crist</lastName>
+        <sponsorshipDate>2018-03-20</sponsorshipDate>
+        <middleName />
+        <district>13</district>
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <firstName>Charlie</firstName>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <bioguideId>C001111</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <middleName />
+        <district>30</district>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <bioguideId>S000344</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 32 (Tuesday, February 20, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. TENNEY:H.R. 5076.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I Section 8, Clauses 1 and 18 of theUnited States Constitution.[Page H1221]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <billNumber>5076</billNumber>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+          <actionDate>2018-03-22</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2155</number>
+        <latestTitle>Economic Growth, Regulatory Relief, and Consumer Protection Act</latestTitle>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>Small Bank Exam Cycle Improvement Act of 2018</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Federal Deposit Insurance Act to extend the examination cycle for certain insured depository institutions.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Small Bank Exam Cycle Improvement Act of 2018</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Small Bank Exam Cycle Improvement Act of 2018</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

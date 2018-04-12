@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-01-20T03:11:06Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Northern Mariana Islands U.S. Workforce Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To incentivize the hiring of United States workers in the Commonwealth of the Northern Mariana Islands, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Northern Mariana Islands U.S. Workforce Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Northern Mariana Islands U.S. Workforce Act</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <date>2018-01-23T17:43:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-01-19T14:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+      <actionDate>2018-01-23</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>4869</billNumber>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 12 (Friday, January 19, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SABLAN:H.R. 4869.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8, Clauses 1, 3, 4, 18 and ArticleIV, Section 3, Clause 2 of the Constitution of the UnitedStates.[Page H583]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <state>AS</state>
+        <lastName>Radewagen</lastName>
+        <firstName>Aumua Amata</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Coleman</middleName>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <bioguideId>R000600</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <state>GU</state>
+        <lastName>Bordallo</lastName>
+        <firstName>Madeleine</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Z.</middleName>
+        <identifiers>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <bioguideId>B001245</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <state>MP</state>
+        <bioguideId>S001177</bioguideId>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <identifiers>
+          <bioguideId>S001177</bioguideId>
+          <gpoId>8018</gpoId>
+          <lisID>1962</lisID>
+        </identifiers>
+        <middleName>Kilili Camacho</middleName>
+        <firstName>Gregorio</firstName>
+        <district>0</district>
+        <lastName>Sablan</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-01-23</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indian, Insular and Alaska Native Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2018-01-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-01-19</introducedDate>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <title>Northern Mariana Islands U.S. Workforce Act</title>
+    <calendarNumbers />
+    <updateDate>2018-03-30T14:19:59Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Northern Mariana Islands U.S. Workforce Act</latestTitle>
+        <number>2325</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.</text>
+          <actionDate>2018-03-20</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

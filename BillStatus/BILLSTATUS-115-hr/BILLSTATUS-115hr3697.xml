@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll517.xml</url>
+        <chamber>House</chamber>
+        <rollNumber>517</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <date>2017-09-14T15:00:27Z</date>
+      </recordedVote>
+      <recordedVote>
+        <congress>115</congress>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll516.xml</url>
+        <chamber>House</chamber>
+        <rollNumber>516</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+        <date>2017-09-14T14:51:49Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <amendments>
+      <amendment>
+        <type>HAMDT</type>
+        <latestAction />
+        <purpose>Pursuant to the provisions of H.Res. 513 the amendment printed in the report of the Committee on Rules is considered as adopted.</purpose>
+        <number>446</number>
+        <description />
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <purpose>Pursuant to the provisions of H.Res. 513 the amendment printed in the report of the Committee on Rules is considered as adopted.</purpose>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <chamber>House of Representatives</chamber>
+        <links />
+        <description />
+        <updateDate>2018-03-30T14:14:23Z</updateDate>
+        <number>446</number>
+        <version>1.0.0</version>
+        <titles />
+        <notes />
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>115</congress>
+          <originChamberCode>H</originChamberCode>
+          <number>3697</number>
+          <title>Criminal Alien Gang Member Removal Act</title>
+        </amendedBill>
+        <createDate>2017-09-15T07:16:12Z</createDate>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <congress>115</congress>
+        <submittedDate>2017-09-14T04:00:00Z</submittedDate>
+        <proposedDate />
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2017-09-14</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <committee />
+              <text>House amendment offered</text>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-09-14</actionDate>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>1</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+      </amendment>
+    </amendments>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <title>Criminal Alien Gang Member Removal Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Criminal Alien Gang Member Removal Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Criminal Alien Gang Member Removal Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <title>Criminal Alien Gang Member Removal Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Criminal Alien Gang Member Removal Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <lastName>Comstock</lastName>
+        <party>R</party>
+        <district>10</district>
+        <middleName />
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <bioguideId>C001105</bioguideId>
+        <firstName>Barbara</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <billNumber>3697</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <party>R</party>
+        <firstName>PETER</firstName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>T.</middleName>
+      </item>
+      <item>
+        <bioguideId>L000573</bioguideId>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <party>R</party>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <lastName>Labrador</lastName>
+        <identifiers>
+          <lisID>2011</lisID>
+          <gpoId>7919</gpoId>
+          <bioguideId>L000573</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>ID</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <bioguideId>G000289</bioguideId>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <party>R</party>
+        <firstName>ROBERT</firstName>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <lastName>GOODLATTE</lastName>
+        <identifiers>
+          <lisID>446</lisID>
+          <gpoId>8197</gpoId>
+          <bioguideId>G000289</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <party>R</party>
+        <firstName>PETE</firstName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <lastName>SESSIONS</lastName>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>Z000017</bioguideId>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <party>R</party>
+        <firstName>Lee</firstName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <lastName>Zeldin</lastName>
+        <identifiers>
+          <lisID>2261</lisID>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <party>R</party>
+        <firstName>Jodey</firstName>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <lastName>Arrington</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+      </item>
+    </cosponsors>
+    <title>Criminal Alien Gang Member Removal Act</title>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-18</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <updateDate>2018-03-30T14:15:37Z</updateDate>
+    <createDate>2017-09-08T10:26:37Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <generalDebate>3</generalDebate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionTime>11:00:29</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <text>On passage Passed by the Yeas and Nays: 233 - 175 (Roll no. 517). (text: CR H7387-7389)</text>
+        <type>Floor</type>
+        <actionTime>11:00:27</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>H7387-7389</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7387-7389</url>
+          </link>
+          <link>
+            <name>Roll no. 517</name>
+            <url>http://clerk.house.gov/evs/2017/roll517.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 175 (Roll no. 517).</text>
+        <type>Floor</type>
+        <actionTime>11:00:27</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>Roll no. 517</name>
+            <url>http://clerk.house.gov/evs/2017/roll517.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <text>On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 220 (Roll no. 516).</text>
+        <type>Floor</type>
+        <actionTime>10:51:49</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>Roll no. 516</name>
+            <url>http://clerk.house.gov/evs/2017/roll516.xml</url>
+          </link>
+        </links>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H36110</actionCode>
+      </item>
+      <item>
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <type>Floor</type>
+        <actionTime>10:26:50</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8A000</actionCode>
+      </item>
+      <item>
+        <text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Beyer motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add at the end of the bill a section pertaining to Protecting Innocent Religious Workers from Deportation.</text>
+        <type>Floor</type>
+        <actionTime>10:18:56</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <text>Mr. Beyer moved to recommit with instructions to the Committee on the Judiciary. (text: CR H7399)</text>
+        <type>Floor</type>
+        <actionTime>10:18:45</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>H7399</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7399</url>
+          </link>
+        </links>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H36100</actionCode>
+      </item>
+      <item>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionTime>10:18:31</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H35000</actionCode>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 3697.</text>
+        <type>Floor</type>
+        <actionTime>09:17:10</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>H.R. 3697</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3697</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <text>Rule provides for consideration of H.R. 3697 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+        <type>Floor</type>
+        <actionTime>09:16:19</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>H.R. 3697</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3697</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <text>Considered under the provisions of rule H. Res. 513. (consideration: CR H7387-7401)</text>
+        <type>Floor</type>
+        <actionTime>09:16:14</actionTime>
+        <actionDate>2017-09-14</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 513</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/513</url>
+          </link>
+          <link>
+            <name>H7387-7401</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7387-7401</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <text>Rule H. Res. 513 passed House.</text>
+        <type>Floor</type>
+        <actionTime>13:28:52</actionTime>
+        <actionDate>2017-09-13</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 513</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/513</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H1L220</actionCode>
+      </item>
+      <item>
+        <text>Rules Committee Resolution H. Res. 513 Reported to House. Rule provides for consideration of H.R. 3697 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+        <type>Floor</type>
+        <actionTime>19:34:37</actionTime>
+        <actionDate>2017-09-12</actionDate>
+        <links>
+          <link>
+            <name>H. Res. 513</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/513</url>
+          </link>
+          <link>
+            <name>H.R. 3697</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3697</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H1L210</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-07</actionDate>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-07</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-09-07</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>17</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <introducedDate>2017-09-07</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionTime>13:28:53</actionTime>
+          <actionDate>2017-09-13</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <number>513</number>
+        <congress>115</congress>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017.</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2018-02-06</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>2380</number>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>Criminal Alien Gang Member Removal Act</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2018-01-24</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        </latestAction>
+        <number>4760</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>Securing America's Future Act of 2018</latestTitle>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. COMSTOCK:H.R. 3697.Congress has the power to enact this legislation pursuantto the following:Clause 4 of Section 8 of Article I of the Constitution--The Congress shall have Power to establish a uniform Rule ofNaturalization, and uniform Laws on the subject Bankruptciesthroughout the United States.[Page H7182]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Criminal Alien Gang Member Removal Act</b></p> <p>This bill amends the Immigration and Nationality Act to make an alien: (1) inadmissible if a consular officer, the Department of Homeland Security (DHS), or the Department of Justice (DOJ) knows or has reason to believe that such person is or has been a member of a criminal gang or has participated in criminal gang activities; and (2) deportable if DHS or DOJ has such knowledge or reason to believe.</p> <p>A &quot;criminal gang&quot; is defined as an ongoing group, club, organization, or association of five or more persons (group): (1) one of the primary purposes of which is the commission of specified criminal offenses and the members of which engage, or have engaged within the past five years, in a continuing series of such offenses; or (2) that has been designated as a criminal gang by DHS.</p> <p>DHS may: (1) designate a group as a criminal gang based upon its conduct, and (2) revoke a designation for national security interests or if the group no longer conducts such criminal activities. Such designation shall be effective until revoked or judicially set aside. Congress may block or revoke a designation. </p> <p>A group may file a petition for revocation: (1) prior to designation, with DHS, and (2) after designation, with the U.S. Court of Appeals, DC Circuit. </p> <p>The bill: (1) provides for mandatory detention of alien gang members; and (2) makes alien gang members ineligible for asylum, temporary protected status, special immigrant juvenile status, and parole (unless such an alien is assisting the United States in a law enforcement matter).</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-09-07</actionDate>
+          <updateDate>2017-09-07T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-26T20:54:07Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>Criminal Alien Gang Member Removal Act</b></p> <p> (Sec. 2) This bill amends the Immigration and Nationality Act to make an alien: (1) inadmissible if a consular officer, the Department of Homeland Security (DHS), or the Department of Justice (DOJ) knows or has reason to believe that such person is or has been a member of a criminal gang or has participated in criminal gang activities; and (2) deportable if such person is or has been a member of a criminal gang, or has participated in criminal gang activities knowing that such activities will promote illegal activity.</p> <p>A &quot;criminal gang&quot; is defined as an ongoing group, club, organization, or association of five or more persons: (1) one of the primary purposes of which is the commission of specified criminal offenses and the members of which engage, or have engaged within the past five years, in a continuing series of such offenses; or (2) that has been designated as a criminal gang by DHS. Such offenses include: (1) felony drug offenses, (2) bringing in and harboring certain aliens, (3) assisting certain aliens to enter the United States, (4) importing aliens for immoral purposes, (5) crimes of violence, (6) obstruction of justice or witness tampering, (7) identification document fraud, (8) slavery and trafficking in persons, (9) money laundering, and (10) interstate or foreign travel in connection with a racketeering enterprise.</p> <p>DHS: (1) may designate a group of five or more persons as a criminal gang based upon its conduct, and (2) shall publish a designation in the Federal Register seven days after providing congressional notification as provided for in this bill. A designation shall be effective until: (1) it is revoked or blocked by Congress; (2) DHS determines that the group no longer fits such designation or that national security or law enforcement interests warrant a revocation; or (3) it is judicially set aside. A group may file a petition for revocation with DHS. The bill prescribes DHS review provisions. A revocation of a designation shall not affect any proceeding based on conduct committed prior to the effective date of the revocation.</p> <p> Within 30 days after publication of a designation, an amended designation, or a determination in response to a petition for revocation, a designated group may seek judicial review with the U.S. Court of Appeals, DC Circuit. </p> <p>The bill: (1) provides for mandatory detention of alien gang members; and (2) makes alien gang members ineligible for asylum, temporary protected status, special immigrant juvenile status, and parole (unless such an alien is assisting the United States in a law enforcement matter).</p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <actionDate>2017-09-14</actionDate>
+          <updateDate>2017-09-14T13:33:20Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-02T19:07:01Z</lastSummaryUpdateDate>
+          <versionCode>36</versionCode>
+          <name>Passed House amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-18T19:58:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-07T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-09-07T17:25:27Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

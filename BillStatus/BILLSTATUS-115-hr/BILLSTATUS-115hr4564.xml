@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T12:26:07Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <considerationByHouse>2</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <actionTime>16:26:22</actionTime>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 3). (text: CR H47)</text>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <actionTime>16:26:21</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H47</url>
+            <name>H47</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll003.xml</url>
+            <name>Roll no. 3</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 3).</text>
+        <committee />
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <actionTime>16:26:21</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll003.xml</url>
+            <name>Roll no. 3</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Considered as unfinished business. (consideration: CR H62-63)</text>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <actionTime>16:19:02</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H62-63</url>
+            <name>H62-63</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <committee />
+        <actionCode>H37220</actionCode>
+        <type>Floor</type>
+        <actionTime>13:58:49</actionTime>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4564.</text>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <actionTime>13:52:43</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4564</url>
+            <name>H.R. 4564</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H47)</text>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <actionTime>13:52:41</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H47</url>
+            <name>H47</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Mr. Higgins (LA) moved to suspend the rules and pass the bill.</text>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <actionTime>13:52:15</actionTime>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 363.</text>
+        <committee />
+        <actionCode>H12410</actionCode>
+        <type>Calendars</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 115-489.</text>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/489</url>
+            <name>H. Rept. 115-489</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-01-09</actionDate>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 115-489.</text>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/489</url>
+            <name>H. Rept. 115-489</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-06</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes>
+      <recordedVote>
+        <date>2018-01-09T21:26:21Z</date>
+        <sessionNumber>2</sessionNumber>
+        <congress>115</congress>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <rollNumber>3</rollNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2018/roll003.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <introducedDate>2017-12-06</introducedDate>
+    <createDate>2017-12-07T03:11:09Z</createDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To require a threat assessment on current foreign terrorist fighter activities, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Post-Caliphate Threat Assessment Act of 2017</title>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-01-10T16:18:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-01-09T16:07:12Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-12-13T19:47:12Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-12-06T15:00:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4564, Post-Caliphate Threat Assessment Act of 2017</title>
+        <pubDate>2018-01-19T16:13:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53490</url>
+      </item>
+    </cboCostEstimates>
+    <billNumber>4564</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <district>10</district>
+        <party>R</party>
+        <lastName>McCaul</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>K000386</bioguideId>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <district>24</district>
+        <party>R</party>
+        <lastName>Katko</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <bioguideId>G000579</bioguideId>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>R000609</bioguideId>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <identifiers>
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <district>4</district>
+        <party>R</party>
+        <lastName>Rutherford</lastName>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+      <actionDate>2018-01-10</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Clay</firstName>
+        <middleName />
+        <party>R</party>
+        <state>LA</state>
+        <byRequestType />
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <district>3</district>
+        <bioguideId>H001077</bioguideId>
+        <identifiers>
+          <lisID>2329</lisID>
+          <bioguideId>H001077</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Higgins</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-01-09T19:07:32Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-12-06</actionDate>
+          <text><![CDATA[<p><strong>Post-Caliphate Threat Assessment Act of 2017</strong></p> <p>This bill directs the Department of Homeland Security, in coordination with the Department of State and the Office of the Director of National Intelligence, to conduct a threat assessment of current foreign terrorist fighter activities. Such assessment shall include: (1) a detailed summary of current foreign terrorist fighter travel and trends, (2) an analysis of any country or region with a significant increase in foreign terrorist fighter activity, and (3) an analysis of foreign terrorist fighter travel trends in and out of Iraq and Syria.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-12-06T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-01-17T20:44:25Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <actionDate>2018-01-09</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Post-Caliphate Threat Assessment Act of 2017</strong></p> <p> (Sec. 2) This bill directs the Department of Homeland Security (DHS), in coordination with the Department of State and the Office of the Director of National Intelligence, to conduct a threat assessment of current foreign terrorist fighter activities. Such assessment shall include: (1) a detailed summary of current foreign terrorist fighter travel and trends, (2) an analysis of any country or region with a significant increase in foreign terrorist fighter activity, and (3) an analysis of foreign terrorist fighter travel trends in and out of Iraq and Syria.</p> <p> DHS shall submit a report of such assessment to Congress within 180 days after enactment of this bill. </p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <updateDate>2018-01-09T16:55:35Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 199 (Wednesday, December 6, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIGGINS of Louisiana:H.R. 4564.Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article I of the Constitution.[Page H9709]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers>
+      <item>
+        <calendar>U00363</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <title>Post-Caliphate Threat Assessment Act of 2017</title>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

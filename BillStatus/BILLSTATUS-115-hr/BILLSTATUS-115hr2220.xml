@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>2220</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-04-27</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Military Pay Protection Act of 2017</b></p> <p>This bill requires the Department of the Treasury, during a government shutdown, to make available to the Department of Defense (DOD) and to the Department of Homeland Security (DHS), in the case of the Coast Guard, such amounts as necessary to continue to provide: (1) pay and allowances to members of the Army, Navy, Air Force, Marine Corps, and Coast Guard, including reserve components, who perform active service during the shutdown and, at DOD's discretion, to DOD civilian and contractor personnel providing direct support to such members; and (2) funding necessary to prevent interruptions or delays in the performance of domestic disaster relief and recovery operations during the shutdown.</p> <p>The bill defines &quot;government shutdown&quot; as any portion of a fiscal year for which funds have not been appropriated for such purposes.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-20T13:58:59Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-28</actionDate>
+        <committee>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          <systemCode>hspw07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <text>Referred to House Transportation and Infrastructure</text>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <text>Referred to House Armed Services</text>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-04-27</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SINEMA:H.R. 2220.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Military Pay Protection Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To appropriate such funds as may be necessary to ensure that members of the Armed Forces, including reserve components thereof, and supporting civilian and contractor personnel continue to receive pay and allowances for active service performed when a Government shutdown occurs, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Military Pay Protection Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Military Pay Protection Act of 2017</title>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <state>NJ</state>
+        <lastName>Gottheimer</lastName>
+        <firstName>Josh</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2338</lisID>
+          <gpoId />
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <bioguideId>G000583</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <state>NJ</state>
+        <lastName>Lance</lastName>
+        <firstName>Leonard</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <bioguideId>L000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <state>AZ</state>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2306</lisID>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <bioguideId>O000171</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <state>NY</state>
+        <lastName>Faso</lastName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>2343</lisID>
+          <gpoId />
+          <bioguideId>F000464</bioguideId>
+        </identifiers>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <bioguideId>F000464</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <state>WA</state>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <state>HI</state>
+        <lastName>Gabbard</lastName>
+        <firstName>Tulsi</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2122</lisID>
+          <gpoId />
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-20</sponsorshipDate>
+        <state>MD</state>
+        <lastName>Sarbanes</lastName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>1854</lisID>
+          <gpoId>7978</gpoId>
+          <bioguideId>S001168</bioguideId>
+        </identifiers>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <bioguideId>S001168</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-21</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Ruiz</lastName>
+        <firstName>Raul</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2109</lisID>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <bioguideId>R000599</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>36</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-21</sponsorshipDate>
+        <state>CA</state>
+        <lastName>Lowenthal</lastName>
+        <firstName>Alan</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+          <lisID>2111</lisID>
+        </identifiers>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <bioguideId>L000579</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>47</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <state>ME</state>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <state>NY</state>
+        <lastName>SLAUGHTER</lastName>
+        <firstName>LOUISE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <bioguideId>S000480</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>25</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <state>NJ</state>
+        <lastName>MacArthur</lastName>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2258</lisID>
+          <gpoId />
+          <bioguideId>M001193</bioguideId>
+        </identifiers>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <bioguideId>M001193</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2018-03-26</sponsorshipDate>
+        <state>NY</state>
+        <lastName>Stefanik</lastName>
+        <firstName>Elise</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2017-05-23</actionDate>
+    </latestAction>
+    <title>Military Pay Protection Act of 2017</title>
+    <createDate>2017-04-28T03:11:53Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Sinema</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+        <firstName>Kyrsten</firstName>
+        <state>AZ</state>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>9</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:07:30Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>871</number>
+        <latestAction>
+          <actionDate>2017-04-06</actionDate>
+          <text>Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Ensuring Pay for Our Military Act</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2017-05-23T16:24:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-04-27T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+              <systemCode>hspw07</systemCode>
+              <activities>
+                <item>
+                  <date>2017-04-28T15:41:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-04-27T14:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

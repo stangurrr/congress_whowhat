@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>115</congress>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LANGEVIN:H.R. 2270.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H3003]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000467</bioguideId>
+        <lastName>Thompson</lastName>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>IL</state>
+        <middleName />
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>Raja</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000391</bioguideId>
+        <lastName>Krishnamoorthi</lastName>
+        <district>8</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2325</lisID>
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>IL</state>
+        <middleName>J.</middleName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <firstName>Peter</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000580</bioguideId>
+        <lastName>Roskam</lastName>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7926</gpoId>
+          <lisID>1848</lisID>
+          <bioguideId>R000580</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR H2990)</text>
+        <actionDate>2017-05-01</actionDate>
+        <links>
+          <link>
+            <name>H2990</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2990</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-01</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <billNumber>2270</billNumber>
+    <createDate>2017-05-02T03:11:49Z</createDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-05-01T16:00:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-05-01</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>LANGEVIN</lastName>
+        <bioguideId>L000559</bioguideId>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <state>RI</state>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>PLUS Loan Disability Forgiveness Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend section 437(d) of the Higher Education Act of 1965 to provide for repayment by the Secretary of loans to parents of disabled students.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>PLUS Loan Disability Forgiveness Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>PLUS Loan Disability Forgiveness Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>PLUS Loan Disability Forgiveness Act</title>
+    <laws />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2017-05-01</actionDate>
+      <links />
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <version>1.0.0</version>
+    <updateDate>2018-03-30T14:07:43Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

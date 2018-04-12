@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T07:16:18Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2018-02-06</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2018-02-06</introducedDate>
+    <createDate>2018-02-07T03:11:03Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>BATTLE for Servicemembers Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Better Access to Technical Training, Learning, and Entrepreneurship for Servicemembers Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend title 10, United States Code, to require members of the Armed Forces to receive additional training under the Transition Assistance Program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>BATTLE for Servicemembers Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>BATTLE for Ser­vice­mem­bers Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Better Access to Technical Training, Learning, and Entrepreneurship for Ser­vice­mem­bers Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-02-06T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2018-02-07T20:05:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>4954</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>B001301</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jack</firstName>
+        <lastName>Bergman</lastName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+          <lisID>2333</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001107</bioguideId>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Carlos</firstName>
+        <lastName>Curbelo</lastName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2226</lisID>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+      </item>
+      <item>
+        <bioguideId>P000613</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2309</lisID>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jacky</firstName>
+        <lastName>Rosen</lastName>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>G000581</bioguideId>
+        <district>15</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Vicente</firstName>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <lisID>2349</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+        <sponsorshipDate>2018-03-09</sponsorshipDate>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <bioguideId>P000611</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bruce</firstName>
+        <lastName>Poliquin</lastName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2247</lisID>
+          <bioguideId>P000611</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+      </item>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <district>10</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jody</firstName>
+        <lastName>Hice</lastName>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+      <actionDate>2018-02-07</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Stephanie</firstName>
+        <middleName>N.</middleName>
+        <party>D</party>
+        <state>FL</state>
+        <byRequestType />
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <district>7</district>
+        <bioguideId>M001202</bioguideId>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Murphy</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 23 (Tuesday, February 6, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. MURPHY of Florida:H.R. 4954.Congress has the power to enact this legislation pursuantto the following:U.S. Constitution, Article 1, Section 8, Clause 14: ``Tomake Rules for the Government and Regulation of the land andnaval Forces;''U.S. Constitution, Article 1, Section 8, Clause 18: ``Tomake all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this constitution in the Government of theUnited States, or in any Department or Officer therof.''[Page H902]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>BATTLE for Servicemembers Act</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

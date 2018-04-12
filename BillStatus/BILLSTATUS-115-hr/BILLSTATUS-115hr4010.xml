@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-10-12T03:11:23Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Revised Statutes of the United States and title 28, United States Code, to enhance compliance with requests for information pursuant to legislative power under Article I of the Constitution, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-24T15:47:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-23T18:58:15Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-10-12T20:04:44Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-10-11T14:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2017-10-24</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>4010</billNumber>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-360</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 163 (Wednesday, October 11, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ISSA:H.R. 4010.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 9; Article III, Section 1; andArticle III, Section 2, clause 2 of the Constitution, whichgrant Congress authority to over the federal courts. Inaddition, the Necessary and Proper Clause of Article I,section 8 grants Congress the authority to issue subpoenasincident to its legislative power and require compliance withsuch subpoenas.[Page H7975]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>VA</state>
+        <middleName>W.</middleName>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>ROBERT</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000289</bioguideId>
+        <lastName>GOODLATTE</lastName>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8197</gpoId>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>TX</state>
+        <middleName />
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>LAMAR</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000583</bioguideId>
+        <lastName>SMITH</lastName>
+        <district>21</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>TX</state>
+        <middleName />
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>PETE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000250</bioguideId>
+        <lastName>SESSIONS</lastName>
+        <district>32</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>TX</state>
+        <middleName />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <firstName>Blake</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000460</bioguideId>
+        <lastName>Farenthold</lastName>
+        <district>27</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>IN</state>
+        <middleName />
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <firstName>Luke</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001189</bioguideId>
+        <lastName>Messer</lastName>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+          <lisID>2130</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 4010, Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+        <url>https://www.cbo.gov/publication/53230</url>
+        <pubDate>2017-10-20T20:00:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <bioguideId>I000056</bioguideId>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <identifiers>
+          <bioguideId>I000056</bioguideId>
+          <gpoId>7854</gpoId>
+          <lisID>1640</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <firstName>DARRELL</firstName>
+        <district>49</district>
+        <lastName>ISSA</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <generalDebate>1</generalDebate>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-24</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:29:20</actionTime>
+        <actionCode>H38310</actionCode>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:29:18</actionTime>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <name>H8059-8060</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8059-8060</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8059-8060)</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>17:29:18</actionTime>
+        <actionCode>8000</actionCode>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:17:06</actionTime>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <name>H.R. 4010</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4010</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4010.</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:17:04</actionTime>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H8059-8061</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8059-8061</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H8059-8061)</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:17:03</actionTime>
+        <actionCode>H30300</actionCode>
+        <links />
+        <text>Mr. Issa moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12410</actionCode>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 264.</text>
+        <committee />
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-360</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/360</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-360.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-360</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/360</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-360.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-10-23</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 0.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-11</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-10-11</introducedDate>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-10-30T18:23:37Z</lastSummaryUpdateDate>
+          <updateDate>2017-10-11T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Congressional Subpoena Compliance and Enforcement Act of 2017</b></p> <p>This bill amends the federal judicial code to establish certain rules that apply in a civil action by the Senate, House of Representatives, or a congressional committee or subcommittee against an individual who receives, but fails to comply with, a congressional subpoena. </p> <p>Additionally, the bill amends the Revised Statutes of the United States to establish requirements for the recipient of a subpoena from a congressional committee or subcommittee. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-10-11</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <title>Congressional Subpoena Compliance and Enforcement Act of 2017</title>
+    <calendarNumbers>
+      <item>
+        <calendar>U00264</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <updateDate>2018-03-30T14:16:50Z</updateDate>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

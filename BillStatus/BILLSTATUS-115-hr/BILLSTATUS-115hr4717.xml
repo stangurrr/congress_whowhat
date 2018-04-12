@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>4717</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Century Farms Act of 2017</b></p> <p>This bill requires the Department of Agriculture to establish a program to recognize: (1) any farm that a state department of agriculture or similar statewide agricultural organization recognizes as a Century Farm, or (2) a farm or ranch that has been operated continuously and owned by the same family for at least 100 consecutive years. </p>]]></text>
+          <lastSummaryUpdateDate>2018-01-24T21:03:41Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2017-12-21T05:00:00Z</updateDate>
+          <actionDate>2017-12-21</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionDate>2017-12-21</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-12-21</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-12-21</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-12-21</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 209 (Thursday, December 21, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CRAWFORD:H.R. 4717.Congress has the power to enact this legislation pursuantto the following:Congress has the power to enact this legislation pursuantto the enumerated powers listed in Article I, Section 8,Clause 3 of the U.S. Constitution.[Page H10420]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>Century Farms Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To require the Secretary of Agriculture to establish a program to recognize farms that have been in continuous operation for 100 years.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Century Farms Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Century Farms Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <state>MN</state>
+        <lastName>NOLAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <bioguideId>N000127</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <state>AR</state>
+        <lastName>Westerman</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName />
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <bioguideId>W000821</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+          <lisID>2224</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bruce</firstName>
+      </item>
+      <item>
+        <state>AR</state>
+        <lastName>Womack</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <bioguideId>W000809</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7795</gpoId>
+          <bioguideId>W000809</bioguideId>
+          <lisID>1991</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <state>AR</state>
+        <lastName>Hill</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName>French</middleName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <bioguideId>H001072</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>J.</firstName>
+      </item>
+      <item>
+        <state>MN</state>
+        <lastName>Walz</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <bioguideId>W000799</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1856</lisID>
+          <gpoId>8001</gpoId>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Timothy</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2017-12-21</actionDate>
+    </latestAction>
+    <title>Century Farms Act of 2017</title>
+    <createDate>2017-12-22T03:11:11Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Crawford</lastName>
+        <byRequestType />
+        <middleName>A. "Rick"</middleName>
+        <bioguideId>C001087</bioguideId>
+        <firstName>Eric</firstName>
+        <state>AR</state>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+          <gpoId>7793</gpoId>
+          <lisID>1989</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:19:30Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>1805</number>
+        <latestAction>
+          <actionDate>2017-09-14</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Century Farms Act of 2017</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-21T14:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

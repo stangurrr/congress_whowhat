@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>H001038</bioguideId>
+        <district>26</district>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <middleName />
+        <lastName>Higgins</lastName>
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-24</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-24T21:16:29Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-24T16:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Julia</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Brownley</lastName>
+      </item>
+      <item>
+        <firstName>Madeleine</firstName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001245</bioguideId>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <middleName>Z.</middleName>
+        <state>GU</state>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bordallo</lastName>
+      </item>
+      <item>
+        <firstName>GRACE</firstName>
+        <sponsorshipDate>2017-10-16</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000179</bioguideId>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <state>CA</state>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <district>32</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NAPOLITANO</lastName>
+      </item>
+      <item>
+        <firstName>SANFORD</firstName>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000490</bioguideId>
+        <identifiers>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+        </identifiers>
+        <middleName>D.</middleName>
+        <state>GA</state>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BISHOP</lastName>
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000397</bioguideId>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+      </item>
+      <item>
+        <firstName>Andre</firstName>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001072</bioguideId>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <middleName />
+        <state>IN</state>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Carson</lastName>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>S.</middleName>
+        <state>CA</state>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <district>47</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lowenthal</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2017-07-24</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <title>To amend title 38, United States Code, to improve the access to child care for certain veterans receiving health care at a facility of the Department of Veterans Affairs.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend title 38, United States Code, to improve the access to child care for certain veterans receiving health care at a facility of the Department of Veterans Affairs.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <billNumber>3368</billNumber>
+    <updateDate>2018-04-11T07:16:05Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-24</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <title>To amend title 38, United States Code, to improve the access to child care for certain veterans receiving health care at a facility of the Department of Veterans Affairs.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill directs the Department of Veterans Affairs (VA), beginning January 1, 2018, to provide assistance to qualified veterans to obtain child care so that such veterans can receive health care services at a VA health care facility during the time such a veteran requires travel to and return from such facility.</p> <p>A &quot;qualified veteran&quot; is defined as a veteran who is the primary caretaker of a child and is: (1) receiving from the VA regular mental health care services, intensive mental health care services, or other intensive health care services such that the VA determines that providing assistance to the veteran to obtain child care would improve the veteran's access to such services, or (2) in need of regular or intensive mental health care services from the VA and, but for lack of child care services, would receive such health care services from the VA.</p> <p>Child care assistance under this bill includes:</p> <ul> <li>stipends for the payment of child care offered by licensed child care centers which shall be modeled after the VA's Child Care Subsidy Program,</li> <li>direct provision of child care at an on-site VA facility,</li> <li>payments to private child care agencies, and </li> <li>collaboration with facilities or programs of other federal agencies. </li> </ul> <p>The VA shall carry out this bill using funds made available to the VA facility that provides the health care services for which the child care assistance is provided. </p>]]></text>
+          <lastSummaryUpdateDate>2017-08-15T20:25:40Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-07-24</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2017-07-24T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <createDate>2017-07-25T03:11:35Z</createDate>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIGGINS of New York:H.R. 3368.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18, which allows Congress tomake all laws ``which shall be necessacary and proper forcarrying into execution'' any ``other'' powers vested by theConstitution in the Government of the United States.[Page H6214]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

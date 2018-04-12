@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>4533</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>70</rollNumber>
+        <sessionNumber>2</sessionNumber>
+        <date>2018-02-13T23:55:46Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <url>http://clerk.house.gov/evs/2018/roll070.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill designates the Department of Veterans Affairs: (1) health care system in Lexington, Kentucky, as the &quot;Lexington VA Health Care System,&quot; (2) health care facility at 1101 Veterans Drive, Lexington, Kentucky, as the &quot;Troy E. Bowling Campus,&quot; and (3) health care facility at 2250 Leestown Road, Lexington, Kentucky, as the &quot;Franklin R. Sousley Campus.&quot;</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-12-04</actionDate>
+          <updateDate>2017-12-04T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-22T22:02:42Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(Sec. 2) This bill designates the Department of Veterans Affairs: (1) health care system in Lexington, Kentucky, as the &quot;Lexington VA Health Care System,&quot; (2) health care facility at 1101 Veterans Drive, Lexington, Kentucky, as the &quot;Troy Bowling Campus,&quot; and (3) health care facility at 2250 Leestown Road, Lexington, Kentucky, as the &quot;Franklin R. Sousley Campus.&quot;</p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <actionDate>2018-02-13</actionDate>
+          <updateDate>2018-02-13T12:56:37Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-23T15:47:57Z</lastSummaryUpdateDate>
+          <versionCode>36</versionCode>
+          <name>Passed House amended</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(Sec. 2) This bill designates the Department of Veterans Affairs: (1) health care system in Lexington, Kentucky, as the &quot;Lexington VA Health Care System,&quot; (2) health care facility at 1101 Veterans Drive, Lexington, Kentucky, as the &quot;Troy Bowling Campus,&quot; and (3) health care facility at 2250 Leestown Road, Lexington, Kentucky, as the &quot;Franklin R. Sousley Campus.&quot;</p>]]></text>
+          <actionDesc>Public Law</actionDesc>
+          <actionDate>2018-03-09</actionDate>
+          <updateDate>2018-03-10T04:59:59Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-22T22:04:53Z</lastSummaryUpdateDate>
+          <versionCode>49</versionCode>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Became Public Law No: 115-132.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-03-09</actionDate>
+        <actionCode>E40000</actionCode>
+        <committee />
+        <type>President</type>
+      </item>
+      <item>
+        <text>Became Public Law No: 115-132.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-09</actionDate>
+        <actionCode>36000</actionCode>
+        <committee />
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-03-09</actionDate>
+        <actionCode>E30000</actionCode>
+        <committee />
+        <type>President</type>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-09</actionDate>
+        <actionCode>36000</actionCode>
+        <committee />
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-28</actionDate>
+        <actionCode>E20000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-02-28</actionDate>
+        <actionCode>28000</actionCode>
+        <committee />
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2018-02-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1191</url>
+            <name>S1191</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S1191)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1191)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1191</url>
+            <name>S1191</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-02-15</actionDate>
+        <actionCode>17000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate, read twice.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>18:55:47</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:55:46</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 70). (text: CR H1081-1082)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1081-1082</url>
+            <name>H1081-1082</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll070.xml</url>
+            <name>Roll no. 70</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:55:46</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 70).(text: CR H1081-1082)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1081-1082</url>
+            <name>H1081-1082</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll070.xml</url>
+            <name>Roll no. 70</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>8000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:31:06</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H1103-1104)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1103-1104</url>
+            <name>H1103-1104</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:46:04</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H37220</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:31:30</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4533.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4533</url>
+            <name>H.R. 4533</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:31:29</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H1081-1083)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1081-1083</url>
+            <name>H1081-1083</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:31:20</actionTime>
+        <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-04</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-12-04</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-04</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-04</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <becamePublicLaw>2</becamePublicLaw>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForE>3</placeholderTextForE>
+        <billReferrals>1</billReferrals>
+        <passedSenate>1</passedSenate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <presentedToPresident>1</presentedToPresident>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <sentToHouse>1</sentToHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2017-12-04</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 197 (Monday, December 4, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BARR:H.R. 4533.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H9620]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To designate the health care system of the Department of Veterans Affairs in Lexington, Kentucky, as the "Lexington VA Health Care System" and to make certain other designations.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To designate the health care system of the Department of Veterans Affairs in Lexington, Kentucky, as the "Lexington VA Health Care System" and to make certain other designations.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <bioguideId>R000395</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <party>R</party>
+        <firstName>HAROLD</firstName>
+        <fullName>Rep. Rogers, Harold [R-KY-5]</fullName>
+        <lastName>ROGERS</lastName>
+        <identifiers>
+          <bioguideId>R000395</bioguideId>
+          <gpoId>7957</gpoId>
+          <lisID>977</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>Y000062</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <party>D</party>
+        <firstName>John</firstName>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <lastName>Yarmuth</lastName>
+        <identifiers>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <bioguideId>G000558</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <party>R</party>
+        <firstName>Brett</firstName>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <lastName>Guthrie</lastName>
+        <identifiers>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001184</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <lastName>Massie</lastName>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>C001108</bioguideId>
+        <sponsorshipDate>2017-12-04</sponsorshipDate>
+        <party>R</party>
+        <firstName>James</firstName>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <lastName>Comer</lastName>
+        <identifiers>
+          <bioguideId>C001108</bioguideId>
+          <lisID>2297</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <laws>
+      <item>
+        <number>115-132</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Became Public Law No: 115-132.</text>
+      <actionDate>2018-03-09</actionDate>
+    </latestAction>
+    <title>To designate the health care system of the Department of Veterans Affairs in Lexington, Kentucky, as the "Lexington VA Health Care System" and to make certain other designations.</title>
+    <createDate>2017-12-05T03:11:09Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Barr</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>B001282</bioguideId>
+        <firstName>Andy</firstName>
+        <state>KY</state>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+          <lisID>2131</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>6</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:18:49Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-12-04T19:56:23Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-04T23:00:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

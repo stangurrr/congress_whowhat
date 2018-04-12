@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+          <actionDate>2018-03-08</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Ste. Genevieve National Historical Park Establishment Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1335</number>
+      </item>
+    </relatedBills>
+    <createDate>2017-06-13T03:11:38Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-540</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2018-03-08T15:00:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-06T20:37:58Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-12-12T16:28:42Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2017-11-15T20:15:35Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-22T16:41:28Z</date>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-02-02T19:06:08Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-12-13T16:34:27Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-12T16:01:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <billNumber>2888</billNumber>
+    <actions>
+      <item>
+        <actionDate>2018-03-08</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-02-06</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:39:19</actionTime>
+        <actionDate>2018-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H750-751</url>
+            <name>H750-751</name>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H750-751)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:39:18</actionTime>
+        <actionDate>2018-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>16:39:18</actionTime>
+        <actionDate>2018-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2888</url>
+            <name>H.R. 2888</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2888.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:31:57</actionTime>
+        <actionDate>2018-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H750-752</url>
+            <name>H750-752</name>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H750-752)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:31:54</actionTime>
+        <actionDate>2018-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <links />
+        <text>Mr. Gosar moved to suspend the rules and pass the bill.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:31:39</actionTime>
+        <actionDate>2018-02-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 405.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-02</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/540</url>
+            <name>H. Rept. 115-540</name>
+          </link>
+        </links>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-540.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-02</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/540</url>
+            <name>H. Rept. 115-540</name>
+          </link>
+        </links>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-540.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-02-02</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-12</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-12</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Federal Lands Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-22</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-12</actionDate>
+      </item>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <prayer>1</prayer>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <orderedReported>1</orderedReported>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>2</actionStageOverride>
+        <generalDebate>1</generalDebate>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Ste. Genevieve National Historical Park Establishment Act</title>
+    <updateDate>2018-04-10T20:42:20Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 99 (Monday, June 12, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Missouri:H.R. 2888.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2: The Congress shall havepower to dispose of and make all needful Rules andregulations respecting the Territory of other Propertybelonging to the United States; and nothing in thisConstitution shall be so construed as to Prejudice and Claimsor the United States, or any particular State.____________________[Page H4855]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <state>MO</state>
+        <district>8</district>
+        <identifiers>
+          <lisID>2191</lisID>
+          <bioguideId>S001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jason</firstName>
+        <bioguideId>S001195</bioguideId>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <party>R</party>
+        <middleName />
+        <lastName>Smith</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <latestAction>
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <links />
+      <actionDate>2018-03-08</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-05T19:26:42Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-06-12</actionDate>
+          <text><![CDATA[<p><b>Ste. Genevieve National Historical Park Establishment Act</b></p> <p> This bill establishes the Ste. Genevieve National Historical Park in Missouri as a unit of the National Park System. </p> <p>The Department of the Interior may acquire by donation, purchase, or exchange any land or interest in land located within the park's boundary or any nationally significant property identified in the special resource study that is within the Ste. Genevieve Historic District National Historic Landmark. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-06-12T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/53413</url>
+        <pubDate>2017-12-15T22:05:00Z</pubDate>
+        <title>H.R. 2888, Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/53735</url>
+        <pubDate>2018-04-10T20:29:30Z</pubDate>
+        <title>H.R. 2888, Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish the Ste. Genevieve National Historic Site in the State of Missouri, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Ste. Genevieve National Historical Park Establishment Act</title>
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>U00405</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <introducedDate>2017-06-12</introducedDate>
+    <recordedVotes />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Missouri</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

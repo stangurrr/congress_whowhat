@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T07:16:24Z</updateDate>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2018-03-14</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2018-03-14</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2018-03-14</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2018-03-14</introducedDate>
+    <createDate>2018-03-15T07:10:59Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Electricity Reliability and Fuel Security Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to allow a credit against tax for coal-powered electric generation units.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Electricity Reliability and Fuel Security Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Electricity Reliability and Fuel Security Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-03-14T14:00:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>5270</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+          <bioguideId>B000213</bioguideId>
+        </identifiers>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <middleName>L.</middleName>
+        <bioguideId>B000213</bioguideId>
+        <district>6</district>
+        <lastName>BARTON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOE</firstName>
+      </item>
+      <item>
+        <state>ND</state>
+        <party>R</party>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <middleName />
+        <bioguideId>C001096</bioguideId>
+        <district>0</district>
+        <lastName>Cramer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <middleName />
+        <bioguideId>B001282</bioguideId>
+        <district>6</district>
+        <lastName>Barr</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+      </item>
+      <item>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2278</lisID>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <middleName>H.</middleName>
+        <bioguideId>J000297</bioguideId>
+        <district>3</district>
+        <lastName>Jenkins</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Evan</firstName>
+      </item>
+      <item>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <middleName>B.</middleName>
+        <bioguideId>M001180</bioguideId>
+        <district>1</district>
+        <lastName>McKinley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+        </identifiers>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <middleName />
+        <bioguideId>G000563</bioguideId>
+        <district>7</district>
+        <lastName>Gibbs</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <middleName />
+        <bioguideId>S001187</bioguideId>
+        <district>15</district>
+        <lastName>Stivers</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+        </identifiers>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <middleName>X.</middleName>
+        <bioguideId>M001195</bioguideId>
+        <district>2</district>
+        <lastName>Mooney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Alexander</firstName>
+      </item>
+      <item>
+        <state>VA</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+          <lisID>2070</lisID>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <middleName>Morgan</middleName>
+        <bioguideId>G000568</bioguideId>
+        <district>9</district>
+        <lastName>Griffith</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>H.</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2018-03-14</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Larry</firstName>
+        <middleName />
+        <party>R</party>
+        <state>IN</state>
+        <byRequestType />
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <district>8</district>
+        <bioguideId>B001275</bioguideId>
+        <identifiers>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <lastName>Bucshon</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 45 (Wednesday, March 14, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUCSHON:H.R. 5270.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H1608]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>Electricity Reliability and Fuel Security Act</title>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

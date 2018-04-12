@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicaid Third Party Liability Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XIX of the Social Security Act to provide clarification with respect to the liability of third party payers for medical assistance paid under the Medicaid program, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Medicaid Third Party Liability Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Medicaid Third Party Liability Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <district>26</district>
+        <middleName>C.</middleName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <bioguideId>B001248</bioguideId>
+        <firstName>Michael</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <billNumber>938</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Flores</lastName>
+        <bioguideId>F000461</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <identifiers>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+          <lisID>2065</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>17</district>
+      </item>
+      <item>
+        <lastName>Guthrie</lastName>
+        <bioguideId>G000558</bioguideId>
+        <state>KY</state>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <identifiers>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Brett</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <title>Medicaid Third Party Liability Act</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Separation, divorce, custody, support</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-10</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <updateDate>2018-03-30T14:01:57Z</updateDate>
+    <createDate>2017-02-08T04:46:00Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <introducedDate>2017-02-07</introducedDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Medicaid Third Party Liability Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-26</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2027</number>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>HEALTHY KIDS Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-23</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 263.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3921</number>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BURGESS:H.R. 938.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the United StatesConstitution, which grants Congress the power to lay andcollect taxes, duties, imposts, excises, to pay the debts andprovide for the common defence and general welfare of theUnited States.Article 1, Section 8, Clause 3 of the United StatesConstitution, which grants Congress the power to regulatecommerce with foreign nations, and among the several States,and with the Indian Tribes.Article 1, Section 8, Clause 18 of the United StatesConstitution, which grants Congress the power to make alllaws which shall be necessary and proper for carrying intoexecution the foregoing powers, and all other powers vestedby the Constitution in the government of the United States orin any department or office thereof.[Page H1085]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-02-07</actionDate>
+          <text><![CDATA[<p><strong>Medicaid Third Party Liability Act</strong></p> <p>This bill alters provisions related to third-party liability for medical assistance paid under the Medicaid program. Specifically, with respect to such liability, the bill:</p> <ul> <li>expands the&nbsp;definition of "responsible third party"&nbsp;to include, among other health insurers,&nbsp;the TRICARE program; </li> <li>eliminates special rules with respect to certain services provided to children; </li> <li>requires the inclusion, in a contract between a state Medicaid program and a health insurer, of&nbsp;certain information regarding whether the state is delegating or transferring to the&nbsp;insurer a right of&nbsp;third-party recovery;&nbsp; </li> <li>provides for the treatment as overpayment of reimbursements made by a responsible third party to a health insurer; </li> <li>disallows a responsible third party from denying a state's claim solely on the basis of a failure to obtain a prior authorization;&nbsp; </li> <li>imposes a timeline for a responsible third party to respond to a state's inquiry regarding a claim for payment; </li> <li>provides for reductions to a state Medicaid program's federal matching rate&nbsp;if the state&nbsp;fails to comply with third-party insurance requirements; and </li> <li>modifies other provisions related to third-party liability under the Medicaid program.</li></ul> <p>Third-party liability requirements applicable&nbsp;under Medicaid&nbsp;shall also apply&nbsp;under the Children's Health Insurance Program (CHIP).</p> <p>The Centers for Medicare &amp; Medicaid Services&nbsp;must:</p> <ul> <li>publish on its website, and annually update, best practices for assessing third-party liability; </li> <li>monitor and analyze efforts to assess that liability; </li> <li>in consultation with states, develop and make available a model uniform reporting field for identifying information related to responsible third parties; and </li> <li>provide other specified information and guidance to states.</li></ul>]]></text>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-02-08T20:01:54Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-10T17:40:27Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:06:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

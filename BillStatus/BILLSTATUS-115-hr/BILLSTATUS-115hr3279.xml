@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-07-19T03:11:33Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Mineral Leasing Act to provide that extraction of helium from gas produced under a Federal mineral lease shall maintain the lease as if the helium were oil and gas.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Helium Extraction Act of 2017</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-11-02T15:43:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-23T23:31:15Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-26T17:13:31Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-18T14:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-11-02</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>3279</billNumber>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-365</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 121 (Tuesday, July 18, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COOK:H.R. 3279.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, clause 2 and Article I, Section 8,clause 18[Page H5978]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3279, Helium Extraction Act of 2017</title>
+        <url>https://www.cbo.gov/publication/53238</url>
+        <pubDate>2017-10-23T21:02:51Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <bioguideId>C001094</bioguideId>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+          <lisID>2103</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Paul</firstName>
+        <district>8</district>
+        <lastName>Cook</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-02</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>14:44:27</actionTime>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-11-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>14:44:25</actionTime>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8323)</text>
+        <actionDate>2017-11-01</actionDate>
+        <links>
+          <link>
+            <name>H8323</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8323</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>14:44:25</actionTime>
+        <actionCode>8000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <actionDate>2017-11-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionTime>14:37:59</actionTime>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3279.</text>
+        <actionDate>2017-11-01</actionDate>
+        <links>
+          <link>
+            <name>H.R. 3279</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3279</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>14:37:51</actionTime>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H8323)</text>
+        <actionDate>2017-11-01</actionDate>
+        <links>
+          <link>
+            <name>H8323</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8323</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionTime>14:37:49</actionTime>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Mr. Cook moved to suspend the rules and pass the bill.</text>
+        <actionDate>2017-11-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <text>Placed on the Union Calendar, Calendar No. 267.</text>
+        <actionDate>2017-10-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-365.</text>
+        <actionDate>2017-10-23</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-365</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/365</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-365.</text>
+        <actionDate>2017-10-23</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 115-365</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/365</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-07-18</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <considerationByHouse>1</considerationByHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-07-18</introducedDate>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-18</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Helium Extraction Act of 2017</b></p> <p>This bill amends the Mineral Leasing Act to require that land leased by the Department of the Interior for the extraction of helium shall fall under the same lease terms as a federal oil and gas lease.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-07-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-17T12:02:01Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <actionDate>2017-10-23</actionDate>
+          <name>Reported to House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Helium Extraction Act of 2017</b></p> <p>(Sec.2)This bill amends the Mineral Leasing Act to require that land leased by the Department of the Interior for the extraction of helium shall fall under the same lease terms as a federal oil and gas lease.</p>]]></text>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <updateDate>2017-10-23T12:45:28Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-24T17:51:29Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDate>2017-11-01</actionDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) </p> <p><b>Helium Extraction Act of 2017</b></p> <p>(Sec.2)This bill amends the Mineral Leasing Act to require that land leased by the Department of the Interior for the extraction of helium shall fall under the same lease terms as a federal oil and gas lease.</p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <updateDate>2017-11-01T13:47:31Z</updateDate>
+          <lastSummaryUpdateDate>2017-11-03T18:12:24Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <title>Helium Extraction Act of 2017</title>
+    <calendarNumbers>
+      <item>
+        <calendar>U00267</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <updateDate>2018-03-30T14:13:36Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>1572</number>
+        <latestAction>
+          <actionDate>2017-07-18</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Helium Extraction Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

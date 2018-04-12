@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Federal Spectrum Incentive Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the National Telecommunications and Information Administration Organization Act to provide incentives for the reallocation of Federal Government spectrum for commercial use, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Federal Spectrum Incentive Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Federal Spectrum Incentive Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <lastName>Guthrie</lastName>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <bioguideId>G000558</bioguideId>
+        <firstName>Brett</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <billNumber>1888</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>Doris</firstName>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <lastName>Matsui</lastName>
+        <middleName>O.</middleName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <bioguideId>M001163</bioguideId>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <title>Federal Spectrum Incentive Act of 2017</title>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-24</actionDate>
+      <text>Referred to the Subcommittee on Emerging Threats and Capabilities.</text>
+    </latestAction>
+    <updateDate>2018-03-30T14:06:12Z</updateDate>
+    <createDate>2017-04-05T03:11:52Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <systemCode>hsas26</systemCode>
+          <name>Emerging Threats and Capabilities Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Emerging Threats and Capabilities.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-07</actionDate>
+        <committee>
+          <systemCode>hsif16</systemCode>
+          <name>Communications and Technology Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to House Armed Services</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to House Energy and Commerce</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <introducedDate>2017-04-04</introducedDate>
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GUTHRIE:H.R. 1888.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3To regulate Commerce with foreign Nations, and among theseveral States, and with the Indian Tribes;[Page H2697]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Federal Spectrum Incentive Act of</strong> <b>2017</b></p> <p>This bill amends the National Telecommunications and Information Administration Organization Act to allow federal entities that utilize government station licenses to participate in the incentive auction program under which licensees of electromagnetic spectrum voluntarily relinquish their spectrum rights in order for such spectrum to be auctioned for a repurposed commercial use in exchange for a percentage of the auction proceeds.</p> <p>Instead of being reimbursed for the costs of sharing frequencies with nonfederal users or relocating to other frequencies as provided for under current law, such federal entities may receive a percentage of the proceeds from spectrum it relinquishes for auction by electing to: (1) discontinue operations on eligible frequencies without relocating to other frequencies, or (2) relocate operations to frequencies assigned to another federal entity in order for such entities to share frequencies.</p> <p>The bill establishes in the Treasury a Federal Spectrum Incentive Fund to be administered by the Office of Management and Budget (OMB) in consultation with the National Telecommunications and Information Administration.</p> <p>The bill requires 1% of the proceeds from such auctions to be deposited in such fund and the remainder to be deposited in the general fund of the Treasury for the sole purpose of deficit reduction.</p> <p>OMB must transfer from the fund to a federal entity a specified amount attributable to the auction of frequencies vacated by such entity. Federal entities may use such amounts for: (1) any purposes permitted under the terms and conditions of an appropriations account that was subject to sequestration for any fiscal year under the Balanced Budget and Emergency Deficit Control Act of 1985, provided that the amount used does not exceed the amount by which the account was reduced by sequestration for such fiscal year; or (2) a transfer of amounts to an incumbent federal entity for such purposes when the federal entity relinquishing spectrum relocates its operations to frequencies assigned to another federal entity in order to share frequencies.</p>]]></text>
+          <updateDate>2017-04-04T04:00:00Z</updateDate>
+          <actionDate>2017-04-04</actionDate>
+          <lastSummaryUpdateDate>2017-05-04T22:10:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Emerging Threats and Capabilities Subcommittee</name>
+              <systemCode>hsas26</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-24T14:43:39Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T14:04:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Communications and Technology Subcommittee</name>
+              <systemCode>hsif16</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-07T14:34:04Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-04T14:04:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

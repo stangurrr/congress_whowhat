@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <createDate>2018-04-11T12:25:58Z</createDate>
+    <committeeReports />
+    <policyArea />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-10T16:00:22Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <billNumber>5455</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on the Budget.</text>
+        <actionDate>2018-04-10</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-04-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-04-10</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>To prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power which the National Institutes of Health had after the historic doubling campaign that ended in fiscal year 2003.</title>
+    <updateDate>2018-04-11T12:33:16Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 57 (Tuesday, April 10, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeLauro:H.R. 5455.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 and Article 1, Section 9,Clause 7 of the United States Constitution[Page H3096]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <state>CT</state>
+        <district>3</district>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+        </identifiers>
+        <firstName>ROSA</firstName>
+        <bioguideId>D000216</bioguideId>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <party>D</party>
+        <middleName />
+        <lastName>DELAURO</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on the Budget.</text>
+      <links />
+      <actionDate>2018-04-10</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power which the National Institutes of Health had after the historic doubling campaign that ended in fiscal year 2003.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power which the National Institutes of Health had after the historic doubling campaign that ended in fiscal year 2003.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <introducedDate>2018-04-10</introducedDate>
+    <recordedVotes />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

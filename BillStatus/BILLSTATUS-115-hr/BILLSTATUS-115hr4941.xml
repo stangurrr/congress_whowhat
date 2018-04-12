@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committeeReports />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-02-06</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <lastName>Marino</lastName>
+        <byRequestType />
+        <middleName />
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <district>10</district>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <gpoId>8128</gpoId>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+        </identifiers>
+        <bioguideId>M001179</bioguideId>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 23 (Tuesday, February 6, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARINO:H.R. 4941.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3: Congress shall have thepower ``To regulate Commerce with foreign Nations, and amongthe several States, and with the Indian Tribes.''[Page H902]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <updateDate>2018-03-30T14:20:15Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsag29</systemCode>
+              <name>Livestock and Foreign Agriculture Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-03-08T17:42:55Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-02-06T14:00:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Keep Our Pets Safe Act of 2018</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Animal Welfare Act to protect common household pets from harmful confinement.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Keep Our Pets Safe Act of 2018</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Keep Our Pets Safe Act of 2018</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2018-03-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </latestAction>
+    <billType>HR</billType>
+    <createDate>2018-02-07T03:11:02Z</createDate>
+    <amendments />
+    <cosponsors>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipDate>2018-03-23</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001090</bioguideId>
+        <lastName>Cartwright</lastName>
+        <district>17</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <title>Keep Our Pets Safe Act of 2018</title>
+    <billNumber>4941</billNumber>
+    <congress>115</congress>
+    <actions>
+      <item>
+        <actionDate>2018-03-08</actionDate>
+        <committee>
+          <name>Livestock and Foreign Agriculture Subcommittee</name>
+          <systemCode>hsag29</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-02-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-02-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-02-06</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

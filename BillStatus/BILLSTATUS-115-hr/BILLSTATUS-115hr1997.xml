@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-04-07T03:11:58Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Ukraine Cybersecurity Cooperation Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ukraine Cybersecurity Cooperation Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To encourage United States-Ukraine cybersecurity cooperation and require a report regarding such cooperation, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Ukraine Cybersecurity Cooperation Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Ukraine Cybersecurity Cooperation Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Ukraine Cybersecurity Cooperation Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>62</rollNumber>
+        <chamber>House</chamber>
+        <sessionNumber>2</sessionNumber>
+        <url>http://clerk.house.gov/evs/2018/roll062.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <congress>115</congress>
+        <date>2018-02-08T00:17:47Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-08T16:20:32Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <name>Foreign Relations Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2017-12-14T15:12:38Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T13:02:30Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-18T15:32:01Z</date>
+                </item>
+              </activities>
+              <systemCode>hsfa14</systemCode>
+              <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2018-02-08</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1997</billNumber>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 60 (Thursday, April 6, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRENDAN F. BOYLE of Pennsylvania:H.R. 1997.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution under theGeneral Welfare Clause.[Page H2790]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <lastName>Fitzpatrick</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>E000179</bioguideId>
+        <lastName>ENGEL</lastName>
+        <identifiers>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+        </identifiers>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <middleName>L.</middleName>
+        <firstName>ELIOT</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>K000009</bioguideId>
+        <lastName>KAPTUR</lastName>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <middleName />
+        <firstName>MARCY</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <lastName>Poe</lastName>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <middleName />
+        <firstName>Ted</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001257</bioguideId>
+        <lastName>Bilirakis</lastName>
+        <identifiers>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <middleName>M.</middleName>
+        <firstName>Gus</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>M001181</bioguideId>
+        <lastName>Meehan</lastName>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <middleName />
+        <firstName>Patrick</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <lastName>Burgess</lastName>
+        <identifiers>
+          <lisID>1751</lisID>
+          <gpoId>8182</gpoId>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <middleName>C.</middleName>
+        <firstName>Michael</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <lastName>Kelly</lastName>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+          <lisID>2190</lisID>
+        </identifiers>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <middleName>L.</middleName>
+        <firstName>Robin</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <lastName>Titus</lastName>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <middleName />
+        <firstName>Dina</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <middleName />
+        <firstName>Carol</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S000364</bioguideId>
+        <lastName>SHIMKUS</lastName>
+        <identifiers>
+          <gpoId>7939</gpoId>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+        </identifiers>
+        <district>15</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <middleName>M.</middleName>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <lastName>Cicilline</lastName>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>K000375</bioguideId>
+        <lastName>Keating</lastName>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <middleName>R.</middleName>
+        <firstName>William</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>H001047</bioguideId>
+        <lastName>Himes</lastName>
+        <identifiers>
+          <gpoId>7869</gpoId>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <middleName>A.</middleName>
+        <firstName>James</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>L000263</bioguideId>
+        <lastName>LEVIN</lastName>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <middleName>M.</middleName>
+        <firstName>SANDER</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>T000475</bioguideId>
+        <lastName>Trott</lastName>
+        <identifiers>
+          <lisID>2250</lisID>
+          <gpoId />
+          <bioguideId>T000475</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <middleName>A.</middleName>
+        <firstName>David</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>P000096</bioguideId>
+        <lastName>PASCRELL</lastName>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+        <firstName>WILLIAM</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>L000563</bioguideId>
+        <lastName>Lipinski</lastName>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <lastName>Weber</lastName>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <middleName>K.</middleName>
+        <firstName>Randy</firstName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>L000480</bioguideId>
+        <lastName>LOWEY</lastName>
+        <identifiers>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <middleName>M.</middleName>
+        <firstName>NITA</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>R000515</bioguideId>
+        <lastName>RUSH</lastName>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <middleName>L.</middleName>
+        <firstName>BOBBY</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <lastName>Connolly</lastName>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <middleName>E.</middleName>
+        <firstName>Gerald</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>Q000023</bioguideId>
+        <lastName>Quigley</lastName>
+        <identifiers>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <middleName />
+        <firstName>Mike</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S001165</bioguideId>
+        <lastName>Sires</lastName>
+        <identifiers>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <middleName />
+        <firstName>Albio</firstName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>F000462</bioguideId>
+        <lastName>Frankel</lastName>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+          <gpoId />
+        </identifiers>
+        <district>21</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <middleName />
+        <firstName>Lois</firstName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 1997, Ukraine Cybersecurity Cooperation Act of 2017</title>
+        <url>https://www.cbo.gov/publication/53482</url>
+        <pubDate>2018-01-18T16:08:12Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <identifiers>
+          <lisID>2267</lisID>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <firstName>Brendan</firstName>
+        <district>13</district>
+        <lastName>Boyle</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2018-02-08</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>19:17:48</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 404 - 3 (Roll no. 62). (text: CR 2/5/2018 H757-758)</text>
+        <links>
+          <link>
+            <name>CR 2/5/2018 H757</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H757</url>
+          </link>
+          <link>
+            <name>Roll no. 62</name>
+            <url>http://clerk.house.gov/evs/2018/roll062.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <actionTime>19:17:47</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 404 - 3 (Roll no. 62).(text: CR 2/5/2018 H757-758)</text>
+        <links>
+          <link>
+            <name>CR 2/5/2018 H757</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H757</url>
+          </link>
+          <link>
+            <name>Roll no. 62</name>
+            <url>http://clerk.house.gov/evs/2018/roll062.xml</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>19:17:47</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <text>Considered as unfinished business. (consideration: CR H966-967)</text>
+        <links>
+          <link>
+            <name>H966-967</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H966-967</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>19:07:21</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Royce (CA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37210</actionCode>
+        <actionTime>17:38:40</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1997.</text>
+        <links>
+          <link>
+            <name>H.R. 1997</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1997</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <actionTime>17:23:51</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H757-760)</text>
+        <links>
+          <link>
+            <name>H757-760</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H757-760</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <actionTime>17:23:49</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <text>Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <actionTime>17:23:40</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-14</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-14</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Europe, Eurasia, and Emerging Threats Subcommittee</name>
+          <systemCode>hsfa14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <actionStageOverride>1</actionStageOverride>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Ukraine</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-04-06</introducedDate>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Ukraine Cybersecurity Cooperation Act of 2017</b></p> <p>This bill expresses the sense of Congress that the Department of State should take the following actions, commensurate with U.S. interests, to help Ukraine improve its cybersecurity: (1) provide Ukraine necessary support to increase most advanced security protection on government computers, particularly systems that defend Ukraine's critical infrastructure; (2) provide Ukraine support to reduce reliance on Russian technology; and (3) help Ukraine to build capacity, expand cyber security information sharing, and cooperate in international response efforts. </p> <p>The State Department shall: (1) report to Congress on the status of U.S.-Ukraine cybersecurity cooperation, and (2) pursue regional cooperation to address shared cyber challenges.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-10-18T20:19:05Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>Ukraine Cybersecurity Cooperation Act of 2017</b></p> <p>(Sec. 3) This bill states that is U.S. policy to: (1) reaffirm the United States-Ukraine Charter on Strategic Partnership, which highlights the bilateral relationship's importance and outlines enhanced cooperation in defense, security, economics and trade, energy security, and democracy; (2) support continued cooperation between the North Atlantic Treaty Organization (NATO) and Ukraine; (3) support Ukraine's political and economic reforms; (4) reaffirm the commitment of the United States to the Budapest Memorandum on Security Assurances; (5) assist Ukraine's efforts to enhance its cyber security capabilities; and (6) improve Ukraine's ability to respond to Russian-supported disinformation and propaganda efforts in cyberspace, including through social media. </p> <p>(Sec. 4) It is the sense of Congress that the Department of State should take the following actions, commensurate with U.S. interests, to help Ukraine improve its cyber security: (1) provide Ukraine necessary support to secure government computer networks from cyber intrusions, particularly networks that defend critical infrastructure; (2) provide Ukraine support to reduce reliance on Russian information and communications technology; and (3) help Ukraine build capacity, expand cyber security information sharing, and cooperate on international cyber space efforts.</p> <p> The State Department shall report to Congress on U.S.-Ukraine cyber security cooperation. Such report shall also include information on: (1) U.S. efforts to strengthen Ukraine's ability to prevent and respond to cyber incidents; (2) the potential for new areas of U.S.-Ukraine mutual assistance in addressing shared cyber challenges, including cyber crime, critical infrastructure protection, and resilience against botnets and other automated, distributed threats; and (3) NATO's efforts to help Ukraine develop technical capabilities to counter cyber threats. </p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <actionDate>2018-02-07</actionDate>
+          <updateDate>2018-02-07T14:21:56Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-06T15:58:48Z</lastSummaryUpdateDate>
+          <versionCode>36</versionCode>
+          <name>Passed House amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <title>Ukraine Cybersecurity Cooperation Act of 2017</title>
+    <calendarNumbers />
+    <updateDate>2018-03-30T14:06:39Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-02-27</actionDate>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>2455</number>
+        <type>S</type>
+        <latestTitle>Ukraine Cybersecurity Cooperation Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

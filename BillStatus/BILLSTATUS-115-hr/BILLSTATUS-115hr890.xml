@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Copyright Office for the Digital Economy Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish the United States Copyright Office as an agency in the legislative branch, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Copyright Office for the Digital Economy Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Copyright Office for the Digital Economy Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8128</gpoId>
+          <lisID>2053</lisID>
+          <bioguideId>M001179</bioguideId>
+        </identifiers>
+        <lastName>Marino</lastName>
+        <party>R</party>
+        <district>10</district>
+        <middleName />
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <bioguideId>M001179</bioguideId>
+        <firstName>Tom</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <billNumber>890</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>27</district>
+        <state>CA</state>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <middleName />
+        <firstName>Judy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Chu</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>10</district>
+        <state>VA</state>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <bioguideId>C001105</bioguideId>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <middleName />
+        <firstName>Barbara</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Comstock</lastName>
+      </item>
+    </cosponsors>
+    <title>Copyright Office for the Digital Economy Act</title>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Library of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-06</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <updateDate>2018-03-30T14:01:44Z</updateDate>
+    <createDate>2017-02-07T04:46:14Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-06</actionDate>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-06</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-06</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <introducedDate>2017-02-06</introducedDate>
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARINO:H.R. 890.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 8: To promote the Progress ofScience and useful Arts, by security for limited Times toAuthors and Inventors the exclusive Right to their respectiveWritings and Discoveries.[Page H1013]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Copyright Office for the Digital Economy Act</b></p> <p>This bill establishes the U.S. Copyright Office as a separate independent agency in the legislative branch, to be headed by a director appointed by the President with the advice and consent of the Senate. (Currently, the Copyright Office is part of the Library of Congress [LOC] and is headed by the Register of Copyrights.) </p> <p>The director's term of office is limited to 10 years without eligibility for reappointment. The director must appoint officers and employees responsible for administering the Copyright Office's technology and data systems. </p> <p>The Copyright Office shall: (1) provide services in a manner that reflects technological needs and developments, and (2) promptly register copyright claims within a period that does not adversely impact the timely enforcement of rights and remedies.</p> <p>No U.S. agency is authorized to require the Copyright Office to obtain an agency's approval before the Copyright Office submits legislative recommendations to Congress.</p> <p>Copyright owners may register their copyright claims by delivering examination copies of their works to the Copyright Office. The Copyright Office must then provide the LOC access to such examination copies and related data solely for the LOC's determination of whether to demand a deposit of the material or to otherwise engage with copyright owners regarding works of authorship that may be of curatorial and collection interest to the national library. The Copyright Office must also consult with the LOC on other matters of common interest. </p> <p>The director must establish a Copyright Advisory Board to advise the Copyright Office and to provide information on emerging technology practices. </p> <p>The Copyright Office must also: (1) submit a report on the future administration of mandatory deposit provisions and their application to the digital era, and (2) conduct studies to ensure that it has the technology and staff to establish and maintain a modern copyright system.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-22T23:11:01Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-06T05:00:00Z</updateDate>
+          <actionDate>2017-02-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-06T17:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

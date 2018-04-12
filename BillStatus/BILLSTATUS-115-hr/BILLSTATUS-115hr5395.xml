@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2018-03-22</introducedDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-03-23T08:07:57Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2018-03-22T04:00:00Z</updateDate>
+          <actionDate>2018-03-22</actionDate>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 116 Main Street in Dansville, New York, as the "Staff Sergeant Alexandria Gleason-Morrow Post Office Building."]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To designate the facility of the United States Postal Service located at 116 Main Street in Dansville, New York, as the "Staff Sergeant Alexandria Gleason-Morrow Post Office Building".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To designate the facility of the United States Postal Service located at 116 Main Street in Dansville, New York, as the "Staff Sergeant Alexandria Gleason-Morrow Post Office Building".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2018-03-23T07:11:00Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 50 (Thursday, March 22, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COLLINS of New York:H.R. 5395.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2042]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-22</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2018-03-22</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2018-03-22</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <lastName>Zeldin</lastName>
+        <bioguideId>Z000017</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lee</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>KING</lastName>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Rice</lastName>
+        <bioguideId>R000602</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kathleen</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>MEEKS</lastName>
+        <bioguideId>M001137</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>VELAZQUEZ</lastName>
+        <bioguideId>V000081</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <identifiers>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>NYDIA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>7</district>
+      </item>
+      <item>
+        <lastName>Jeffries</lastName>
+        <bioguideId>J000294</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <identifiers>
+          <lisID>2149</lisID>
+          <gpoId />
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Hakeem</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>Donovan</lastName>
+        <bioguideId>D000625</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <identifiers>
+          <lisID>2293</lisID>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>11</district>
+      </item>
+      <item>
+        <lastName>Espaillat</lastName>
+        <bioguideId>E000297</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Adriano</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>SERRANO</lastName>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <identifiers>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOSE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>15</district>
+      </item>
+      <item>
+        <lastName>Maloney</lastName>
+        <bioguideId>M001185</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+          <lisID>2150</lisID>
+        </identifiers>
+        <middleName>Patrick</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>18</district>
+      </item>
+      <item>
+        <lastName>Faso</lastName>
+        <bioguideId>F000464</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000464</bioguideId>
+          <lisID>2343</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>19</district>
+      </item>
+      <item>
+        <lastName>Stefanik</lastName>
+        <bioguideId>S001196</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elise</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>21</district>
+      </item>
+      <item>
+        <lastName>Tenney</lastName>
+        <bioguideId>T000478</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <identifiers>
+          <bioguideId>T000478</bioguideId>
+          <gpoId />
+          <lisID>2344</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Claudia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>22</district>
+      </item>
+      <item>
+        <lastName>Reed</lastName>
+        <bioguideId>R000585</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>23</district>
+      </item>
+      <item>
+        <lastName>Katko</lastName>
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <identifiers>
+          <lisID>2264</lisID>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>24</district>
+      </item>
+      <item>
+        <lastName>Higgins</lastName>
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>26</district>
+      </item>
+    </cosponsors>
+    <billNumber>5395</billNumber>
+    <committeeReports />
+    <notes />
+    <latestAction>
+      <actionDate>2018-03-22</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Oversight and Government Reform Committee</name>
+          <activities>
+            <item>
+              <date>2018-03-22T13:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-03-30T14:21:55Z</updateDate>
+    <title>To designate the facility of the United States Postal Service located at 116 Main Street in Dansville, New York, as the "Staff Sergeant Alexandria Gleason-Morrow Post Office Building".</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <state>NY</state>
+        <lastName>Collins</lastName>
+        <bioguideId>C001092</bioguideId>
+        <district>27</district>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <lisID>2151</lisID>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <firstName>Chris</firstName>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

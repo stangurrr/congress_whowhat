@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-09T22:30:13Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2017-06-28</introducedDate>
+    <createDate>2017-06-29T03:11:36Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the President to develop a national strategy for combating the financing of terrorism and related forms of illicit finance, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To require the President to develop a national strategy for combating the financing of terrorism and related forms of illicit finance, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-28T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>3100</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>NC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <bioguideId>B001305</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Budd</lastName>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2149</lisID>
+          <gpoId />
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <bioguideId>J000294</bioguideId>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Jeffries</lastName>
+        <firstName>Hakeem</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <bioguideId>S001187</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Stivers</lastName>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <bioguideId>L000562</bioguideId>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Lynch</lastName>
+        <firstName>Stephen</firstName>
+      </item>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>K000380</bioguideId>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Kildee</lastName>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+        </identifiers>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <bioguideId>R000593</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Ross</lastName>
+        <firstName>Dennis</firstName>
+      </item>
+      <item>
+        <state>IN</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+        </identifiers>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <bioguideId>M001189</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Messer</lastName>
+        <firstName>Luke</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <bioguideId>S001189</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <firstName>Austin</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>30</district>
+        <bioguideId>S000344</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>SHERMAN</lastName>
+        <firstName>BRAD</firstName>
+      </item>
+      <item>
+        <state>MD</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2133</lisID>
+          <gpoId />
+          <bioguideId>D000620</bioguideId>
+        </identifiers>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <bioguideId>D000620</bioguideId>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Delaney</lastName>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+          <lisID>2338</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>G000583</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <lastName>Gottheimer</lastName>
+        <firstName>Josh</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <bioguideId>M001181</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <lastName>Meehan</lastName>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+        </identifiers>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <bioguideId>M000087</bioguideId>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>MALONEY</lastName>
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>O000171</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>O'Halleran</lastName>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>28</district>
+        <bioguideId>C001063</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Cuellar</lastName>
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+          <lisID>2321</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <bioguideId>C001111</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Crist</lastName>
+        <firstName>Charlie</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1774</lisID>
+          <gpoId>7825</gpoId>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+        <bioguideId>C001059</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Costa</lastName>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>L000563</bioguideId>
+        <middleName>William</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Lipinski</lastName>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>B000490</bioguideId>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>BISHOP</lastName>
+        <firstName>SANFORD</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2312</lisID>
+          <bioguideId>C001110</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>46</district>
+        <bioguideId>C001110</bioguideId>
+        <middleName>Luis</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Correa</lastName>
+        <firstName>J.</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+        <bioguideId>G000581</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Gonzalez</lastName>
+        <firstName>Vicente</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <lisID>2318</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <bioguideId>M001202</bioguideId>
+        <middleName>N.</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <firstName>Stephanie</firstName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2124</lisID>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <bioguideId>S001190</bioguideId>
+        <middleName>Scott</middleName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>Schneider</lastName>
+        <firstName>Bradley</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>T000460</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <lastName>THOMPSON</lastName>
+        <firstName>MIKE</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2017-06-28</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <party>D</party>
+        <state>AZ</state>
+        <byRequestType />
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <district>9</district>
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <lastName>Sinema</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SINEMA:H.R. 3100.Congress has the power to enact this legislation pursuantto the following:Article I. Section 8.[Page H5296]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>To require the President to develop a national strategy for combating the financing of terrorism and related forms of illicit finance, and for other purposes.</title>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <number>3364</number>
+        <congress>115</congress>
+        <latestTitle>Countering America's Adversaries Through Sanctions Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-08-02</actionDate>
+          <text>Became Public Law No: 115-44.</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>722</number>
+        <congress>115</congress>
+        <latestTitle>Countering Iran's Destabilizing Activities Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-06-29</actionDate>
+          <text>Message on Senate action sent to the House.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>3203</number>
+        <congress>115</congress>
+        <latestTitle>Countering Iran's Destabilizing Activities Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-24</actionDate>
+          <text>Referred to the Subcommittee on Trade.</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

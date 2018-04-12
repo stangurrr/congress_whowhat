@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-27T14:03:40Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <name>Social Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-10T19:46:20Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm01</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <calendarNumbers />
+    <updateDate>2018-04-03T21:00:11Z</updateDate>
+    <billType>HR</billType>
+    <title>Senior Citizens' Freedom to Work Act of 2017</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SAM JOHNSON of Texas:H.R. 3077.Congress has the power to enact this legislation pursuantto the following:Clause 1 of section 8 of article I of the Constitution, to``provide for the common defense and general welfare of theUnited States.''[Page H5232]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <createDate>2017-06-28T03:11:37Z</createDate>
+    <latestAction>
+      <actionDate>2017-07-10</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>W000813</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walorski</lastName>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>D000628</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <firstName>Neal</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dunn</lastName>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>W000795</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000174</bioguideId>
+          <gpoId>8159</gpoId>
+          <lisID>603</lisID>
+        </identifiers>
+        <state>TX</state>
+        <lastName>JOHNSON</lastName>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <party>R</party>
+        <bioguideId>J000174</bioguideId>
+        <firstName>SAM</firstName>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee>
+          <name>Social Security Subcommittee</name>
+          <systemCode>hswm01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-06-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-06-27</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <actionDate>2017-06-27</actionDate>
+      </item>
+    </actions>
+    <introducedDate>2017-06-27</introducedDate>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Let Seniors Work Act of 2017</latestTitle>
+        <number>158</number>
+        <latestAction>
+          <actionDate>2017-01-17</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <title>Senior Citizens' Freedom to Work Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title II of the Social Security Act to repeal the retirement earnings test, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Senior Citizens' Freedom to Work Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Senior Citizens’ Freedom to Work Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-06-27</actionDate>
+          <lastSummaryUpdateDate>2018-01-31T16:32:03Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-06-27T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Senior Citizens' Freedom to Work Act of 2017 </b></p> <p>This bill amends title II (Old Age, Survivors, and Disability Insurance) (OASDI) of the Social Security Act to remove limitations on the amount of outside income that an OASDI&nbsp;beneficiary may earn without incurring a reduction in benefits.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <billNumber>3077</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

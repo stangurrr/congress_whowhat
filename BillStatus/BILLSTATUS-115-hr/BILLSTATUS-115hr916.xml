@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>916</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <text><![CDATA[<p><b>Risk Management and Homeowner Stability Act of 2017</b></p> <p>This bill amends the Congressional Budget Act of 1974 to prohibit the chairs of the congressional budget committees from counting increases to guarantee fees as offsets for budget enforcement purposes. The bill includes an exception for legislation that increases guarantee fees to finance reforms to the secondary mortgage market. </p> <p>(Guarantee fees are charged by enterprises, such as the Federal National Mortgage Association [Fannie Mae] and the Federal Home Loan Mortgage Corporation [Freddie Mac], to guarantee the payment of principal and interest on loans. This bill prevents the fees from being used to offset provisions that increase the deficit in determining whether a budget point of order applies to legislation.) </p>]]></text>
+          <lastSummaryUpdateDate>2017-03-01T22:34:02Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+        <text>Referred to House Budget</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <text>Referred to House Rules</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-02-07</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-07</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SANFORD:H.R. 916.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1084]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Risk Management and Homeowner Stability Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Congressional Budget and Impoundment Control Act of 1974 to prohibit the use of guarantee fees as offsets.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Risk Management and Homeowner Stability Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Risk Management and Homeowner Stability Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <party>D</party>
+        <bioguideId>S000344</bioguideId>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>SHERMAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>30</district>
+      </item>
+      <item>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <firstName>Barbara</firstName>
+        <party>R</party>
+        <bioguideId>C001105</bioguideId>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <lastName>Comstock</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <party>D</party>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>ESHOO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipDate>2017-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>20</district>
+      </item>
+      <item>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <firstName>Joyce</firstName>
+        <party>D</party>
+        <bioguideId>B001281</bioguideId>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <lastName>Beatty</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+          <lisID>2106</lisID>
+        </identifiers>
+        <firstName>Julia</firstName>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>Brownley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2162</lisID>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <firstName>Beto</firstName>
+        <party>D</party>
+        <bioguideId>O000170</bioguideId>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <lastName>O'Rourke</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <party>D</party>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>NAPOLITANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>32</district>
+      </item>
+      <item>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000387</bioguideId>
+          <gpoId />
+          <lisID>2228</lisID>
+        </identifiers>
+        <firstName>Stephen</firstName>
+        <party>R</party>
+        <bioguideId>K000387</bioguideId>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>Knight</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>25</district>
+      </item>
+      <item>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2338</lisID>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <firstName>Josh</firstName>
+        <party>D</party>
+        <bioguideId>G000583</bioguideId>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <lastName>Gottheimer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>R000593</bioguideId>
+          <gpoId>7884</gpoId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <firstName>Dennis</firstName>
+        <party>R</party>
+        <bioguideId>R000593</bioguideId>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <lastName>Ross</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+      </item>
+      <item>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <middleName>ABNEY</middleName>
+        <identifiers>
+          <bioguideId>C001048</bioguideId>
+          <gpoId>8163</gpoId>
+          <lisID>1670</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <bioguideId>C001048</bioguideId>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <lastName>CULBERSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>Huffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <firstName>Lou</firstName>
+        <party>R</party>
+        <bioguideId>B001269</bioguideId>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <lastName>Barletta</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <firstName>Jacky</firstName>
+        <party>D</party>
+        <bioguideId>R000608</bioguideId>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <lastName>Rosen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+          <lisID>2229</lisID>
+        </identifiers>
+        <firstName>Pete</firstName>
+        <party>D</party>
+        <bioguideId>A000371</bioguideId>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>Aguilar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>31</district>
+      </item>
+      <item>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <party>R</party>
+        <bioguideId>D000625</bioguideId>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <lastName>Donovan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>LOFGREN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+      </item>
+      <item>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>C001077</bioguideId>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <lastName>Coffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2361</lisID>
+          <gpoId />
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <lastName>Norman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Referred to House Budget</text>
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+    <title>Risk Management and Homeowner Stability Act of 2017</title>
+    <createDate>2017-02-08T04:45:59Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Sanford</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>S000051</bioguideId>
+        <firstName>Mark</firstName>
+        <state>SC</state>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <identifiers>
+          <lisID>1012</lisID>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:01:51Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Budget Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-07T15:00:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsbu00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-07T15:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

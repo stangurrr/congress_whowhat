@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2018-03-01</actionDate>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>5138</billNumber>
+    <congress>115</congress>
+    <recordedVotes />
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-01</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Bipartisan HSA Improvement Act of 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to improve access to health care through modernized health savings accounts.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Bipartisan HSA Improvement Act of 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Bipartisan HSA Improvement Act of 2018</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <party>R</party>
+        <bioguideId>K000376</bioguideId>
+        <district>3</district>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <district>3</district>
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>EARL</firstName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <district>3</district>
+        <state>MN</state>
+        <bioguideId>P000594</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Erik</firstName>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Paulsen</lastName>
+      </item>
+      <item>
+        <district>3</district>
+        <state>WI</state>
+        <bioguideId>K000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>RON</firstName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>KIND</lastName>
+      </item>
+      <item>
+        <district>7</district>
+        <state>AL</state>
+        <bioguideId>S001185</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Terri</firstName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <lastName>Sewell</lastName>
+      </item>
+      <item>
+        <district>8</district>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <district>9</district>
+        <state>AZ</state>
+        <bioguideId>S001191</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Kyrsten</firstName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Sinema</lastName>
+      </item>
+      <item>
+        <district>27</district>
+        <state>NY</state>
+        <bioguideId>C001092</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Chris</firstName>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Collins</lastName>
+      </item>
+      <item>
+        <district>8</district>
+        <state>MO</state>
+        <bioguideId>S001195</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Smith</lastName>
+      </item>
+      <item>
+        <district>26</district>
+        <state>FL</state>
+        <bioguideId>C001107</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <firstName>Carlos</firstName>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Curbelo</lastName>
+      </item>
+    </cosponsors>
+    <createDate>2018-03-02T08:11:02Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-03-01T18:30:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <relatedBills />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 37 (Thursday, March 1, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRENDAN F. BOYLE of Pennsylvania:H.R. 5137.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the U. S. Constitution, whichgrants Congress the power to ``lay and collect Taxes, Duties,Imposts, and Excises, to pay the Debts and provide for thecommon defense and general Welfare of the United States.''By Mr KELLY of Pennsylvania:H.R. 5138.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution[Page H1341]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <title>Bipartisan HSA Improvement Act of 2018</title>
+    <laws />
+    <introducedDate>2018-03-01</introducedDate>
+    <updateDate>2018-04-11T07:16:20Z</updateDate>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T07:16:25Z</updateDate>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-03-14</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-14</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-03-14</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2018-03-14</introducedDate>
+    <createDate>2018-03-15T07:10:59Z</createDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Global Electoral Exchange Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To promote international exchanges on best election practices, cultivate more secure democratic institutions around the world, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Global Electoral Exchange Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Global Electoral Exchange Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-03-14T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>5274</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <bioguideId>M001187</bioguideId>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <district>11</district>
+        <party>R</party>
+        <lastName>Meadows</lastName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>DAVID</firstName>
+        <bioguideId>P000523</bioguideId>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <identifiers>
+          <lisID>930</lisID>
+          <bioguideId>P000523</bioguideId>
+          <gpoId>8027</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <district>4</district>
+        <party>D</party>
+        <lastName>PRICE</lastName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+        <bioguideId>R000580</bioguideId>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <identifiers>
+          <lisID>1848</lisID>
+          <bioguideId>R000580</bioguideId>
+          <gpoId>7926</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Roskam</lastName>
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>GREGORY</firstName>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <identifiers>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>5</district>
+        <party>D</party>
+        <lastName>MEEKS</lastName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2018-03-14</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Joaquin</firstName>
+        <middleName />
+        <party>D</party>
+        <state>TX</state>
+        <byRequestType />
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <district>20</district>
+        <bioguideId>C001091</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2163</lisID>
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+        <lastName>Castro</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 45 (Wednesday, March 14, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CASTRO of Texas:H.R. 5274.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: ``To regulate Commerce withforeign Nations, and among the several States . . .''[Page H1608]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>Global Electoral Exchange Act</title>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

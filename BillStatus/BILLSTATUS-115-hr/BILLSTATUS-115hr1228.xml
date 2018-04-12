@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <lastName>BRADY</lastName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <bioguideId>B001227</bioguideId>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <createDate>2017-02-28T05:17:28Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Congressional leadership</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments>
+      <amendment>
+        <type>HAMDT</type>
+        <submittedDate>2017-03-15T04:00:00Z</submittedDate>
+        <titles />
+        <chamber>House of Representatives</chamber>
+        <amendedAmendment />
+        <description />
+        <notes />
+        <sponsors>
+          <item>
+            <state>MS</state>
+            <bioguideId>H001045</bioguideId>
+            <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+            <identifiers>
+              <bioguideId>H001045</bioguideId>
+              <gpoId>8021</gpoId>
+              <lisID>1933</lisID>
+            </identifiers>
+            <middleName />
+            <firstName>Gregg</firstName>
+            <district>3</district>
+            <lastName>Harper</lastName>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <createDate>2017-03-16T09:29:18Z</createDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <version>1.0.0</version>
+        <number>80</number>
+        <proposedDate />
+        <congress>115</congress>
+        <amendedBill>
+          <title>To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes.</title>
+          <originChamberCode>H</originChamberCode>
+          <number>1228</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>115</congress>
+        </amendedBill>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <updateDate>2018-03-30T14:02:02Z</updateDate>
+        <actions>
+          <actionTypeCounts>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/80</url>
+                  <name>H.Amdt.80</name>
+                </link>
+              </links>
+              <committee />
+              <actionCode>H34111</actionCode>
+              <actionTime>19:51:03</actionTime>
+              <text>On agreeing to the Harper amendment (A001) Agreed to by voice vote.</text>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/80</url>
+                  <name>H.Amdt.80</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2071</url>
+                  <name>H2071</name>
+                </link>
+              </links>
+              <committee />
+              <actionCode>H3A100</actionCode>
+              <actionTime>19:50:51</actionTime>
+              <text>Amendment (A001) offered by Mr. Harper. (consideration: CR H2071; text: CR H2071)</text>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/80</url>
+                  <name>H.Amdt.80</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2071</url>
+                  <name>H2071</name>
+                </link>
+              </links>
+              <committee />
+              <actionCode>71500</actionCode>
+              <actionTime>19:50:51</actionTime>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Mr. Harper.(consideration: CR H2071; text: CR H2071)</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <type>NotUsed</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/80</url>
+                  <name>H.Amdt.80</name>
+                </link>
+              </links>
+              <committee />
+              <actionCode>79000</actionCode>
+              <actionTime>19:51:03</actionTime>
+              <text>Amendment agreed to by House: On agreeing to the Harper amendment (A001) Agreed to by voice vote.</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/80</url>
+                  <name>H.Amdt.80</name>
+                </link>
+              </links>
+              <committee />
+              <actionCode>72000</actionCode>
+              <actionTime>19:51:03</actionTime>
+              <text>House amendment agreed to: On agreeing to the Harper amendment (A001) Agreed to by voice vote.</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-03-15</actionDate>
+              <type>Floor</type>
+              <links />
+              <committee />
+              <actionCode>71000</actionCode>
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <count>7</count>
+        </actions>
+        <purpose>An amendment to add a new subsection relating to the authority of Congressional leadership in making appointments.</purpose>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionTime>19:51:03</actionTime>
+          <actionDate>2017-03-15</actionDate>
+          <text>On agreeing to the Harper amendment (A001) Agreed to by voice vote.</text>
+        </latestAction>
+        <number>80</number>
+        <congress>115</congress>
+        <description />
+        <purpose>An amendment to add a new subsection relating to the authority of Congressional leadership in making appointments.</purpose>
+      </amendment>
+    </amendments>
+    <updateDate>2018-03-30T14:03:16Z</updateDate>
+    <latestAction>
+      <text>Became Public Law No: 115-19.</text>
+      <actionDate>2017-04-03</actionDate>
+      <links>
+        <link>
+          <name>Public Law No: 115-19</name>
+          <url>https://www.congress.gov/bill/115th-congress/house-bill/1228/text/pl</url>
+        </link>
+      </links>
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <state>MS</state>
+        <firstName>Gregg</firstName>
+        <lastName>Harper</lastName>
+        <byRequestType />
+        <bioguideId>H001045</bioguideId>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <congress>115</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-03-15T23:50:30Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-02-27T17:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <notes />
+    <title>To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes.</title>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>115-19</number>
+      </item>
+    </laws>
+    <billNumber>1228</billNumber>
+    <actions>
+      <item>
+        <actionDate>2017-04-03</actionDate>
+        <text>Became Public Law No: 115-19.</text>
+        <links>
+          <link>
+            <name>Public Law No: 115-19</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1228/text/pl</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>E40000</actionCode>
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2017-04-03</actionDate>
+        <text>Became Public Law No: 115-19.</text>
+        <links>
+          <link>
+            <name>Public Law No: 115-19</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1228/text/pl</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>36000</actionCode>
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <actionDate>2017-04-03</actionDate>
+        <text>Signed by President.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>E30000</actionCode>
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2017-04-03</actionDate>
+        <text>Signed by President.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>36000</actionCode>
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <text>Presented to President.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>E20000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <text>Presented to President.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>28000</actionCode>
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2017-03-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1897</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1897</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1897)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <text>Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1897)</text>
+        <links>
+          <link>
+            <name>S1897</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1897</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <actionTime>19:51:24</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <text>On passage Passed without objection.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37100</actionCode>
+        <actionTime>19:51:17</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionTime>19:51:17</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <text>Committee on House Administration discharged. (consideration: CR H2071; text: CR H2071)</text>
+        <links>
+          <link>
+            <name>H2071</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2071</url>
+          </link>
+        </links>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12300</actionCode>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <text>Committee on House Administration discharged.(consideration: CR H2071; text: CR H2071)</text>
+        <links>
+          <link>
+            <name>H2071</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2071</url>
+          </link>
+        </links>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>5500</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-15</actionDate>
+        <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30200</actionCode>
+        <actionTime>19:50:14</actionTime>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForE>3</placeholderTextForE>
+        <introducedInHouse>1</introducedInHouse>
+        <sentToHouse>1</sentToHouse>
+        <billReferrals>1</billReferrals>
+        <becamePublicLaw>2</becamePublicLaw>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <presentedToPresident>1</presentedToPresident>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-27</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This bill provides that of the three members appointed to the Board of Directors of the Office of Compliance (OOC) to replace the three members whose terms expire in March 2017, one shall have a three-year term and two shall have a four-year term. (The OOC was established by the Congressional Accountability Act of 1995 to administer and enforce that Act and to assist Members of Congress in understanding their rights and responsibilities under workplace and accessibility laws.) </p> <p>The board members appointed to replace the two members whose terms expire in May 2017 shall each have a five-year term.</p> <p>This bill allows a board member whose term expires in: (1) March 2017 to be reappointed to serve one additional three or four-year term, and (2) May 2017 to be reappointed to serve an additional five-year term. Such board members may not be reappointed to any additional terms after their additional term expires.</p> <p>The bill amends the Congressional Accountability Act of 1995 to permit a board member to serve after his or her term has expired until a successor has taken office.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-27T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-02T22:45:34Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDate>2017-03-15</actionDate>
+          <name>Passed House amended</name>
+          <text><![CDATA[<p>(Sec. 1) This bill provides that of the three members appointed to the Board of Directors of the Office of Compliance (OOC) to replace the three members whose terms expire in March 2017, one shall have a three-year term and two shall have a four-year term. (The OOC was established by the Congressional Accountability Act of 1995 to administer and enforce that Act and to assist Members of Congress in understanding their rights and responsibilities under workplace and accessibility laws.) </p> <p>The board members appointed to replace the two members whose terms expire in May 2017 shall each have a five-year term.</p> <p>This bill allows a board member whose term expires in: (1) March 2017 to be reappointed to serve one additional three or four-year term, and (2) May 2017 to be reappointed to serve an additional five-year term. Such board members may not be reappointed to any additional terms after their additional term expires.</p> <p>The bill amends the Congressional Accountability Act of 1995 to: (1) permit a board member to serve after his or her term has expired until a successor has taken office; and (2) authorize the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House and Senate to take such steps as they consider appropriate to ensure the timely appointment of board members consistent with such Act's requirements.</p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2017-03-15T13:42:51Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-27T18:13:41Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDate>2017-03-21</actionDate>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was passed by the House on March 15, 2017. The summary of that version is repeated here.)</p> <p>(Sec. 1) This bill provides that of the three members appointed to the Board of Directors of the Office of Compliance (OOC) to replace the three members whose terms expire in March 2017, one shall have a three-year term and two shall have a four-year term. (The OOC was established by the Congressional Accountability Act of 1995 to administer and enforce that Act and to assist Members of Congress in understanding their rights and responsibilities under workplace and accessibility laws.) </p> <p>The board members appointed to replace the two members whose terms expire in May 2017 shall each have a five-year term.</p> <p>This bill allows a board member whose term expires in: (1) March 2017 to be reappointed to serve one additional three or four-year term, and (2) May 2017 to be reappointed to serve an additional five-year term. Such board members may not be reappointed to any additional terms after their additional term expires.</p> <p>The bill amends the Congressional Accountability Act of 1995 to: (1) permit a board member to serve after his or her term has expired until a successor has taken office; and (2) authorize the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House and Senate to take such steps as they consider appropriate to ensure the timely appointment of board members consistent with such Act's requirements.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <updateDate>2017-03-21T12:32:44Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-27T18:14:03Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDate>2017-04-03</actionDate>
+          <name>Public Law</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was passed by the House on March 15, 2017. The summary of that version is repeated here.)</p> <p>(Sec. 1) This bill provides that of the three members appointed to the Board of Directors of the Office of Compliance (OOC) to replace the three members whose terms expire in March 2017, one shall have a three-year term and two shall have a four-year term. (The OOC was established by the Congressional Accountability Act of 1995 to administer and enforce that Act and to assist Members of Congress in understanding their rights and responsibilities under workplace and accessibility laws.) </p> <p>The board members appointed to replace the two members whose terms expire in May 2017 shall each have a five-year term.</p> <p>This bill allows a board member whose term expires in: (1) March 2017 to be reappointed to serve one additional three or four-year term, and (2) May 2017 to be reappointed to serve an additional five-year term. Such board members may not be reappointed to any additional terms after their additional term expires.</p> <p>The bill amends the Congressional Accountability Act of 1995 to: (1) permit a board member to serve after his or her term has expired until a successor has taken office; and (2) authorize the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House and Senate to take such steps as they consider appropriate to ensure the timely appointment of board members consistent with such Act's requirements.</p>]]></text>
+          <actionDesc>Public Law</actionDesc>
+          <updateDate>2017-04-04T03:59:58Z</updateDate>
+          <lastSummaryUpdateDate>2017-04-10T15:25:15Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-02-27</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HARPER:H.R. 1228.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution, which grantsCongress the authority to make laws governing the commerceamong several states, including employment discriminationlaws.[Page H1355]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

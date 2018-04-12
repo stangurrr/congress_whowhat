@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>3460</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-11-02T19:42:25Z</lastSummaryUpdateDate>
+          <updateDate>2017-07-27T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill designates the U.S. courthouse located at 323 Chapel Hill Street in Durham, North Carolina, as the &quot;John Hervey Wheeler United States Courthouse.&quot;</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-07-27</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-07-27</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-07-27</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUTTERFIELD:H.R. 3460.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: The Necessary and ProperClause.[Page H6518]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>To designate the United States courthouse located at 323 East Chapel Hill Street in Durham, North Carolina, as the "John Hervey Wheeler United States Courthouse".</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To designate the United States courthouse located at 323 East Chapel Hill Street in Durham, North Carolina, as the "John Hervey Wheeler United States Courthouse".</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <state>NC</state>
+        <middleName>E.</middleName>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>DAVID</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000523</bioguideId>
+        <lastName>PRICE</lastName>
+        <district>4</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName>S.</middleName>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Alma</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000370</bioguideId>
+        <lastName>Adams</lastName>
+        <district>12</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000603</bioguideId>
+        <lastName>Rouzer</lastName>
+        <district>7</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+          <lisID>2256</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>WALTER</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001067</bioguideId>
+        <lastName>Hudson</lastName>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Virginia</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000450</bioguideId>
+        <lastName>Foxx</lastName>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1791</lisID>
+          <gpoId>8028</gpoId>
+          <bioguideId>F000450</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000819</bioguideId>
+        <lastName>Walker</lastName>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001305</bioguideId>
+        <lastName>Budd</lastName>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2336</lisID>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Patrick</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001156</bioguideId>
+        <lastName>McHenry</lastName>
+        <district>10</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1792</lisID>
+          <gpoId>8033</gpoId>
+          <bioguideId>M001156</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <district>11</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <firstName>George</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001065</bioguideId>
+        <lastName>Holding</lastName>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001065</bioguideId>
+          <lisID>2143</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <actionDate>2017-07-28</actionDate>
+    </latestAction>
+    <title>To designate the United States courthouse located at 323 East Chapel Hill Street in Durham, North Carolina, as the "John Hervey Wheeler United States Courthouse".</title>
+    <createDate>2017-07-28T03:11:37Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Butterfield</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>B001251</bioguideId>
+        <firstName>G. K.</firstName>
+        <state>NC</state>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <identifiers>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+          <lisID>1761</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:14:43Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-07-28T16:55:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-27T14:09:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

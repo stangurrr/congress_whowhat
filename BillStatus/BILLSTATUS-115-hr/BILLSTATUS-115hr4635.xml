@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-01-24T22:27:19Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill directs the Department of Veterans Affairs (VA) to ensure that the veterans peer counseling program includes a sufficient number of peer counselors for women veterans. </p> <p>Such counselors may be VA employees and may have expertise in: (1) gender-specific issues and services, (2) VA services and benefits, and (3) employment mentoring. </p> <p>The VA shall: (1) emphasize facilitating peer-to-peer counseling for women veterans who suffered sexual trauma while in the Armed Forces, have post-traumatic stress disorder or suffer from another mental health condition, or are otherwise at risk of becoming homeless; (2) conduct program outreach; and (3) coordinate with community organizations, state and local governments, institutions of higher education, local business organizations, and legal assistance organizations.</p>]]></text>
+          <actionDate>2017-12-13</actionDate>
+          <updateDate>2017-12-13T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-12-13</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <actionDate>2017-12-13</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-12-13</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-12-13</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2018-04-06T07:15:33Z</updateDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-12-13</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <title>To direct the Secretary of Veterans Affairs to increase the number of peer-to-peer counselors providing counseling for women veterans, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <district>6</district>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <lastName>Coffman</lastName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <middleName />
+        <bioguideId>C001077</bioguideId>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-12-13</introducedDate>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <amendments />
+    <createDate>2017-12-14T03:11:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-12-13T15:00:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-12-13T19:44:12Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <middleName>H.</middleName>
+        <party>D</party>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-12-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <lastName>Esty</lastName>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <bioguideId>E000293</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <bioguideId>C001053</bioguideId>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <party>R</party>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+          <lisID>2266</lisID>
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <lastName>Costello</lastName>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <bioguideId>C001106</bioguideId>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <lastName>Himes</lastName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <bioguideId>H001047</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <district>19</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>LOFGREN</lastName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <bioguideId>L000397</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <lastName>Bishop</lastName>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <bioguideId>B001293</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <lastName>Poliquin</lastName>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <bioguideId>P000611</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <lastName>Dingell</lastName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <firstName>Gwen</firstName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <lastName>Moore</lastName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <bioguideId>M001160</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2162</lisID>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <firstName>Beto</firstName>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <lastName>O'Rourke</lastName>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <bioguideId>O000170</bioguideId>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <party>D</party>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <firstName>Yvette</firstName>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <lastName>Clarke</lastName>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <bioguideId>C001067</bioguideId>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <party>R</party>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <lastName>Rutherford</lastName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <bioguideId>R000609</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2018-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <lastName>KIND</lastName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <bioguideId>K000188</bioguideId>
+      </item>
+      <item>
+        <middleName>Coleman</middleName>
+        <party>R</party>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2222</lisID>
+          <bioguideId>R000600</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Aumua Amata</firstName>
+        <sponsorshipDate>2018-03-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>AS</state>
+        <lastName>Radewagen</lastName>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <bioguideId>R000600</bioguideId>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <firstName>NYDIA</firstName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <lastName>VELAZQUEZ</lastName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <bioguideId>V000081</bioguideId>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <firstName>Gus</firstName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <lastName>Bilirakis</lastName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <bioguideId>B001257</bioguideId>
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2347</lisID>
+          <bioguideId>G000582</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jenniffer</firstName>
+        <sponsorshipDate>2018-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PR</state>
+        <lastName>Gonzalez-Colon</lastName>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <bioguideId>G000582</bioguideId>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 203 (Wednesday, December 13, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 4635.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution.[Page H9900]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <billNumber>4635</billNumber>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <number>2402</number>
+        <latestTitle>A bill to direct the Secretary of Veterans Affairs to increase the number of peer-to-peer counselors providing counseling for women veterans, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2018-02-08</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Veterans Affairs to increase the number of peer-to-peer counselors providing counseling for women veterans, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To direct the Secretary of Veterans Affairs to increase the number of peer-to-peer counselors providing counseling for women veterans, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

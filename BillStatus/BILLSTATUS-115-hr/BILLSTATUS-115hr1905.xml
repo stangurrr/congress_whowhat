@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T07:15:54Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <systemCode>hsas29</systemCode>
+          <name>Strategic Forces Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Strategic Forces.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Education and the Workforce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Armed Services</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Administration</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to House Oversight and Government Reform</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration, the Judiciary, Armed Services, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>5</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2017-04-05</introducedDate>
+    <createDate>2017-04-06T03:11:54Z</createDate>
+    <titles>
+      <item>
+        <title>Fair Chance Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Fair Chance to Compete for Jobs Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To prohibit Federal agencies and Federal contractors from requesting that an applicant for employment disclose criminal history record information before the applicant has received a conditional offer, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Fair Chance Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Fair Chance Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Fair Chance to Compete for Jobs Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:27Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-24T14:43:25Z</date>
+                </item>
+              </activities>
+              <name>Readiness Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsas29</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-24T14:43:04Z</date>
+                </item>
+              </activities>
+              <name>Strategic Forces Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:32Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:22Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:17Z</date>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:00:12Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>1905</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>DARRELL</firstName>
+        <bioguideId>I000056</bioguideId>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <identifiers>
+          <bioguideId>I000056</bioguideId>
+          <lisID>1640</lisID>
+          <gpoId>7854</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>49</district>
+        <party>R</party>
+        <lastName>ISSA</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <district>18</district>
+        <party>D</party>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+      <item>
+        <middleName>C. "Bobby"</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <bioguideId>S000185</bioguideId>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <identifiers>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>ADAM</firstName>
+        <bioguideId>S000510</bioguideId>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <identifiers>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <district>9</district>
+        <party>D</party>
+        <lastName>SMITH</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <district>13</district>
+        <party>D</party>
+        <lastName>CONYERS</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bonnie</firstName>
+        <bioguideId>W000822</bioguideId>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <identifiers>
+          <lisID>2259</lisID>
+          <gpoId />
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <district>12</district>
+        <party>D</party>
+        <lastName>Watson Coleman</lastName>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <district>0</district>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <district>9</district>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <bioguideId>F000454</bioguideId>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <identifiers>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>11</district>
+        <party>D</party>
+        <lastName>Foster</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Donald</firstName>
+        <bioguideId>P000604</bioguideId>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <district>10</district>
+        <party>D</party>
+        <lastName>Payne</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>37</district>
+        <party>D</party>
+        <lastName>Bass</lastName>
+      </item>
+      <item>
+        <middleName>Patrick</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+        <bioguideId>M001185</bioguideId>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <district>18</district>
+        <party>D</party>
+        <lastName>Maloney</lastName>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cedric</firstName>
+        <bioguideId>R000588</bioguideId>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Richmond</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jerry</firstName>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <identifiers>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>9</district>
+        <party>D</party>
+        <lastName>McNerney</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jamie</firstName>
+        <bioguideId>R000606</bioguideId>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <district>8</district>
+        <party>D</party>
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brenda</firstName>
+        <bioguideId>L000581</bioguideId>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+          <lisID>2252</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <district>14</district>
+        <party>D</party>
+        <lastName>Lawrence</lastName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gerald</firstName>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <district>11</district>
+        <party>D</party>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>32</district>
+        <party>D</party>
+        <lastName>NAPOLITANO</lastName>
+      </item>
+      <item>
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>WM.</firstName>
+        <bioguideId>C001049</bioguideId>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <district>1</district>
+        <party>D</party>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JERROLD</firstName>
+        <bioguideId>N000002</bioguideId>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>10</district>
+        <party>D</party>
+        <lastName>NADLER</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Charlie</firstName>
+        <bioguideId>C001111</bioguideId>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <district>13</district>
+        <party>D</party>
+        <lastName>Crist</lastName>
+      </item>
+      <item>
+        <middleName>Donald</middleName>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>A.</firstName>
+        <bioguideId>M001200</bioguideId>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <identifiers>
+          <lisID>2352</lisID>
+          <bioguideId>M001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <district>4</district>
+        <party>D</party>
+        <lastName>McEachin</lastName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <links />
+      <actionDate>2017-04-24</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>ELIJAH</firstName>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <state>MD</state>
+        <byRequestType />
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <district>7</district>
+        <bioguideId>C000984</bioguideId>
+        <identifiers>
+          <gpoId>7982</gpoId>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-05</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Fair Chance to Compete for Jobs Act of 2017 or the Fair Chance Act</strong></p> <p>This bill prohibits federal agencies and federal contractors from requesting that applicants for employment disclose criminal history record information before receiving a conditional offer (an offer of employment conditioned upon the results of a criminal history inquiry). The bill sets forth positions to which such prohibition shall not apply, such as positions for which prior consideration of criminal history record information is otherwise required by law, positions with law enforcement and national security duties, and positions requiring access to classified information.</p> <p>The bill prohibits agencies from requiring an individual or sole proprietor who submits a bid for a contract to disclose criminal history record information regarding that individual or sole proprietor before determining the apparent awardee.</p> <p>The Office of Personnel Management, the Office of Compliance, the Administrative Office of the United States Courts, the General Services Administration, and the Department of Defense must: (1) establish procedures for submitting complaints about, and taking actions against, agency employees and contractors for violating such prohibitions and for appealing such an action; and (2) issue regulations to implement this bill. The Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation to implement the requirements of this bill.</p> <p>The Bureau of Justice Statistics, in coordination with the Bureau of the Census, must: (1) design and initiate a study on the employment of individuals who are released from federal prison after completing a term of imprisonment for a federal criminal offense, and (2) report to Congress at specified intervals.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-06-14T15:27:20Z</lastSummaryUpdateDate>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employee performance</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Office of Personnel Management (OPM)</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUMMINGS:H.R. 1905.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18.[Page H2754]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>Fair Chance Act</title>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <number>842</number>
+        <congress>115</congress>
+        <latestTitle>Fair Chance to Compete for Jobs Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-25</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

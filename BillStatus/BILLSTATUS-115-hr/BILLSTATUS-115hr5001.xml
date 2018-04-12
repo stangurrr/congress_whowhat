@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2018-02-13</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-02-13</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-02-13</actionDate>
+        <links />
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2018-04-06T17:45:12Z</updateDate>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2018-02-13</actionDate>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Professional sports</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>To award a Congressional Gold Medal to Billie Jean King, in recognition of her contribution to the Nation and her courageous and groundbreaking leadership advancing equal rights for women and the LGBT community in athletics, education, and our society.</title>
+    <sponsors>
+      <item>
+        <district>14</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <firstName>JOSEPH</firstName>
+        <lastName>CROWLEY</lastName>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <middleName />
+        <bioguideId>C001038</bioguideId>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2018-02-13</introducedDate>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <amendments />
+    <createDate>2018-02-14T03:11:02Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-13T17:00:30Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <lastName>Lowenthal</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000579</bioguideId>
+        <firstName>Alan</firstName>
+        <district>47</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000297</bioguideId>
+        <firstName>Adriano</firstName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Y000062</bioguideId>
+        <firstName>John</firstName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <identifiers>
+          <lisID>1853</lisID>
+          <bioguideId>Y000062</bioguideId>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>Watson Coleman</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000822</bioguideId>
+        <firstName>Bonnie</firstName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Maloney</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001185</bioguideId>
+        <firstName>Sean</firstName>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2018-03-05</sponsorshipDate>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <middleName>Patrick</middleName>
+      </item>
+      <item>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000087</bioguideId>
+        <firstName>CAROLYN</firstName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-03-05</sponsorshipDate>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>CAPUANO</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001037</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+      </item>
+      <item>
+        <lastName>Correa</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001110</bioguideId>
+        <firstName>J.</firstName>
+        <district>46</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2312</lisID>
+          <gpoId />
+          <bioguideId>C001110</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-03-22</sponsorshipDate>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <middleName>Luis</middleName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 28 (Tuesday, February 13, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CROWLEY:H.R. 5001.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: ``The Congress shall havePower [. . .] To make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or in any Department orOfficer thereof.''[Page H1126]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <billNumber>5001</billNumber>
+    <billType>HR</billType>
+    <relatedBills />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To award a Congressional Gold Medal to Billie Jean King, in recognition of her contribution to the Nation and her courageous and groundbreaking leadership advancing equal rights for women and the LGBT community in athletics, education, and our society.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To award a Congressional Gold Medal to Billie Jean King, in recognition of her contribution to the Nation and her courageous and groundbreaking leadership advancing equal rights for women and the LGBT community in athletics, education, and our society.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

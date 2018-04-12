@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2017-04-05</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Reserve Component Benefits Parity Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1384</number>
+      </item>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2017-03-15</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Reserve Component Benefits Parity Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>667</number>
+      </item>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2018-02-12</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>National Guard and Reserves Benefits Parity Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2416</number>
+      </item>
+    </relatedBills>
+    <createDate>2018-02-18T21:46:26Z</createDate>
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-02-16T20:06:40Z</date>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-15T14:02:30Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-15T14:02:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <billNumber>5038</billNumber>
+    <actions>
+      <item>
+        <actionDate>2018-02-16</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2018-02-15</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionDate>2018-02-15</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2018-02-15</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2018-02-15</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Reserve Component Benefits Parity Act of 2018</title>
+    <updateDate>2018-04-10T07:15:24Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 30 (Thursday, February 15, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PALAZZO:H.R. 5038.Congress has the power to enact this legislation pursuantto the following:Section 8 of Article I of the United States Constitution.[Page H1213]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <bioguideId>W000799</bioguideId>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <district>1</district>
+        <party>D</party>
+        <lastName>Walz</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gregg</firstName>
+        <bioguideId>H001045</bioguideId>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <identifiers>
+          <lisID>1933</lisID>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Harper</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Keith</firstName>
+        <bioguideId>E000288</bioguideId>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <identifiers>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>5</district>
+        <party>D</party>
+        <lastName>Ellison</lastName>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <district>3</district>
+        <party>R</party>
+        <lastName>JONES</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Don</firstName>
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <district>2</district>
+        <party>R</party>
+        <lastName>Bacon</lastName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <bioguideId>W000804</bioguideId>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <identifiers>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Wittman</lastName>
+      </item>
+      <item>
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>WM.</firstName>
+        <bioguideId>C001049</bioguideId>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <district>1</district>
+        <party>D</party>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tulsi</firstName>
+        <bioguideId>G000571</bioguideId>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>HI</state>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Gabbard</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Vicente</firstName>
+        <bioguideId>G000581</bioguideId>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000581</bioguideId>
+          <lisID>2349</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <district>15</district>
+        <party>D</party>
+        <lastName>Gonzalez</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kurt</firstName>
+        <bioguideId>S001180</bioguideId>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <identifiers>
+          <bioguideId>S001180</bioguideId>
+          <lisID>1950</lisID>
+          <gpoId>8118</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OR</state>
+        <district>5</district>
+        <party>D</party>
+        <lastName>Schrader</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>R000601</bioguideId>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <district>4</district>
+        <party>R</party>
+        <lastName>Ratcliffe</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Derek</firstName>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <district>6</district>
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <bioguideId>T000472</bioguideId>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>41</district>
+        <party>D</party>
+        <lastName>Takano</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <district>4</district>
+        <party>R</party>
+        <lastName>Cole</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <bioguideId>M001143</bioguideId>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>4</district>
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OR</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jimmy</firstName>
+        <bioguideId>P000613</bioguideId>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2309</lisID>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>20</district>
+        <party>D</party>
+        <lastName>Panetta</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elise</firstName>
+        <bioguideId>S001196</bioguideId>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>21</district>
+        <party>R</party>
+        <lastName>Stefanik</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>W000809</bioguideId>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <identifiers>
+          <bioguideId>W000809</bioguideId>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Womack</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VT</state>
+        <district>0</district>
+        <party>D</party>
+        <lastName>Welch</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>KIND</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <district>13</district>
+        <party>D</party>
+        <lastName>RYAN</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>S001187</bioguideId>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <district>15</district>
+        <party>R</party>
+        <lastName>Stivers</lastName>
+      </item>
+      <item>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Madeleine</firstName>
+        <bioguideId>B001245</bioguideId>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GU</state>
+        <district>0</district>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <district>5</district>
+        <party>D</party>
+        <lastName>COOPER</lastName>
+      </item>
+      <item>
+        <middleName>JAMES</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>F.</firstName>
+        <bioguideId>S000244</bioguideId>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <district>5</district>
+        <party>R</party>
+        <lastName>SENSENBRENNER</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacky</firstName>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NV</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Rosen</lastName>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <district>2</district>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Erik</firstName>
+        <bioguideId>P000594</bioguideId>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <identifiers>
+          <lisID>1930</lisID>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Paulsen</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jim</firstName>
+        <bioguideId>B001299</bioguideId>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <identifiers>
+          <lisID>2326</lisID>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <district>3</district>
+        <party>R</party>
+        <lastName>Banks</lastName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>DON</firstName>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AK</state>
+        <district>0</district>
+        <party>R</party>
+        <lastName>YOUNG</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <district>2</district>
+        <party>D</party>
+        <lastName>Loebsack</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <bioguideId>K000362</bioguideId>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <district>4</district>
+        <party>R</party>
+        <lastName>King</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <district>4</district>
+        <party>D</party>
+        <lastName>Moore</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Trent</firstName>
+        <bioguideId>K000388</bioguideId>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+          <lisID>2294</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Kelly</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <bioguideId>D000616</bioguideId>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <identifiers>
+          <lisID>2062</lisID>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <district>4</district>
+        <party>R</party>
+        <lastName>DesJarlais</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ND</state>
+        <district>0</district>
+        <party>R</party>
+        <lastName>Cramer</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-04-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>SAM</firstName>
+        <bioguideId>G000546</bioguideId>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <identifiers>
+          <gpoId>8014</gpoId>
+          <lisID>1656</lisID>
+          <bioguideId>G000546</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <district>6</district>
+        <party>R</party>
+        <lastName>GRAVES</lastName>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2018-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+        <bioguideId>D000614</bioguideId>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <identifiers>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Duffy</lastName>
+      </item>
+      <item>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2018-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Anthony</firstName>
+        <bioguideId>B001304</bioguideId>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2331</lisID>
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <district>4</district>
+        <party>D</party>
+        <lastName>Brown</lastName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2018-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <bioguideId>Y000062</bioguideId>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KY</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Yarmuth</lastName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2018-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000015</bioguideId>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <identifiers>
+          <lisID>854</lisID>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <district>1</district>
+        <party>D</party>
+        <lastName>NEAL</lastName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>MS</state>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <firstName>Steven</firstName>
+        <bioguideId>P000601</bioguideId>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <lastName>Palazzo</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+      <actionDate>2018-02-16</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Reserve Component Benefits Parity Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend titles 5, 10, and 37 of the United States Code to ensure that an order to serve on active duty under section 12304b of title 10, United States Code, is treated the same as other orders to serve on active duty for determining the eligibility of members of the uniformed services for certain benefits, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Reserve Component Benefits Parity Act of 2018</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Reserve Component Benefits Parity Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <introducedDate>2018-02-15</introducedDate>
+    <recordedVotes />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

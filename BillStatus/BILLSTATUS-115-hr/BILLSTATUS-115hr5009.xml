@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>W000798</bioguideId>
+        <district>7</district>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <middleName />
+        <lastName>Walberg</lastName>
+        <identifiers>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+          <bioguideId>W000798</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-02-16</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-02-13</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-02-16T22:30:57Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-02-13T17:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>12</district>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+      </item>
+      <item>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2278</lisID>
+          <gpoId />
+          <bioguideId>J000297</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>J000297</bioguideId>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>Jenkins</lastName>
+        <firstName>Evan</firstName>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <bioguideId>M001181</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>Meehan</lastName>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2258</lisID>
+          <gpoId />
+          <bioguideId>M001193</bioguideId>
+        </identifiers>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>M001193</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>MacArthur</lastName>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <state>MO</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <bioguideId>H001053</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>Hartzler</lastName>
+        <firstName>Vicky</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+        </identifiers>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>L000566</bioguideId>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <lastName>Latta</lastName>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <bioguideId>B001282</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <lastName>Barr</lastName>
+        <firstName>Andy</firstName>
+      </item>
+      <item>
+        <state>NC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <bioguideId>M001187</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-03-05</sponsorshipDate>
+        <lastName>Meadows</lastName>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>M001180</bioguideId>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2018-03-26</sponsorshipDate>
+        <lastName>McKinley</lastName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2018-02-13</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Jessie's Law</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To include information concerning a patient's opioid addiction in certain medical records.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Jessie's Law</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Jessie's Law</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <billNumber>5009</billNumber>
+    <updateDate>2018-04-11T07:16:18Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2018-02-16</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <title>Jessie's Law</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-03-17</actionDate>
+        </latestAction>
+        <number>1554</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Jessie's Law</latestTitle>
+        <type>HR</type>
+        <congress>115</congress>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-08-11</actionDate>
+        </latestAction>
+        <number>581</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Jessie's Law</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <createDate>2018-02-14T03:11:03Z</createDate>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 28 (Tuesday, February 13, 2018)][Pages H1126-H1127]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALBERG:H.R. 5009.Congress has the power to enact this legislation pursuantto the following:[[Page H1127]]Article I, Section 8, Clauses 3 and 18 of the United StatesConstitution</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

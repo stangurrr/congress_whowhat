@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <sessionNumber>2</sessionNumber>
+        <url>http://clerk.house.gov/evs/2018/roll110.xml</url>
+        <chamber>House</chamber>
+        <rollNumber>110</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <date>2018-03-15T19:56:37Z</date>
+      </recordedVote>
+      <recordedVote>
+        <congress>115</congress>
+        <sessionNumber>2</sessionNumber>
+        <url>http://clerk.house.gov/evs/2018/roll109.xml</url>
+        <chamber>House</chamber>
+        <rollNumber>109</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+        <date>2018-03-15T19:49:32Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <amendments>
+      <amendment>
+        <description />
+        <latestAction />
+        <number>535</number>
+        <type>HAMDT</type>
+        <congress>115</congress>
+        <description />
+        <proposedDate />
+        <createDate>2018-03-16T07:16:15Z</createDate>
+        <number>535</number>
+        <type>HAMDT</type>
+        <links />
+        <notes />
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <updateDate>2018-03-30T14:17:48Z</updateDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <purpose>Pursuant to the provisions of H.Res. 773, the amendment printed in Part D of House Report 115-595 is adopted, and the bill is considered as amended.</purpose>
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>1</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2018-03-15</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionCode>71000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <text>House amendment offered</text>
+              <actionDate>2018-03-15</actionDate>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <count>2</count>
+        </actions>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <titles />
+        <amendedBill>
+          <originChamber>House</originChamber>
+          <number>4263</number>
+          <type>HR</type>
+          <title>Regulation A+ Improvement Act of 2017</title>
+          <originChamberCode>H</originChamberCode>
+          <congress>115</congress>
+        </amendedBill>
+        <chamber>House of Representatives</chamber>
+        <version>1.0.0</version>
+        <submittedDate>2018-03-15T04:00:00Z</submittedDate>
+        <congress>115</congress>
+        <amendedAmendment />
+        <purpose>Pursuant to the provisions of H.Res. 773, the amendment printed in Part D of House Report 115-595 is adopted, and the bill is considered as amended.</purpose>
+      </amendment>
+    </amendments>
+    <titles>
+      <item>
+        <title>Regulation A+ Improvement Act of 2017</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Regulation At Improvement Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Regulation At Improvement Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Securities Act of 1933 with respect to small company capital formation, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Regulation A+ Improvement Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Regulation A+ Improvement Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Regulation A+ Improvement Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Regulation At Improvement Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2258</lisID>
+          <gpoId />
+          <bioguideId>M001193</bioguideId>
+        </identifiers>
+        <lastName>MacArthur</lastName>
+        <party>R</party>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <bioguideId>M001193</bioguideId>
+        <firstName>Thomas</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-544</citation>
+      </committeeReport>
+    </committeeReports>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00409</calendar>
+      </item>
+    </calendarNumbers>
+    <billNumber>4263</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <state>AZ</state>
+        <lastName>Sinema</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <bioguideId>S001191</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kyrsten</firstName>
+      </item>
+      <item>
+        <state>IN</state>
+        <lastName>Hollingsworth</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+        <bioguideId>H001074</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>2327</lisID>
+          <gpoId />
+          <bioguideId>H001074</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Trey</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <lastName>Stivers</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <middleName />
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <bioguideId>S001187</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <lastName>Gottheimer</lastName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <middleName />
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <bioguideId>G000583</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000583</bioguideId>
+          <lisID>2338</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Josh</firstName>
+      </item>
+    </cosponsors>
+    <title>Regulation A+ Improvement Act of 2017</title>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2018-03-19</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <updateDate>2018-03-30T14:17:48Z</updateDate>
+    <createDate>2017-11-08T03:11:16Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2018-03-19</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>15:56:38</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H38310</actionCode>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>On passage Passed by the Yeas and Nays: 246 - 170 (Roll no. 110). (text: CR H1634)</text>
+        <actionTime>15:56:37</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H37100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1634</url>
+            <name>H1634</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll110.xml</url>
+            <name>Roll no. 110</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 170 (Roll no. 110).</text>
+        <actionTime>15:56:37</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll110.xml</url>
+            <name>Roll no. 110</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>On motion to recommit with instructions Failed by the Yeas and Nays: 182 - 235 (Roll no. 109).</text>
+        <actionTime>15:49:32</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H36110</actionCode>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll109.xml</url>
+            <name>Roll no. 109</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <actionTime>15:19:42</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H8A000</actionCode>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike "$75,000,000" and insert "$50,000,000" on Page 3, line 10; and on Page 3, line 23, insert the following new section entitled: "Effect of Increase in Offering Limit".</text>
+        <actionTime>15:10:28</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H8D000</actionCode>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Mrs. Beatty moved to recommit with instructions to the Committee on Financial Services. (CR H1640)</text>
+        <actionTime>15:10:05</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H36100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1640</url>
+            <name>H1640</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <actionTime>15:09:32</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H35000</actionCode>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 4263.</text>
+        <actionTime>14:18:04</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4263</url>
+            <name>H.R. 4263</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Rule provides for consideration of H.R. 4545, H.R. 1116 and H.R. 4263. Rule provides for consideration of H.R. 4545 under a structured rule, and makes in order amendments printed in the report, with one motion to recommit with or without instructions. Rule also provides for consideration of H.R. 1116 and H.R. 4263 under closed rules. The rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Minority Member of the Committee on Financial Services for each measure, and one motion to recommit with or without instructions for each measure.</text>
+        <actionTime>14:16:49</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1116</url>
+            <name>H.R. 1116</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4263</url>
+            <name>H.R. 4263</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4545</url>
+            <name>H.R. 4545</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Considered under the provisions of rule H. Res. 773. (consideration: CR H1634-1642)</text>
+        <actionTime>14:16:44</actionTime>
+        <actionDate>2018-03-15</actionDate>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/773</url>
+            <name>H. Res. 773</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1634-1642</url>
+            <name>H1634-1642</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Rule H. Res. 773 passed House.</text>
+        <actionTime>14:52:40</actionTime>
+        <actionDate>2018-03-14</actionDate>
+        <actionCode>H1L220</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/773</url>
+            <name>H. Res. 773</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Rules Committee Resolution H. Res. 773 Reported to House. Rule provides for consideration of H.R. 4545, H.R. 1116 and H.R. 4263. Rule provides for consideration of H.R. 4545 under a structured rule, and makes in order amendments printed in the report, with one motion to recommit with or without instructions. Rule also provides for consideration of H.R. 1116 and H.R. 4263 under closed rules. The rule provides for one hour of debate equally divided and controlled by the Chair and Ranking Minority Member of the Committee on Financial Services for each measure, and one motion to recommit with or without instructions for each measure.</text>
+        <actionTime>18:45:28</actionTime>
+        <actionDate>2018-03-13</actionDate>
+        <actionCode>H1L210</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/773</url>
+            <name>H. Res. 773</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1116</url>
+            <name>H.R. 1116</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4263</url>
+            <name>H.R. 4263</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4545</url>
+            <name>H.R. 4545</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 409.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-02</actionDate>
+        <actionCode>H12410</actionCode>
+        <links />
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Reported by the Committee on Financial Services. H. Rept. 115-544.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-02-02</actionDate>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/544</url>
+            <name>H. Rept. 115-544</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Reported by the Committee on Financial Services. H. Rept. 115-544.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-02-02</actionDate>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/544</url>
+            <name>H. Rept. 115-544</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 37 - 23.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-11-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-11-07</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>21</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <generalDebate>3</generalDebate>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <introducedDate>2017-11-07</introducedDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionTime>14:52:41</actionTime>
+          <actionDate>2018-03-14</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <number>773</number>
+        <congress>115</congress>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the bill (H.R. 4545) to amend the Federal Financial Institutions Examination Council Act of 1978 to improve the examination of depository institutions, and for other purposes; providing for consideration of the bill (H.R. 1116) to require the Federal financial institutions regulatory agencies to take risk profiles and business models of institutions into account when taking regulatory actions, and for other purposes; and providing for consideration of the bill (H.R. 4263) to amend the Securities Act of 1933 with respect to small company capital formation, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-13</actionDate>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-108.</text>
+        </latestAction>
+        <number>10</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 181 (Tuesday, November 7, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MacARTHUR:H.R. 4263.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8, Clause 18[Page H8597]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2018-02-01T13:45:48Z</pubDate>
+        <url>https://www.cbo.gov/publication/53533</url>
+        <title>H.R. 4263, Regulation At Improvement Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-11-07</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Regulation At [<em>sic</em>] Improvement Act of 2017</b></p> <p>This bill amends the Securities Act of 1933 to increase the dollar limit of certain securities offerings exempt from registration requirements from $50 million annually to $75 million annually, adjusted in future years for inflation. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-11-07T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-16T17:04:26Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>79</versionCode>
+          <actionDate>2018-02-02</actionDate>
+          <name>Reported to House without amendment</name>
+          <text><![CDATA[<p><b>Regulation At [<em>sic</em>] Improvement Act of 2017</b></p> <p>This bill amends the Securities Act of 1933 to increase the dollar limit of certain securities offerings exempt from registration requirements from $50 million annually to $75 million annually, adjusted in future years for inflation. </p>]]></text>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <updateDate>2018-02-02T13:19:01Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-16T21:57:54Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <versionCode>36</versionCode>
+          <actionDate>2018-03-15</actionDate>
+          <name>Passed House amended</name>
+          <text><![CDATA[<p><b>Regulation A+ Improvement Act of 2017</b></p> <p>(Sec. 2) This bill amends the Securities Act of 1933 to increase the dollar limit of certain securities offerings exempt from registration requirements from $50 million annually to $75 million annually, adjusted in future years for inflation. </p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <updateDate>2018-03-15T15:08:25Z</updateDate>
+          <lastSummaryUpdateDate>2018-03-20T13:57:02Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-19T19:57:14Z</date>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-02-02T20:58:41Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-11-15T22:37:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-07T15:00:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

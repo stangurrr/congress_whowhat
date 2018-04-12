@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <middleName>T.</middleName>
+        <state>TX</state>
+        <lastName>McCaul</lastName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <createDate>2017-05-17T03:11:42Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <updateDate>2018-03-30T14:08:32Z</updateDate>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-09-13</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <middleName>H.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+          <lisID>2316</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>John</firstName>
+        <lastName>Rutherford</lastName>
+        <byRequestType />
+        <bioguideId>R000609</bioguideId>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <congress>115</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-13T18:53:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hshm05</systemCode>
+              <name>Counterterrorism and Intelligence Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-05-18T14:10:16Z</date>
+                  <name>Markup by</name>
+                </item>
+                <item>
+                  <date>2017-05-17T14:10:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-16T16:04:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <notes />
+    <title>Terrorist Release Announcements to Counter Extremist Recidivism Act</title>
+    <laws />
+    <billNumber>2471</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>13:28:12</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>13:28:11</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7247)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7247</url>
+            <name>H7247</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>13:28:11</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionCode>8000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>13:20:13</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2471.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2471</url>
+            <name>H.R. 2471</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>13:20:10</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H7247-7248)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7247-7248</url>
+            <name>H7247-7248</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>13:20:00</actionTime>
+        <text>Mr. McCaul moved to suspend the rules and pass the bill, as amended.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-09-12</actionDate>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>Terrorist Release Announcements to Counter Extremist Recidivism Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>TRACER Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>TRACER Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Terrorist Release Announcements to Counter Extremist Recidivism Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To direct the Secretary of Homeland Security to share with State, local, and regional fusion centers release information from a Federal correctional facility, including name, charging date, and expected place and date of release, of certain individuals who may pose a terrorist threat, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Terrorist Release Announcements to Counter Extremist Recidivism Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Terrorist Release Announcements to Counter Extremist Recidivism Act</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Terrorist Release Announcements to Counter Extremist Recidivism Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-16</actionDate>
+          <text><![CDATA[<p><strong>Terrorist Release Announcements to Counter Extremist Recidivism Act or the TRACER Act</strong></p> <p>This bill directs the Department of Homeland Security (DHS) to share with state, local, and regional fusion centers through the DHS State, Local, and Regional Fusion Center Initiative, for homeland security purposes, release information from a federal correctional facility, including the name, charging date, and expected place and date of release, of individuals convicted of a federal crime of terrorism.</p> <p>A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.</p> <p> DHS shall coordinate with appropriate federal officials to provide state, local, and regional fusion centers with periodic assessments regarding the overall threat from known or suspected terrorists currently incarcerated in a federal correctional facility. </p>]]></text>
+          <updateDate>2017-05-16T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-08-23T22:12:10Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <actionDate>2017-09-12</actionDate>
+          <text><![CDATA[<p><strong>Terrorist Release Announcements to Counter Extremist Recidivism Act or the TRACER Act</strong></p> <p>(Sec. 2) This bill directs the Department of Homeland Security (DHS), in coordination with the Department of Justice, to share with state, local, and regional fusion centers through the DHS State, Local, and Regional Fusion Center Partnership Initiative, for homeland security purposes, as well as other relevant law enforcement entities, release information from a federal correctional facility, including the name, charging date, and expected place and date of release, of individuals convicted of a federal crime of terrorism.</p> <p>DHS, prior to sharing such information, shall receive input and advice from DHS's Officer for Civil Rights and Civil Liberties, Officer for Privacy, and Chief Intelligence Officer.</p> <p>A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.</p> <p> DHS shall coordinate with appropriate federal officials to provide state, local, and regional fusion centers with periodic assessments regarding the overall threat from known or suspected terrorists currently incarcerated in a federal correctional facility. </p>]]></text>
+          <updateDate>2017-09-12T15:20:59Z</updateDate>
+          <versionCode>36</versionCode>
+          <lastSummaryUpdateDate>2017-12-13T19:28:55Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House amended</actionDesc>
+          <name>Passed House amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-05-16</introducedDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUTHERFORD:H.R. 2471.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 10--``To define and punishPiracies and Felonies committed on the high Seas, andOffences against the Law of Nations'' andArticle I, Section 8, Clause 18--``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H4224]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

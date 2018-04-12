@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>Barr</lastName>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+        </identifiers>
+        <state>KY</state>
+        <firstName>Andy</firstName>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <bioguideId>B001282</bioguideId>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-578</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <title>Portfolio Lending and Mortgage Access Act</title>
+    <amendments />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Truth in Lending Act to provide a safe harbor from certain requirements related to qualified mortgages for residential mortgage loans held on an originating depository institution's portfolio, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Portfolio Lending and Mortgage Access Act</title>
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>U00438</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-03-07T17:49:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-02-23T15:57:21Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2018-01-18T17:58:29Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-04-28T13:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <actionStageOverride>2</actionStageOverride>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-07</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-03-06</actionDate>
+        <actionCode>H38310</actionCode>
+        <actionTime>13:56:55</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H1389-1390</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1389-1390</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1389-1390)</text>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-03-06</actionDate>
+        <actionCode>H37300</actionCode>
+        <actionTime>13:56:53</actionTime>
+      </item>
+      <item>
+        <links />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-03-06</actionDate>
+        <actionCode>8000</actionCode>
+        <actionTime>13:56:53</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H.R. 2226</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2226</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2226.</text>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-03-06</actionDate>
+        <actionCode>H8D000</actionCode>
+        <actionTime>13:31:51</actionTime>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H1389-1393</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1389-1393</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H1389-1393)</text>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-03-06</actionDate>
+        <actionCode>H30000</actionCode>
+        <actionTime>13:31:50</actionTime>
+      </item>
+      <item>
+        <links />
+        <text>Mr. Barr moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-03-06</actionDate>
+        <actionCode>H30300</actionCode>
+        <actionTime>13:31:33</actionTime>
+      </item>
+      <item>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 438.</text>
+        <committee />
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-02-23</actionDate>
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Rept. 115-578</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/578</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-578.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-02-23</actionDate>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H. Rept. 115-578</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/578</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-578.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-02-23</actionDate>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-01-18</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 55 - 0.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-18</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-17</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-04-28</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-28</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-04-28</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <laws />
+    <recordedVotes />
+    <createDate>2017-04-29T03:11:48Z</createDate>
+    <billNumber>2226</billNumber>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <lastName>Amodei</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+          <lisID>2090</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>A000369</bioguideId>
+        <state>NV</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Emmer</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000294</bioguideId>
+        <state>MN</state>
+        <district>6</district>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+      </item>
+      <item>
+        <middleName>French</middleName>
+        <lastName>Hill</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2223</lisID>
+          <bioguideId>H001072</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001072</bioguideId>
+        <state>AR</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>J.</firstName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Hultgren</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2015</lisID>
+          <bioguideId>H001059</bioguideId>
+          <gpoId>7934</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001059</bioguideId>
+        <state>IL</state>
+        <district>14</district>
+        <party>R</party>
+        <firstName>Randy</firstName>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000292</bioguideId>
+        <state>OH</state>
+        <district>6</district>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <lastName>LUCAS</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8111</gpoId>
+          <bioguideId>L000491</bioguideId>
+          <lisID>711</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000491</bioguideId>
+        <state>OK</state>
+        <district>3</district>
+        <party>R</party>
+        <firstName>FRANK</firstName>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Luetkemeyer</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000569</bioguideId>
+        <state>MO</state>
+        <district>3</district>
+        <party>R</party>
+        <firstName>Blaine</firstName>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Marchant</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1806</lisID>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001158</bioguideId>
+        <state>TX</state>
+        <district>24</district>
+        <party>R</party>
+        <firstName>Kenny</firstName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Messer</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2130</lisID>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001189</bioguideId>
+        <state>IN</state>
+        <district>6</district>
+        <party>R</party>
+        <firstName>Luke</firstName>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Pearce</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8057</gpoId>
+          <bioguideId>P000588</bioguideId>
+          <lisID>1738</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Stevan</firstName>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Pittenger</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000606</bioguideId>
+        <state>NC</state>
+        <district>9</district>
+        <party>R</party>
+        <firstName>Robert</firstName>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Poliquin</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2247</lisID>
+          <bioguideId>P000611</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000611</bioguideId>
+        <state>ME</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Bruce</firstName>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>ROYCE</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000487</bioguideId>
+        <state>CA</state>
+        <district>39</district>
+        <party>R</party>
+        <firstName>ED</firstName>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>Rothfus</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000598</bioguideId>
+          <lisID>2158</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000598</bioguideId>
+        <state>PA</state>
+        <district>12</district>
+        <party>R</party>
+        <firstName>Keith</firstName>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Stewart</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2168</lisID>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001192</bioguideId>
+        <state>UT</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Chris</firstName>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Stivers</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <district>15</district>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <lastName>Tipton</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <district>3</district>
+        <party>R</party>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Wagner</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000812</bioguideId>
+        <state>MO</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Walberg</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1855</lisID>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000798</bioguideId>
+        <state>MI</state>
+        <district>7</district>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Williams</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2165</lisID>
+          <gpoId />
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000816</bioguideId>
+        <state>TX</state>
+        <district>25</district>
+        <party>R</party>
+        <firstName>Roger</firstName>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Davidson</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2296</lisID>
+          <bioguideId>D000626</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000626</bioguideId>
+        <state>OH</state>
+        <district>8</district>
+        <party>R</party>
+        <firstName>Warren</firstName>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+      </item>
+      <item>
+        <middleName>T.</middleName>
+        <lastName>KING</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>PETER</firstName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Loudermilk</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000583</bioguideId>
+        <state>GA</state>
+        <district>11</district>
+        <party>R</party>
+        <firstName>Barry</firstName>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>McHenry</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1792</lisID>
+          <gpoId>8033</gpoId>
+          <bioguideId>M001156</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001156</bioguideId>
+        <state>NC</state>
+        <district>10</district>
+        <party>R</party>
+        <firstName>Patrick</firstName>
+        <fullName>Rep. McHenry, Patrick T. [R-NC-10]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Posey</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000599</bioguideId>
+        <state>FL</state>
+        <district>8</district>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Kustoff</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000392</bioguideId>
+          <lisID>2348</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000392</bioguideId>
+        <state>TN</state>
+        <district>8</district>
+        <party>R</party>
+        <firstName>David</firstName>
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Huizenga</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7987</gpoId>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001058</bioguideId>
+        <state>MI</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Hollingsworth</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001074</bioguideId>
+          <lisID>2327</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001074</bioguideId>
+        <state>IN</state>
+        <district>9</district>
+        <party>R</party>
+        <firstName>Trey</firstName>
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <lastName>Duffy</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2072</lisID>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000614</bioguideId>
+        <state>WI</state>
+        <district>7</district>
+        <party>R</party>
+        <firstName>Sean</firstName>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Trott</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <lisID>2250</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000475</bioguideId>
+        <state>MI</state>
+        <district>11</district>
+        <party>R</party>
+        <firstName>David</firstName>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Blum</lastName>
+        <sponsorshipDate>2017-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001294</bioguideId>
+          <lisID>2241</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001294</bioguideId>
+        <state>IA</state>
+        <district>1</district>
+        <party>R</party>
+        <firstName>Rod</firstName>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <lastName>Arrington</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2350</lisID>
+          <bioguideId>A000375</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000375</bioguideId>
+        <state>TX</state>
+        <district>19</district>
+        <party>R</party>
+        <firstName>Jodey</firstName>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Tenney</lastName>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2344</lisID>
+          <gpoId />
+          <bioguideId>T000478</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000478</bioguideId>
+        <state>NY</state>
+        <district>22</district>
+        <party>R</party>
+        <firstName>Claudia</firstName>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Ross</lastName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000593</bioguideId>
+        <state>FL</state>
+        <district>15</district>
+        <party>R</party>
+        <firstName>Dennis</firstName>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>King</lastName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000362</bioguideId>
+        <state>IA</state>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Poe</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000592</bioguideId>
+        <state>TX</state>
+        <district>2</district>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Coffman</lastName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001077</bioguideId>
+        <state>CO</state>
+        <district>6</district>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Womack</lastName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+          <bioguideId>W000809</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000809</bioguideId>
+        <state>AR</state>
+        <district>3</district>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cole</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001053</bioguideId>
+        <state>OK</state>
+        <district>4</district>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <lastName>Boyle</lastName>
+        <sponsorshipDate>2017-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2267</lisID>
+          <gpoId />
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001296</bioguideId>
+        <state>PA</state>
+        <district>13</district>
+        <party>D</party>
+        <firstName>Brendan</firstName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-04-28</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Financial Services and General Government Appropriations Act, 2018</latestTitle>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 167.</text>
+          <actionDate>2017-07-18</actionDate>
+        </latestAction>
+        <number>3280</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Interior and Environment, Agriculture and Rural Development, Commerce, Justice, Science, Financial Services and General Government, Homeland Security, Labor, Health and Human Services, Education, State and Foreign Operations, Transportation, Housing and Urban Development, Defense, Military Construction and Veterans Affairs, Legislative Branch, and Energy and Water Development Appropriations Act, 2018</latestTitle>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.</text>
+          <actionDate>2017-09-27</actionDate>
+        </latestAction>
+        <number>3354</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Economic Growth, Regulatory Relief, and Consumer Protection Act</latestTitle>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+          <actionDate>2018-03-22</actionDate>
+        </latestAction>
+        <number>2155</number>
+        <congress>115</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Portfolio Lending and Mortgage Access Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2017-10-26</actionDate>
+        </latestAction>
+        <number>2013</number>
+        <congress>115</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-108.</text>
+          <actionDate>2017-07-13</actionDate>
+        </latestAction>
+        <number>10</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>CLEARR Act of 2017</latestTitle>
+        <latestAction>
+          <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+          <actionDate>2017-07-12</actionDate>
+        </latestAction>
+        <number>2133</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 73 (Friday, April 28, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BARR:H.R. 2226.Congress has the power to enact this legislation pursuantto the following:(According to Article I, Section 8, Clause 3 of theConstitution: The Congress shall have power to enact thislegislation to regulate commerce with foreign nations, andamong the several states, and with the Indian tribes.)[Page H2972]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2018-03-07</actionDate>
+    </latestAction>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2018-02-09T16:00:00Z</pubDate>
+        <title>H.R. 2226, Portfolio Lending and Mortgage Access Act</title>
+        <url>https://www.cbo.gov/publication/53570</url>
+      </item>
+    </cboCostEstimates>
+    <updateDate>2018-04-05T04:27:42Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-16T18:29:14Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-04-28</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Portfolio Lending and Mortgage Access Act</strong></p> <p>This bill amends the Truth in Lending Act to modify provisions related to residential mortgage loans. In general, a creditor that is a depository institution shall not be subject to suit for&nbsp;violating specified ability-to-pay requirements with respect to a residential mortgage loan if: (1) the creditor has consistently&nbsp;held the loan on its balance sheet, and (2) prepayment penalties&nbsp;associated with&nbsp;the loan comply with specified limitations. Similarly, a mortgage originator shall not be subject to suit for such a violation&nbsp;if: (1) the creditor is a depository institution; and (2) the creditor informs the mortgage originator, which informs the consumer, that the creditor intends to hold the loan on its balance sheet for the life of the loan.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-28T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-03-28T19:15:41Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to House with amendment(s)</actionDesc>
+          <actionDate>2018-02-23</actionDate>
+          <name>Reported to House with amendment(s)</name>
+          <text><![CDATA[<p><strong>Portfolio Lending and Mortgage Access Act</strong></p> <p>(Sec. 2) This bill amends the Truth in Lending Act to allow a depository institution or credit union with assets below a specified threshold to forgo certain ability-to-pay requirements regarding residential mortgage loans. Specifically, those requirements are waived if a loan: (1) is originated by and continuously retained by the institution, (2) complies with requirements regarding prepayment penalties and points and fees, and (3) does not have negative amortization or interest-only terms. Furthermore, for such requirements to be waived, the institution must consider and verify the debt, income, and financial resources of the consumer.</p> <p>The bill also provides for circumstances in which&nbsp;such requirements&nbsp;shall be waived&nbsp;with respect to&nbsp;a&nbsp;loan that is&nbsp;transferred: (1) by reason of bankruptcy or failure of the originating institution, (2) to a similar institution, (3) in the event of a merger, or (4) to a wholly owned subsidiary of the institution. </p>]]></text>
+          <versionCode>17</versionCode>
+          <updateDate>2018-02-23T14:03:33Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-04-02T14:55:17Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House amended</actionDesc>
+          <actionDate>2018-03-06</actionDate>
+          <name>Passed House amended</name>
+          <text><![CDATA[<p><strong>Portfolio Lending and Mortgage Access Act</strong></p> <p>(Sec. 2) This bill amends the Truth in Lending Act to allow a depository institution or credit union with assets below a specified threshold to forgo certain ability-to-pay requirements regarding residential mortgage loans. Specifically, those requirements are waived if a loan: (1) is originated by and continuously retained by the institution, (2) complies with requirements regarding prepayment penalties and points and fees, and (3) does not have negative amortization or interest-only terms. Furthermore, for such requirements to be waived, the institution must consider and verify the debt, income, and financial resources of the consumer.</p> <p>The bill also provides for circumstances in which&nbsp;such requirements&nbsp;shall be waived&nbsp;with respect to&nbsp;a&nbsp;loan that is&nbsp;transferred: (1) by reason of bankruptcy or failure of the originating institution, (2) to a similar institution, (3) in the event of a merger, or (4) to a wholly owned subsidiary of the institution. </p>]]></text>
+          <versionCode>36</versionCode>
+          <updateDate>2018-03-06T14:38:08Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

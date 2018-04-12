@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T07:16:09Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-09-14</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-09-14</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-14</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2017-09-14</introducedDate>
+    <createDate>2017-09-15T03:11:21Z</createDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Air Ambulance Quality and Accountability Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend title XVIII of the Social Security Act to provide under the Medicare program for conditions of participation, reporting requirements, and a quality program with respect to air ambulance services.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Air Ambulance Quality and Accountability Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Air Ambulance Quality and Accountability Act</title>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-14T13:03:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-09-15T20:37:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-09-14T13:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>3780</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <party>D</party>
+        <lastName>Kennedy</lastName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <firstName>Joseph</firstName>
+        <bioguideId>K000379</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2172</lisID>
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <party>R</party>
+        <lastName>Jenkins</lastName>
+        <middleName />
+        <state>KS</state>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <firstName>Lynn</firstName>
+        <bioguideId>J000290</bioguideId>
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+        <lastName>KIND</lastName>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <party>D</party>
+        <lastName>ENGEL</lastName>
+        <middleName>L.</middleName>
+        <state>NY</state>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <firstName>ELIOT</firstName>
+        <bioguideId>E000179</bioguideId>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <middleName>L.</middleName>
+        <state>IL</state>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <party>D</party>
+        <lastName>Dingell</lastName>
+        <middleName />
+        <state>MI</state>
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <firstName>Debbie</firstName>
+        <bioguideId>D000624</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <party>R</party>
+        <lastName>Paulsen</lastName>
+        <middleName />
+        <state>MN</state>
+        <sponsorshipDate>2017-12-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <firstName>Erik</firstName>
+        <bioguideId>P000594</bioguideId>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <party>R</party>
+        <lastName>SENSENBRENNER</lastName>
+        <middleName>JAMES</middleName>
+        <state>WI</state>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <firstName>F.</firstName>
+        <bioguideId>S000244</bioguideId>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <party>R</party>
+        <lastName>BARTON</lastName>
+        <middleName>L.</middleName>
+        <state>TX</state>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <firstName>JOE</firstName>
+        <bioguideId>B000213</bioguideId>
+        <identifiers>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+          <bioguideId>B000213</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <party>R</party>
+        <lastName>Long</lastName>
+        <middleName />
+        <state>MO</state>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <firstName>Billy</firstName>
+        <bioguideId>L000576</bioguideId>
+        <identifiers>
+          <bioguideId>L000576</bioguideId>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <party>D</party>
+        <lastName>Sinema</lastName>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <firstName>Kyrsten</firstName>
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <party>D</party>
+        <lastName>Pingree</lastName>
+        <middleName />
+        <state>ME</state>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <firstName>Chellie</firstName>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <party>R</party>
+        <lastName>Bucshon</lastName>
+        <middleName />
+        <state>IN</state>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <firstName>Larry</firstName>
+        <bioguideId>B001275</bioguideId>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <party>R</party>
+        <lastName>Palazzo</lastName>
+        <middleName>M.</middleName>
+        <state>MS</state>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <firstName>Steven</firstName>
+        <bioguideId>P000601</bioguideId>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <party>D</party>
+        <lastName>Walz</lastName>
+        <middleName>J.</middleName>
+        <state>MN</state>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <firstName>Timothy</firstName>
+        <bioguideId>W000799</bioguideId>
+        <identifiers>
+          <gpoId>8001</gpoId>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <party>R</party>
+        <lastName>Poliquin</lastName>
+        <middleName />
+        <state>ME</state>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <firstName>Bruce</firstName>
+        <bioguideId>P000611</bioguideId>
+        <identifiers>
+          <lisID>2247</lisID>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+      <actionDate>2017-09-15</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Richard</firstName>
+        <middleName />
+        <party>R</party>
+        <state>NC</state>
+        <byRequestType />
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <district>8</district>
+        <bioguideId>H001067</bioguideId>
+        <identifiers>
+          <lisID>2140</lisID>
+          <bioguideId>H001067</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Hudson</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-09-14</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Air Ambulance Quality and Accountability Act</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to modify standards and payment for&nbsp;air-ambulance services under the Medicare Program.</p> <p>The Department of Health and Human Services (HHS)&nbsp;shall establish minimum standards that must be met by air-ambulance suppliers and providers as a condition of their participation in Medicare. These standards must address: (1) scope of practice, training, and clinical capability; (2) medical equipment and vehicle attributes; (3) documentation; (4) medical direction and oversight; (5) reporting of&nbsp;specified events; (6) patient safety and infection control; (7) clinical quality-management and performance-improvement programs; and (8) particular populations. An air-ambulance provider or supplier that is accredited by an HHS-approved organization shall be deemed to be in compliance with these standards.</p> <p>HHS must establish an air-ambulance quality-reporting and performance program under which Medicare payment is determined according to a specified performance-based formula. Performance measures shall address patient safety, clinical quality, and over-triage.</p> <p>An air-ambulance provider or supplier must, subject to suspension of&nbsp;payment under Medicare,&nbsp;annually&nbsp;submit specified cost data to HHS.</p> <p>The Medicare Payment Advisory Commission shall report to Congress on whether changes should be made with regard to reimbursement of air-ambulance providers and suppliers under Medicare.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-02-09T17:29:18Z</lastSummaryUpdateDate>
+          <updateDate>2017-09-14T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUDSON:H.R. 3780.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H7423]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>Air Ambulance Quality and Accountability Act</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

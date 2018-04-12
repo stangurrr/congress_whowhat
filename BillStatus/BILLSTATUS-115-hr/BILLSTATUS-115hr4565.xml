@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>4565</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-12-06</actionDate>
+        <committee>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          <systemCode>hsvr09</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-06</actionDate>
+        <links />
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-06</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2017-12-06</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-12-06</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 199 (Wednesday, December 6, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIPTON:H.R. 4565.Congress has the power to enact this legislation pursuantto the following:section 8 of Article I of the Constitution.[Page H9709]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish headstones or markers to private cemeteries for graves of certain veterans of World War I.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish headstones or markers to private cemeteries for graves of certain veterans of World War I.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <middleName>M.</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+        <firstName>Ann</firstName>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <lastName>Kuster</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2351</lisID>
+          <gpoId />
+          <bioguideId>T000477</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <bioguideId>T000477</bioguideId>
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <lastName>Taylor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>C001077</bioguideId>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <lastName>Coffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <bioguideId>T000463</bioguideId>
+          <lisID>1741</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <bioguideId>T000463</bioguideId>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <lastName>Turner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <firstName>Chellie</firstName>
+        <party>D</party>
+        <bioguideId>P000597</bioguideId>
+        <sponsorshipDate>2017-12-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000611</bioguideId>
+          <gpoId />
+          <lisID>2247</lisID>
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <party>R</party>
+        <bioguideId>P000611</bioguideId>
+        <sponsorshipDate>2017-12-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <lastName>Poliquin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <firstName>Jackie</firstName>
+        <party>R</party>
+        <bioguideId>W000813</bioguideId>
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <lastName>Walorski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+          <lisID>2162</lisID>
+        </identifiers>
+        <firstName>Beto</firstName>
+        <party>D</party>
+        <bioguideId>O000170</bioguideId>
+        <sponsorshipDate>2018-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <lastName>O'Rourke</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>16</district>
+      </item>
+      <item>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <party>R</party>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>Cook</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000478</bioguideId>
+          <lisID>2344</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Claudia</firstName>
+        <party>R</party>
+        <bioguideId>T000478</bioguideId>
+        <sponsorshipDate>2018-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <lastName>Tenney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>22</district>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <actionDate>2017-12-06</actionDate>
+    </latestAction>
+    <title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish headstones or markers to private cemeteries for graves of certain veterans of World War I.</title>
+    <createDate>2017-12-07T03:11:09Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Tipton</lastName>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <bioguideId>T000470</bioguideId>
+        <firstName>Scott</firstName>
+        <state>CO</state>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <identifiers>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:18:58Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr09</systemCode>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-12-06T19:52:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-12-06T15:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

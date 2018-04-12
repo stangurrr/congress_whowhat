@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>G000289</bioguideId>
+        <district>6</district>
+        <party>R</party>
+        <firstName>ROBERT</firstName>
+        <middleName>W.</middleName>
+        <lastName>GOODLATTE</lastName>
+        <identifiers>
+          <gpoId>8197</gpoId>
+          <lisID>446</lisID>
+          <bioguideId>G000289</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <state>VA</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-04-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2018-04-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2018-04-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-04-10T16:01:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <middleName />
+        <bioguideId>N000002</bioguideId>
+        <district>10</district>
+        <lastName>NADLER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JERROLD</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2121</lisID>
+          <gpoId />
+          <bioguideId>C001093</bioguideId>
+        </identifiers>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <middleName />
+        <bioguideId>C001093</bioguideId>
+        <district>9</district>
+        <lastName>Collins</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Doug</firstName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000294</bioguideId>
+          <lisID>2149</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <middleName>S.</middleName>
+        <bioguideId>J000294</bioguideId>
+        <district>8</district>
+        <lastName>Jeffries</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Hakeem</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7854</gpoId>
+          <bioguideId>I000056</bioguideId>
+          <lisID>1640</lisID>
+        </identifiers>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <middleName>E.</middleName>
+        <bioguideId>I000056</bioguideId>
+        <district>49</district>
+        <lastName>ISSA</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DARRELL</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <middleName>E.</middleName>
+        <bioguideId>D000610</bioguideId>
+        <district>22</district>
+        <lastName>Deutch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Theodore</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <middleName>J.</middleName>
+        <bioguideId>R000583</bioguideId>
+        <district>17</district>
+        <lastName>Rooney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <middleName />
+        <bioguideId>C001038</bioguideId>
+        <district>14</district>
+        <lastName>CROWLEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOSEPH</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <middleName />
+        <bioguideId>B001270</bioguideId>
+        <district>37</district>
+        <lastName>Bass</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Karen</firstName>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <middleName />
+        <bioguideId>B001243</bioguideId>
+        <district>7</district>
+        <lastName>Blackburn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marsha</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <middleName />
+        <bioguideId>C000266</bioguideId>
+        <district>1</district>
+        <lastName>CHABOT</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>STEVE</firstName>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <state>TN</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <middleName>H.</middleName>
+        <bioguideId>C000754</bioguideId>
+        <district>5</district>
+        <lastName>COOPER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000627</bioguideId>
+          <lisID>2320</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <middleName>Butler</middleName>
+        <bioguideId>D000627</bioguideId>
+        <district>10</district>
+        <lastName>Demings</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Val</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <middleName>C. "Hank"</middleName>
+        <bioguideId>J000288</bioguideId>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <state>LA</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2330</lisID>
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <middleName />
+        <bioguideId>J000299</bioguideId>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <middleName />
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHEILA</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <middleName />
+        <bioguideId>L000582</bioguideId>
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001179</bioguideId>
+          <lisID>2053</lisID>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <middleName />
+        <bioguideId>M001179</bioguideId>
+        <district>10</district>
+        <lastName>Marino</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <middleName>M.</middleName>
+        <bioguideId>P000604</bioguideId>
+        <district>10</district>
+        <lastName>Payne</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+      </item>
+      <item>
+        <state>AL</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000591</bioguideId>
+          <lisID>1986</lisID>
+          <gpoId>7787</gpoId>
+        </identifiers>
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <middleName />
+        <bioguideId>R000591</bioguideId>
+        <district>2</district>
+        <lastName>Roby</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Martha</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <middleName>B.</middleName>
+        <bioguideId>S001150</bioguideId>
+        <district>28</district>
+        <lastName>SCHIFF</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ADAM</firstName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <middleName>Scott</middleName>
+        <bioguideId>S001190</bioguideId>
+        <district>10</district>
+        <lastName>Schneider</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bradley</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <middleName />
+        <bioguideId>S000344</bioguideId>
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BRAD</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <middleName />
+        <bioguideId>S000583</bioguideId>
+        <district>21</district>
+        <lastName>SMITH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>LAMAR</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2104</lisID>
+          <gpoId />
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+        <bioguideId>S001193</bioguideId>
+        <district>15</district>
+        <lastName>Swalwell</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <state>MD</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <district>8</district>
+        <lastName>Raskin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+      </item>
+      <item>
+        <state>RI</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <middleName>N.</middleName>
+        <bioguideId>C001084</bioguideId>
+        <district>1</district>
+        <lastName>Cicilline</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <middleName />
+        <bioguideId>C001080</bioguideId>
+        <district>27</district>
+        <lastName>Chu</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Judy</firstName>
+      </item>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <middleName />
+        <bioguideId>J000298</bioguideId>
+        <district>7</district>
+        <lastName>Jayapal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Pramila</firstName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <party>R</party>
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <middleName />
+        <bioguideId>B001302</bioguideId>
+        <district>5</district>
+        <lastName>Biggs</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2018-04-10</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>AMP Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Allocation for Music Producers Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>CLASSICS Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Compensating Legacy Artists for their Songs, Service, and Important Contributions to Society Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Musical Works Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Music Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To modernize copyright law, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Music Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced for portions of this bill</titleType>
+        <title>AMP Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced for portions of this bill</titleType>
+        <title>Allocation for Music Producers Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced for portions of this bill</titleType>
+        <title>CLASSICS Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced for portions of this bill</titleType>
+        <title>Compensating Legacy Artists for their Songs, Service, and Important Contributions to Society Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced for portions of this bill</titleType>
+        <title>Musical Works Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Music Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <billNumber>5447</billNumber>
+    <updateDate>2018-04-11T19:00:10Z</updateDate>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2018-04-10</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <title>Music Modernization Act</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <createDate>2018-04-11T12:25:57Z</createDate>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 57 (Tuesday, April 10, 2018)][Pages H3095-H3096]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOODLATTE:H.R. 5447.[[Page H3096]]Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 8</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

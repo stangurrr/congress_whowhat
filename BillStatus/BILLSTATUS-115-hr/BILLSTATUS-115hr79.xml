@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T07:01:10Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>HALOS Act</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Helping Angels Lead Our Startups Act</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>HALOS Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Helping Angels Lead Our Startups Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To clarify the definition of general solicitation under Federal securities law.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>HALOS Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>HALOS Act</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Helping Angels Lead Our Startups Act</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>HALOS Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Helping Angels Lead Our Startups Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>31</rollNumber>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll031.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <congress>115</congress>
+        <date>2017-01-10T22:57:55Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-11T18:26:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-03T17:23:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2017-01-11</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>79</billNumber>
+    <notes />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHABOT:H.R. 79.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the United StatesConstitution[Page H49]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <state>AZ</state>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>PETE</firstName>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <middleName />
+        <state>TX</state>
+        <lastName>SESSIONS</lastName>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000250</bioguideId>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <identifiers>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+          <bioguideId>H001059</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <middleName />
+        <state>IL</state>
+        <lastName>Hultgren</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001059</bioguideId>
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Carlos</firstName>
+        <identifiers>
+          <lisID>2235</lisID>
+          <gpoId />
+          <bioguideId>C001107</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <middleName />
+        <state>FL</state>
+        <lastName>Curbelo</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001107</bioguideId>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Ann</firstName>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+          <lisID>2137</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <state>MO</state>
+        <lastName>Wagner</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <identifiers>
+          <lisID>2131</lisID>
+          <gpoId />
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <middleName />
+        <state>KY</state>
+        <lastName>Barr</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>2133</lisID>
+          <gpoId />
+          <bioguideId>D000620</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <middleName>K.</middleName>
+        <state>MD</state>
+        <lastName>Delaney</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000620</bioguideId>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Jared</firstName>
+        <identifiers>
+          <lisID>1910</lisID>
+          <gpoId>7860</gpoId>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <middleName />
+        <state>CO</state>
+        <lastName>Polis</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000598</bioguideId>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Ryan</firstName>
+        <identifiers>
+          <lisID>2266</lisID>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <middleName>A.</middleName>
+        <state>PA</state>
+        <lastName>Costello</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001106</bioguideId>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Bradley</firstName>
+        <identifiers>
+          <lisID>2124</lisID>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <middleName>Scott</middleName>
+        <state>IL</state>
+        <lastName>Schneider</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001190</bioguideId>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>52</district>
+        <middleName>H.</middleName>
+        <state>CA</state>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Aumua Amata</firstName>
+        <identifiers>
+          <lisID>2222</lisID>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <middleName>Coleman</middleName>
+        <state>AS</state>
+        <lastName>Radewagen</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000600</bioguideId>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName />
+        <state>FL</state>
+        <lastName>Posey</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000599</bioguideId>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Roger</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000816</bioguideId>
+          <lisID>2165</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>25</district>
+        <middleName />
+        <state>TX</state>
+        <lastName>Williams</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000816</bioguideId>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Stephen</firstName>
+        <identifiers>
+          <bioguideId>K000387</bioguideId>
+          <gpoId />
+          <lisID>2228</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>25</district>
+        <middleName />
+        <state>CA</state>
+        <lastName>Knight</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000387</bioguideId>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <district>1</district>
+        <lastName>CHABOT</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <generalDebate>6</generalDebate>
+        <unfinishedBusinessInCommitteeOfTheWhole>1</unfinishedBusinessInCommitteeOfTheWhole>
+        <considerationByHouse>2</considerationByHouse>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>1</committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>1</billReferrals>
+        <referredToCommittee>1</referredToCommittee>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-01-11</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:57:57</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 31</name>
+            <url>http://clerk.house.gov/evs/2017/roll031.xml</url>
+          </link>
+        </links>
+        <text>On passage Passed by the Yeas and Nays: 344 - 73 (Roll no. 31).</text>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:57:55</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>Roll no. 31</name>
+            <url>http://clerk.house.gov/evs/2017/roll031.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 344 - 73 (Roll no. 31).</text>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:57:55</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:49:55</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 79</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/79</url>
+          </link>
+        </links>
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 79.</text>
+        <actionCode>H32600</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:48:42</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+        <actionCode>H32050</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:20:41</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H280-283</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H280-283</url>
+          </link>
+        </links>
+        <text>Considered as unfinished business. (consideration: CR H280-283)</text>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>17:20:23</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 79</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/79</url>
+          </link>
+        </links>
+        <text>Committee of the Whole House on the state of the Union rises leaving H.R. 79 as unfinished business.</text>
+        <actionCode>H32700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:16:14</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>On motion that the Committee rise Agreed to by voice vote.</text>
+        <actionCode>H32341</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:16:07</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>Mr. Huizenga moved that the Committee rise.</text>
+        <actionCode>H32340</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:15:26</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Clay amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Clay demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:14:43</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+        </links>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 33, the Committee of the Whole proceeded with 10 minutes of debate on the Clay Part B amendment No. 2.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:07:54</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Velazquez amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Velazquez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>15:07:03</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+        </links>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 33, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez Part B amendment No. 1.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:57:14</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 79</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/79</url>
+          </link>
+        </links>
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 79.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:09:03</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>The Speaker designated the Honorable Mike Bost to act as Chairman of the Committee.</text>
+        <actionCode>H32400</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:08:18</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+        </links>
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 33 and Rule XVIII.</text>
+        <actionCode>H32020</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:08:17</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 5</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/5</url>
+          </link>
+          <link>
+            <name>H.R. 79</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/79</url>
+          </link>
+        </links>
+        <text>The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:07:51</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+          <link>
+            <name>H259-266</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H259-266</url>
+          </link>
+          <link>
+            <name>H264</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H264</url>
+          </link>
+        </links>
+        <text>Considered under the provisions of rule H. Res. 33. (consideration: CR H259-266; text of measure as reported in House: CR H264)</text>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>14:07:46</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+        </links>
+        <text>Rule H. Res. 33 passed House.</text>
+        <actionCode>H1L220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:58:03</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-09</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H. Res. 33</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/33</url>
+          </link>
+          <link>
+            <name>H.R. 5</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/5</url>
+          </link>
+          <link>
+            <name>H.R. 79</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/79</url>
+          </link>
+        </links>
+        <text>Rules Committee Resolution H. Res. 33 Reported to House. The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79.</text>
+        <actionCode>H1L210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>19:12:34</actionTime>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>24</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-01-03</introducedDate>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Helping Angels Lead Our Startups Act or the HALOS Act</b></p> <p>This bill directs the Securities and Exchange Commission (SEC) to revise Regulation D, which exempts certain offerings from SEC registration requirements but prohibits general solicitation or general advertising with respect to such offerings. Specifically, this prohibition shall not apply to events with specified kinds of sponsors&#8212;including "angel investor groups" unconnected to broker-dealers or investment advisers&#8212;where presentations or communications are made by or on behalf of an issuer, but:</p> <ul> <li>the advertising does not refer to any specific offering of securities by the issuer; </li> <li>the sponsor does not provide investment recommendation or advice to attendees, engage in investment negotiations with attendees, charge certain fees, or receive certain compensation; and </li> <li>no specific information regarding a securities offering is communicated beyond&nbsp;the type and amount of securities being offered, the amount of securities already subscribed for, and the intended use of proceeds from the offering.</li></ul>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-09T13:56:42Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2017-01-10</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Helping Angels Lead Our Startups Act or the HALOS Act</b></p> <p>(Sec. 3) This bill directs the Securities and Exchange Commission (SEC) to revise Regulation D, which exempts certain offerings from SEC registration requirements but prohibits general solicitation or general advertising with respect to such offerings. Specifically, this prohibition shall not apply to events with specified kinds of sponsors -- including "angel investor groups" unconnected to broker-dealers or investment advisers -- where presentations or communications are made by or on behalf of an issuer, but:</p> <ul> <li>the advertising does not refer to any specific offering of securities by the issuer; </li> <li>the sponsor does not provide investment recommendation or advice to attendees, engage in investment negotiations with attendees, charge certain fees, or receive certain compensation; and </li> <li>no specific information regarding a securities offering is communicated beyond&nbsp;the type and amount of securities being offered, the amount of securities already subscribed for, and the intended use of proceeds from the offering.</li></ul>]]></text>
+          <name>Passed House without amendment</name>
+          <updateDate>2017-01-10T14:46:21Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-11T19:33:05Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments>
+      <amendment>
+        <number>15</number>
+        <congress>115</congress>
+        <description>Amendment sought to limit the types of fees "demo day" sponsors can collect and require an issuer to be a real business.</description>
+        <purpose />
+        <latestAction>
+          <text>On agreeing to the Clay amendment Failed by recorded vote: 163 - 253 (Roll no. 30).</text>
+          <actionTime>17:48:37</actionTime>
+          <actionDate>2017-01-10</actionDate>
+        </latestAction>
+        <type>HAMDT</type>
+        <description>Amendment sought to limit the types of fees "demo day" sponsors can collect and require an issuer to be a real business.</description>
+        <number>15</number>
+        <amendedBill>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>115</congress>
+          <number>79</number>
+          <originChamberCode>H</originChamberCode>
+          <title>HALOS Act</title>
+        </amendedBill>
+        <proposedDate />
+        <purpose />
+        <submittedDate>2017-01-10T05:00:00Z</submittedDate>
+        <amendedAmendment />
+        <createDate>2017-01-11T10:10:18Z</createDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <type>HAMDT</type>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <actions>
+          <count>8</count>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <text>On agreeing to the Clay amendment Failed by recorded vote: 163 - 253 (Roll no. 30).</text>
+              <type>Floor</type>
+              <actionTime>17:48:37</actionTime>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.15</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/15</url>
+                </link>
+                <link>
+                  <name>Roll no. 30</name>
+                  <url>http://clerk.house.gov/evs/2017/roll030.xml</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionCode>H32111</actionCode>
+            </item>
+            <item>
+              <text>Amendment (A002) offered by Mr. Clay. (consideration: CR H265-266, H281-282; text: CR H265)</text>
+              <type>Floor</type>
+              <actionTime>15:07:45</actionTime>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.15</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/15</url>
+                </link>
+                <link>
+                  <name>H265</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H265</url>
+                </link>
+                <link>
+                  <name>H265-266</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H265-266</url>
+                </link>
+                <link>
+                  <name>H281-282</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H281-282</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionCode>H3A100</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-01-10</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>House amendment not agreed to: On agreeing to the Clay amendment Failed by recorded vote: 163 - 253 (Roll no. 30).</text>
+              <type>Floor</type>
+              <actionTime>17:48:37</actionTime>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.15</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/15</url>
+                </link>
+                <link>
+                  <name>Roll no. 30</name>
+                  <url>http://clerk.house.gov/evs/2017/roll030.xml</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>73000</actionCode>
+            </item>
+            <item>
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionTime>17:48:37</actionTime>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.15</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/15</url>
+                </link>
+                <link>
+                  <name>Roll no. 30</name>
+                  <url>http://clerk.house.gov/evs/2017/roll030.xml</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>75000</actionCode>
+            </item>
+            <item>
+              <text>Amendment failed in Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionTime>17:48:37</actionTime>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.15</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/15</url>
+                </link>
+                <link>
+                  <name>Roll no. 30</name>
+                  <url>http://clerk.house.gov/evs/2017/roll030.xml</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>77000</actionCode>
+            </item>
+            <item>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Clay.</text>
+              <type>NotUsed</type>
+              <actionTime>15:07:45</actionTime>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.15</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/15</url>
+                </link>
+                <link>
+                  <name>H265</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H265</url>
+                </link>
+                <link>
+                  <name>H265-266</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H265-266</url>
+                </link>
+                <link>
+                  <name>H281-282</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H281-282</url>
+                </link>
+              </links>
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>71500</actionCode>
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionDate>2017-01-10</actionDate>
+              <links />
+              <committee />
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>71000</actionCode>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+        <chamber>House of Representatives</chamber>
+        <titles />
+        <sponsors>
+          <item>
+            <state>MO</state>
+            <lastName>CLAY</lastName>
+            <middleName>LACY</middleName>
+            <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+            <district>1</district>
+            <party>D</party>
+            <firstName>WM.</firstName>
+            <identifiers>
+              <bioguideId>C001049</bioguideId>
+              <lisID>1654</lisID>
+              <gpoId>8009</gpoId>
+            </identifiers>
+            <bioguideId>C001049</bioguideId>
+          </item>
+        </sponsors>
+        <notes />
+        <congress>115</congress>
+        <updateDate>2018-03-30T13:56:41Z</updateDate>
+      </amendment>
+      <amendment>
+        <number>14</number>
+        <congress>115</congress>
+        <description>Amendment sought to require the event sponsor to provide attendees with a written disclosure outlining the nature of the event and the risks of investing in the securities for sale. Also, it clarifies that attendance at an event does not in itself establish a pre-existing relationship for purposes of Rule 506(b).</description>
+        <purpose />
+        <latestAction>
+          <text>On agreeing to the Velazquez amendment (A001) Failed by recorded vote: 167 - 249 (Roll no. 29).</text>
+          <actionTime>17:43:43</actionTime>
+          <actionDate>2017-01-10</actionDate>
+        </latestAction>
+        <type>HAMDT</type>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <number>14</number>
+        <updateDate>2018-03-30T13:56:41Z</updateDate>
+        <proposedDate />
+        <congress>115</congress>
+        <notes />
+        <chamber>House of Representatives</chamber>
+        <description>Amendment sought to require the event sponsor to provide attendees with a written disclosure outlining the nature of the event and the risks of investing in the securities for sale. Also, it clarifies that attendance at an event does not in itself establish a pre-existing relationship for purposes of Rule 506(b).</description>
+        <amendedAmendment />
+        <submittedDate>2017-01-10T05:00:00Z</submittedDate>
+        <version>1.0.0</version>
+        <createDate>2017-01-11T10:10:16Z</createDate>
+        <sponsors>
+          <item>
+            <lastName>VELAZQUEZ</lastName>
+            <middleName>M.</middleName>
+            <bioguideId>V000081</bioguideId>
+            <firstName>NYDIA</firstName>
+            <state>NY</state>
+            <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+            <identifiers>
+              <lisID>1184</lisID>
+              <gpoId>8073</gpoId>
+              <bioguideId>V000081</bioguideId>
+            </identifiers>
+            <party>D</party>
+            <district>7</district>
+          </item>
+        </sponsors>
+        <actions>
+          <count>8</count>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionTime>17:43:43</actionTime>
+              <actionCode>H32111</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <text>On agreeing to the Velazquez amendment (A001) Failed by recorded vote: 167 - 249 (Roll no. 29).</text>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.14</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/14</url>
+                </link>
+                <link>
+                  <name>Roll no. 29</name>
+                  <url>http://clerk.house.gov/evs/2017/roll029.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionTime>14:57:12</actionTime>
+              <actionCode>H3A100</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <text>Amendment (A001) offered by Ms. Velazquez. (consideration: CR H264-265, H280-281; text: CR H264)</text>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.14</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/14</url>
+                </link>
+                <link>
+                  <name>H264</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H264</url>
+                </link>
+                <link>
+                  <name>H264-265</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H264-265</url>
+                </link>
+                <link>
+                  <name>H280-281</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H280-281</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2017-01-10</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionTime>17:43:43</actionTime>
+              <actionCode>75000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <text>Roll call votes on amendments in House</text>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.14</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/14</url>
+                </link>
+                <link>
+                  <name>Roll no. 29</name>
+                  <url>http://clerk.house.gov/evs/2017/roll029.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionTime>17:43:43</actionTime>
+              <actionCode>73000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <text>House amendment not agreed to: On agreeing to the Velazquez amendment (A001) Failed by recorded vote: 167 - 249 (Roll no. 29).</text>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.14</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/14</url>
+                </link>
+                <link>
+                  <name>Roll no. 29</name>
+                  <url>http://clerk.house.gov/evs/2017/roll029.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionTime>17:43:43</actionTime>
+              <actionCode>77000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>NotUsed</type>
+              <text>Amendment failed in Committee of the Whole</text>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.14</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/14</url>
+                </link>
+                <link>
+                  <name>Roll no. 29</name>
+                  <url>http://clerk.house.gov/evs/2017/roll029.xml</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionTime>14:57:12</actionTime>
+              <actionCode>71500</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>NotUsed</type>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Ms. Velazquez.</text>
+              <actionDate>2017-01-10</actionDate>
+              <links>
+                <link>
+                  <name>H.Amdt.14</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/14</url>
+                </link>
+                <link>
+                  <name>H264</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H264</url>
+                </link>
+                <link>
+                  <name>H264-265</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H264-265</url>
+                </link>
+                <link>
+                  <name>H280-281</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H280-281</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionCode>71000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <text>House amendment offered</text>
+              <actionDate>2017-01-10</actionDate>
+              <links />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentOffered>1</amendmentOffered>
+          </actionTypeCounts>
+        </actions>
+        <amendedBill>
+          <congress>115</congress>
+          <number>79</number>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <title>HALOS Act</title>
+        </amendedBill>
+        <links />
+        <purpose />
+        <titles />
+        <type>HAMDT</type>
+        <amendments>
+          <count>0</count>
+        </amendments>
+      </amendment>
+    </amendments>
+    <version>1.0.0</version>
+    <title>HALOS Act</title>
+    <calendarNumbers />
+    <updateDate>2018-03-30T13:57:54Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Financial Services and General Government Appropriations Act, 2018</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-18</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 167.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3280</number>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-13</actionDate>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-108.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>10</number>
+      </item>
+      <item>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law.</latestTitle>
+        <latestAction>
+          <actionTime>13:58:04</actionTime>
+          <actionDate>2017-01-10</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>33</number>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>Interior and Environment, Agriculture and Rural Development, Commerce, Justice, Science, Financial Services and General Government, Homeland Security, Labor, Health and Human Services, Education, State and Foreign Operations, Transportation, Housing and Urban Development, Defense, Military Construction and Veterans Affairs, Legislative Branch, and Energy and Water Development Appropriations Act, 2018</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-27</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3354</number>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>HALOS Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-03-09</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>588</number>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

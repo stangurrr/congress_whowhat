@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <amendments />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <lastName>Farenthold</lastName>
+        <state>TX</state>
+        <bioguideId>F000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <district>27</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Blake</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+          <lisID>2269</lisID>
+        </identifiers>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <lastName>Hurd</lastName>
+        <state>TX</state>
+        <bioguideId>H001073</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-10-24</sponsorshipDate>
+        <district>23</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Will</firstName>
+      </item>
+    </cosponsors>
+    <billNumber>4102</billNumber>
+    <createDate>2017-10-25T03:11:20Z</createDate>
+    <laws />
+    <sponsors>
+      <item>
+        <lastName>DOGGETT</lastName>
+        <firstName>LLOYD</firstName>
+        <bioguideId>D000399</bioguideId>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+        </identifiers>
+        <state>TX</state>
+        <party>D</party>
+        <district>35</district>
+        <middleName />
+        <byRequestType />
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-10-25</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-10-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-10-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2018-04-03T16:00:09Z</updateDate>
+    <notes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <actionDate>2017-10-25</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </latestAction>
+    <introducedDate>2017-10-24</introducedDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-10-24</actionDate>
+          <lastSummaryUpdateDate>2018-04-03T15:52:39Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-10-24T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Commercial Balloon Pilot Safety Act of 2017</b></p> <p>This bill directs the Federal Aviation Administration to revise federal regulations to apply medical certificate of physical fitness requirements that are applicable to&nbsp;pilot flight&nbsp;crew members of other aircraft to operators of air balloons. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Commercial Balloon Pilot Safety Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To apply certain medical requirements to an operator of an air balloon.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Commercial Balloon Pilot Safety Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Commercial Balloon Pilot Safety Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>1394</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Commercial Balloon Pilot Safety Act of 2017</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2017-06-21</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+      <item>
+        <number>1405</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Federal Aviation Administration Reauthorization Act of 2017</latestTitle>
+        <latestAction>
+          <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+          <actionDate>2017-06-29</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <title>Commercial Balloon Pilot Safety Act of 2017</title>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-10-25T13:45:29Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Aviation Subcommittee</name>
+              <systemCode>hspw05</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-10-24T14:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 171 (Tuesday, October 24, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DOGGETT:H.R. 4102.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution that grants Congress the authority, ``Toregulate Commerce with foreign Nations, and among the severalStates, and with the Indian Tribes.''[Page H8144]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <createDate>2017-03-11T04:51:01Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-114</citation>
+      </committeeReport>
+      <committeeReport>
+        <citation>S. Rept. 115-223</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>National Parks Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2018-02-14T20:00:04Z</date>
+                </item>
+              </activities>
+              <systemCode>sseg04</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-04-10T21:12:18Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2018-03-08T15:00:06Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T16:10:18Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-04-27T18:24:23Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-21T20:45:25Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-05-11T18:26:26Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-04-27T18:24:31Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-10T14:00:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <billNumber>1500</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-04-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2018-04-10</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-223</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/223</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-223.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-223</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/223</url>
+          </link>
+        </links>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-223.</text>
+        <actionDate>2018-04-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-08</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-02-14</actionDate>
+        <committee>
+          <systemCode>sseg04</systemCode>
+          <name>National Parks Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>17:28:04</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>CR 6/27/2017 H5205</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5205</url>
+          </link>
+          <link>
+            <name>Roll no. 338</name>
+            <url>http://clerk.house.gov/evs/2017/roll338.xml</url>
+          </link>
+        </links>
+        <actionTime>17:28:03</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338). (text: CR 6/27/2017 H5205)</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>Roll no. 338</name>
+            <url>http://clerk.house.gov/evs/2017/roll338.xml</url>
+          </link>
+        </links>
+        <actionTime>17:28:03</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338).</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H5287</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5287</url>
+          </link>
+        </links>
+        <actionTime>17:20:21</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H5287)</text>
+        <actionDate>2017-06-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>14:24:14</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionDate>2017-06-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37220</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1500</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1500</url>
+          </link>
+        </links>
+        <actionTime>14:14:26</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1500.</text>
+        <actionDate>2017-06-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H5205-5206</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5205-5206</url>
+          </link>
+        </links>
+        <actionTime>14:14:25</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5205-5206)</text>
+        <actionDate>2017-06-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>14:14:17</actionTime>
+        <text>Mr. Cook moved to suspend the rules and pass the bill.</text>
+        <actionDate>2017-06-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 47.</text>
+        <actionDate>2017-05-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12420</actionCode>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-114</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/114</url>
+          </link>
+        </links>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-114.</text>
+        <actionDate>2017-05-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-114</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/114</url>
+          </link>
+        </links>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-114.</text>
+        <actionDate>2017-05-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-27</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Federal Lands Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-03-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-03-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-03-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <hearingsHeld>1</hearingsHeld>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <orderedReported>1</orderedReported>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <actionStageOverride>1</actionStageOverride>
+        <considerationByHouse>2</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>4</placeholderTextForH>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Robert Emmet Park Act of 2017</title>
+    <updateDate>2018-04-11T12:28:35Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CROWLEY:H.R. 1500.Congress has the power to enact this legislation pursuantto the following:Article I Section VIII[Page H2053]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <bioguideId>R000583</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000583</bioguideId>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <bioguideId>S000522</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <lastName>SMITH</lastName>
+        <state>NJ</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>CHRISTOPHER</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <bioguideId>K000210</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <state>NY</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <bioguideId>E000179</bioguideId>
+        <district>16</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <lastName>ENGEL</lastName>
+        <state>NY</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ELIOT</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <bioguideId>N000015</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <lastName>NEAL</lastName>
+        <state>MA</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>D000482</bioguideId>
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <lastName>DOYLE</lastName>
+        <state>PA</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <bioguideId>B001296</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <lastName>Boyle</lastName>
+        <state>PA</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Brendan</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <bioguideId>R000602</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <lastName>Rice</lastName>
+        <state>NY</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Kathleen</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <sponsorshipDate>2017-03-10</sponsorshipDate>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAMES</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <district>14</district>
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <firstName>JOSEPH</firstName>
+        <bioguideId>C001038</bioguideId>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <party>D</party>
+        <middleName />
+        <lastName>CROWLEY</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <latestAction>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.</text>
+      <links />
+      <actionDate>2018-04-10</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-10</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Robert Emmet Park Act of 2017</b></p> <p>This bill redesignates as &quot;Robert Emmet Park&quot; the small triangular property located at the corner of 24th Street and Massachusetts Avenue NW in Washington, DC, and designated by the National Park Service as reservation 302. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-03-23T21:44:53Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-10T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-05-11</actionDate>
+          <versionCode>79</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Robert Emmet Park Act of 2017</b></p> <p>(Sec. 3) This bill redesignates as &quot;Robert Emmet Park&quot; the small triangular property located at the corner of 24th Street and Massachusetts Avenue NW in Washington, DC, and designated by the National Park Service as reservation 302. </p> <p>The Department of the Interior may post signs on or near the park, including one or more on: (1) information about Robert Emmet, his contribution to Irish Independence, and his respect for the United States and the American Revolution; and (2) information about the history of the statue of Robert Emmet located in the park. </p> <p>]]></text>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <name>Reported to House without amendment</name>
+          <lastSummaryUpdateDate>2017-05-25T21:02:25Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-11T13:57:31Z</updateDate>
+        </item>
+        <item>
+          <actionDate>2017-06-28</actionDate>
+          <versionCode>81</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p><b>Robert Emmet Park Act of 2017</b></p> <p>(Sec. 3) This bill redesignates as &quot;Robert Emmet Park&quot; the small triangular property located at the corner of 24th Street and Massachusetts Avenue NW in Washington, DC, and designated by the National Park Service as reservation 302. </p> <p>The Department of the Interior may post signs on or near the park, including one or more on: (1) information about Robert Emmet, his contribution to Irish Independence, and his respect for the United States and the American Revolution; and (2) information about the history of the statue of Robert Emmet located in the park. </p> <p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2017-07-25T21:56:32Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-28T14:00:53Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52695</url>
+        <pubDate>2017-05-08T15:00:01Z</pubDate>
+        <title>H.R. 1500, Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/53681</url>
+        <pubDate>2018-03-22T19:50:31Z</pubDate>
+        <title>H.R. 1500, Robert Emmet Park Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To redesignate the small triangular property located in Washington, DC, and designated by the National Park Service as reservation 302 as "Robert Emmet Park", and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Robert Emmet Park Act of 2017</title>
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>H00047</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0371</number>
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <introducedDate>2017-03-10</introducedDate>
+    <recordedVotes>
+      <recordedVote>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-06-28T21:28:03Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll338.xml</url>
+        <congress>115</congress>
+        <rollNumber>338</rollNumber>
+      </recordedVote>
+    </recordedVotes>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Ireland</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>World history</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

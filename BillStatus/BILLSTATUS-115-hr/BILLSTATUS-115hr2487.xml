@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <title>Military Family Stability Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend title 37, United States Code, to provide for the housing treatment of members of the Armed Forces and their spouses and dependents undergoing a permanent change of station in the United States, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Military Family Stability Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Military Family Stability Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>SC</state>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <bioguideId>W000795</bioguideId>
+        <firstName>Joe</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <billNumber>2487</billNumber>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <state>CA</state>
+        <lastName>DAVIS</lastName>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <bioguideId>D000598</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>53</district>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <title>Military Family Stability Act</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-16</actionDate>
+      <text>Referred to the Subcommittee on Readiness.</text>
+    </latestAction>
+    <updateDate>2018-03-30T14:08:37Z</updateDate>
+    <createDate>2017-05-18T03:11:41Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-06-16</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H4430)</text>
+        <links>
+          <link>
+            <name>H4430</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4430</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <introducedDate>2017-05-17</introducedDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2018</latestTitle>
+        <latestAction>
+          <actionDate>2017-12-12</actionDate>
+          <text>Became Public Law No: 115-91.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2810</number>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>Military Family Stability Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-05-17</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1154</number>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WILSON of South Carolina:H.R. 2487.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8; and Article IV, Section 3, Clause 2of the Constitution of the United States of America[Page H4311]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-17</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Military Family Stability Act</strong></p> <p>This bill directs the Department of Defense (DOD) to prescribe regulations that permit an eligible member of the Armed Forces who is undergoing a permanent change of station within the United States to request specified housing treatment during the period from 180 days before to 180 days after such change.</p> <p>An &quot;eligible member&quot; is a member who:</p> <ul> <li> has a spouse who is gainfully employed or enrolled in a degree, certificate, or license granting program at the beginning of such period; </li> <li> has one or more dependents attending an elementary or secondary school at the beginning of such period; </li> <li> has one or more dependents enrolled in the Exceptional Family Member Program; or </li> <li> is caring for an immediate family member with a chronic or long-term illness at the beginning of such period. </li> </ul> <p>If a spouse or other dependent of a member whose request for such housing treatment is approved: (1) resides in government-owned or government-leased housing at the beginning of such period, he or she may continue to reside there during such period; and (2) relocates at a time different from the member, the member may be assigned to housing intended for members without a spouse or dependent until the member's detachment date or the spouse or other dependent's arrival date, if such housing is available without displacing a member without a spouse or dependent. (The bill specifies alternatives for the basic housing allowance to be provided in such case.)</p> <p>The Government Accountability Office shall report to Congress on potential DOD actions to enhance the well-being of military families undergoing a permanent change of station.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-17T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-11-29T20:35:05Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <name>Readiness Subcommittee</name>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-16T14:19:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-17T14:05:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

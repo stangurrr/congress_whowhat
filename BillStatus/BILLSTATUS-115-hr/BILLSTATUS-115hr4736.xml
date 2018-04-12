@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>S001195</bioguideId>
+        <district>8</district>
+        <party>R</party>
+        <firstName>Jason</firstName>
+        <middleName />
+        <lastName>Smith</lastName>
+        <identifiers>
+          <lisID>2191</lisID>
+          <gpoId />
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <state>MO</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2018-01-03</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-01-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-01-03</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-01-03T16:00:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>IA</state>
+        <district>4</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <lastName>King</lastName>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <bioguideId>K000362</bioguideId>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <district>6</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>C.</middleName>
+        <fullName>Rep. Handel, Karen C. [R-GA-6]</fullName>
+        <lastName>Handel</lastName>
+        <identifiers>
+          <bioguideId>H001078</bioguideId>
+          <lisID>2360</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001078</bioguideId>
+        <firstName>Karen</firstName>
+      </item>
+      <item>
+        <state>NC</state>
+        <district>11</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <lastName>Meadows</lastName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001187</bioguideId>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <state>NE</state>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <lastName>Smith</lastName>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+        </identifiers>
+        <bioguideId>S001172</bioguideId>
+        <firstName>Adrian</firstName>
+      </item>
+      <item>
+        <state>ND</state>
+        <district>0</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <lastName>Cramer</lastName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <bioguideId>C001096</bioguideId>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <state>SD</state>
+        <district>0</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <lastName>Noem</lastName>
+        <identifiers>
+          <lisID>2060</lisID>
+          <bioguideId>N000184</bioguideId>
+          <gpoId>8147</gpoId>
+        </identifiers>
+        <bioguideId>N000184</bioguideId>
+        <firstName>Kristi</firstName>
+      </item>
+      <item>
+        <state>MO</state>
+        <district>7</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <lastName>Long</lastName>
+        <identifiers>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+          <lisID>2033</lisID>
+        </identifiers>
+        <bioguideId>L000576</bioguideId>
+        <firstName>Billy</firstName>
+      </item>
+      <item>
+        <state>IL</state>
+        <district>14</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <lastName>Hultgren</lastName>
+        <identifiers>
+          <lisID>2015</lisID>
+          <gpoId>7934</gpoId>
+          <bioguideId>H001059</bioguideId>
+        </identifiers>
+        <bioguideId>H001059</bioguideId>
+        <firstName>Randy</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <lastName>Gohmert</lastName>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <bioguideId>G000552</bioguideId>
+        <firstName>Louie</firstName>
+      </item>
+      <item>
+        <state>MO</state>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <lastName>Wagner</lastName>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000812</bioguideId>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>Drew</middleName>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <lastName>Ferguson</lastName>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+          <lisID>2324</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>F000465</bioguideId>
+        <firstName>A.</firstName>
+      </item>
+      <item>
+        <state>IN</state>
+        <district>4</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <lastName>Rokita</lastName>
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <lisID>2017</lisID>
+          <gpoId>7943</gpoId>
+        </identifiers>
+        <bioguideId>R000592</bioguideId>
+        <firstName>Todd</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <district>18</district>
+        <party>R</party>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <lastName>Mast</lastName>
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001199</bioguideId>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <state>MI</state>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <lastName>Huizenga</lastName>
+        <identifiers>
+          <lisID>2028</lisID>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <bioguideId>H001058</bioguideId>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <state>TX</state>
+        <district>22</district>
+        <party>R</party>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <lastName>Olson</lastName>
+        <identifiers>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <bioguideId>O000168</bioguideId>
+        <firstName>Pete</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipDate>2018-04-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <lastName>CHABOT</lastName>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <bioguideId>C000266</bioguideId>
+        <firstName>STEVE</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2018-01-03</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to allow section 529 education accounts to be used for homeschooling expenses.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to allow section 529 education accounts to be used for homeschooling expenses.</title>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <billNumber>4736</billNumber>
+    <updateDate>2018-04-10T07:15:23Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2018-01-03</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <title>To amend the Internal Revenue Code of 1986 to allow section 529 education accounts to be used for homeschooling expenses.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to allow distributions from qualified tuition programs (known as 529 plans) to be used for certain expenses in connection with a homeschool (whether treated as a homeschool or a private school for purposes of state law). </p> <p>The expenses include: curriculum and curricular materials, books or other instructional materials, online educational materials, tuition for tutoring or educational classes outside of the home (if the tutor or instructor is not related to the student), dual enrollment in an institution of higher education, and educational therapies for students with disabilities. </p>]]></text>
+          <actionDate>2018-01-03</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2018-01-03T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-01-16T16:19:53Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Enhancing Educational Opportunities for Home School Students Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2018-01-19</actionDate>
+        </latestAction>
+        <number>4862</number>
+        <congress>115</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <createDate>2018-01-03T12:26:03Z</createDate>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 216 (Wednesday, January 3, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of Missouri:H.R. 4736.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States.____________________[Page H10434]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

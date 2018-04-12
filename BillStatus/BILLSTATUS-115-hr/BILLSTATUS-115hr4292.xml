@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>4292</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>50</rollNumber>
+        <sessionNumber>2</sessionNumber>
+        <date>2018-01-30T20:21:36Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <url>http://clerk.house.gov/evs/2018/roll050.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2018-02-05</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>15:21:37</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:21:36</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll050.xml</url>
+            <name>Roll no. 50</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 50).</text>
+        <actionCode>H37300</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:21:36</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll050.xml</url>
+            <name>Roll no. 50</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 50).</text>
+        <actionCode>8000</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>15:12:34</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H725</url>
+            <name>H725</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H725)</text>
+        <actionCode>H30000</actionCode>
+        <actionDate>2018-01-30</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:32:03</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionCode>H37220</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:25:57</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4292</url>
+            <name>H.R. 4292</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4292.</text>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:25:56</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H650-651</url>
+            <name>H650-651</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H650-652</url>
+            <name>H650-652</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H650-652; text: CR H650-651)</text>
+        <actionCode>H30000</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>18:25:47</actionTime>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <text>Mr. Tipton moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <actionDate>2018-01-29</actionDate>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 345.</text>
+        <actionCode>H12410</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-465.</text>
+        <actionCode>H12200</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/465</url>
+            <name>H. Rept. 115-465</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-465.</text>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-12-14</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/465</url>
+            <name>H. Rept. 115-465</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-07</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-07</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <considerationByHouse>2</considerationByHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <reportedToHouse>1</reportedToHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-11-07</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 181 (Tuesday, November 7, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ZELDIN:H.R. 4292.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H8598]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To reform the living will process under the Dodd-Frank Wall Street Reform and Consumer Protection Act.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Financial Institution Living Will Improvement Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <lastName>MALONEY</lastName>
+        <bioguideId>M000087</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <identifiers>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>CAROLYN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>ROYCE</lastName>
+        <bioguideId>R000487</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>ED</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <district>39</district>
+      </item>
+      <item>
+        <lastName>Sinema</lastName>
+        <bioguideId>S001191</bioguideId>
+        <state>AZ</state>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <district>9</district>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00345</calendar>
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-465</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2018-02-05</actionDate>
+    </latestAction>
+    <title>Financial Institution Living Will Improvement Act of 2017</title>
+    <createDate>2017-11-08T03:11:17Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Zeldin</lastName>
+        <byRequestType />
+        <middleName>M.</middleName>
+        <bioguideId>Z000017</bioguideId>
+        <firstName>Lee</firstName>
+        <state>NY</state>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:17:55Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>10</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-13</actionDate>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-108.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2018-02-05T20:37:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-12-14T18:55:19Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-11-15T22:33:16Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-11-07T15:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

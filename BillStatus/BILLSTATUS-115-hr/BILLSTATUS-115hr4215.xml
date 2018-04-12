@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>P000594</bioguideId>
+        <district>3</district>
+        <party>R</party>
+        <firstName>Erik</firstName>
+        <middleName />
+        <lastName>Paulsen</lastName>
+        <identifiers>
+          <gpoId>8003</gpoId>
+          <bioguideId>P000594</bioguideId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <state>MN</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-11-01</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-11-01</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-11-01</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-01T14:01:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>KIND</lastName>
+      </item>
+      <item>
+        <middleName>O.</middleName>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Doris</firstName>
+        <bioguideId>M001163</bioguideId>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>6</district>
+        <party>D</party>
+        <lastName>Matsui</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <identifiers>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <district>12</district>
+        <party>R</party>
+        <lastName>Bilirakis</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>EARL</firstName>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OR</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-11-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <bioguideId>M001143</bioguideId>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <identifiers>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>4</district>
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>COLLIN</firstName>
+        <bioguideId>P000258</bioguideId>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <identifiers>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>7</district>
+        <party>D</party>
+        <lastName>PETERSON</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lynn</firstName>
+        <bioguideId>J000290</bioguideId>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <district>2</district>
+        <party>R</party>
+        <lastName>Jenkins</lastName>
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roger</firstName>
+        <bioguideId>M001198</bioguideId>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <district>1</district>
+        <party>R</party>
+        <lastName>Marshall</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>19</district>
+        <party>D</party>
+        <lastName>LOFGREN</lastName>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>CHRISTOPHER</firstName>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <district>4</district>
+        <party>R</party>
+        <lastName>SMITH</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <district>3</district>
+        <party>D</party>
+        <lastName>Beatty</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>L000287</bioguideId>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <district>5</district>
+        <party>D</party>
+        <lastName>LEWIS</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <bioguideId>H001067</bioguideId>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <identifiers>
+          <lisID>2140</lisID>
+          <bioguideId>H001067</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <district>8</district>
+        <party>R</party>
+        <lastName>Hudson</lastName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dennis</firstName>
+        <bioguideId>R000593</bioguideId>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <identifiers>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <district>15</district>
+        <party>R</party>
+        <lastName>Ross</lastName>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <bioguideId>R000583</bioguideId>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <identifiers>
+          <gpoId>7888</gpoId>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <district>17</district>
+        <party>R</party>
+        <lastName>Rooney</lastName>
+      </item>
+      <item>
+        <middleName>O.</middleName>
+        <sponsorshipDate>2018-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Salud</firstName>
+        <bioguideId>C001112</bioguideId>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <identifiers>
+          <lisID>2310</lisID>
+          <bioguideId>C001112</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>24</district>
+        <party>D</party>
+        <lastName>Carbajal</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <identifiers>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <district>7</district>
+        <party>R</party>
+        <lastName>Meehan</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Carol</firstName>
+        <bioguideId>S001170</bioguideId>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <district>1</district>
+        <party>D</party>
+        <lastName>Shea-Porter</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>17</district>
+        <party>D</party>
+        <lastName>Khanna</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>6</district>
+        <party>R</party>
+        <lastName>Emmer</lastName>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>MIKE</firstName>
+        <bioguideId>T000460</bioguideId>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>5</district>
+        <party>D</party>
+        <lastName>THOMPSON</lastName>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2017-11-01</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to ensure that providers of services receive adequate payments for the acquisition of hematopoietic stem cells under the Medicare program, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To amend title XVIII of the Social Security Act to ensure that providers of services receive adequate payments for the acquisition of hematopoietic stem cells under the Medicare program, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <billNumber>4215</billNumber>
+    <updateDate>2018-04-11T07:16:14Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-11-01</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <title>To amend title XVIII of the Social Security Act to ensure that providers of services receive adequate payments for the acquisition of hematopoietic stem cells under the Medicare program, and for other purposes.</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <createDate>2017-11-02T03:11:20Z</createDate>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 177 (Wednesday, November 1, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PAULSEN:H.R. 4215.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H8386]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

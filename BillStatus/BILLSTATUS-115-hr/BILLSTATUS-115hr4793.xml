@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4793</billNumber>
+    <laws />
+    <recordedVotes />
+    <introducedDate>2018-01-16</introducedDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Appropriations.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-01-16</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-01-16</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-01-16</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <district>2</district>
+      </item>
+      <item>
+        <bioguideId>S000522</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1071</lisID>
+          <gpoId>8046</gpoId>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <firstName>CHRISTOPHER</firstName>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <district>4</district>
+      </item>
+      <item>
+        <bioguideId>L000564</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000564</bioguideId>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Doug</firstName>
+        <sponsorshipDate>2018-01-22</sponsorshipDate>
+        <lastName>Lamborn</lastName>
+        <party>R</party>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <district>5</district>
+      </item>
+      <item>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>M.</middleName>
+        <firstName>Elise</firstName>
+        <sponsorshipDate>2018-04-05</sponsorshipDate>
+        <lastName>Stefanik</lastName>
+        <party>R</party>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <district>21</district>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <updateDate>2018-04-06T07:15:34Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>4852</number>
+        <congress>115</congress>
+        <latestTitle>Pay Our Protectors Not Our Politicians Act of 2018</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Committee on Appropriations, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2018-01-19</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>4871</number>
+        <congress>115</congress>
+        <latestTitle>Pay Our Military Act of 2018</latestTitle>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the House Committee on Appropriations.</text>
+          <actionDate>2018-01-20</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2018-01-16</actionDate>
+      <text>Referred to the House Committee on Appropriations.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-01-16T17:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <createDate>2018-01-17T03:11:04Z</createDate>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-01-22T14:43:50Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Pay Our </b> <b>Troops Act of 2018</b></p> <p>This bill provides FY2018 appropriations for military pay and allowances during any period in which interim or full-year appropriations for FY2018 are not in effect. </p> <p>In the event of a government shutdown, the bill provides continuing appropriations for pay and allowances of: </p> <ul> <li> members of the Armed Forces, including reserve components, who perform active service during the period; </li> <li>members of the reserve components of the Armed Forces who perform inactive-duty training during the period; and</li> <li>civilian personnel or contractors of the Department of Defense (and the Department of Homeland Security in the case of the Coast Guard) that are providing support to members of the Armed Forces. </li> </ul> <p>The appropriations provided by this bill are available until the earlier of: (1) the enactment into law of specified appropriations legislation, or (2) January 1, 2019. </p>]]></text>
+          <actionDate>2018-01-16</actionDate>
+          <updateDate>2018-01-16T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <lastName>Norman</lastName>
+        <middleName />
+        <party>R</party>
+        <bioguideId>N000190</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>SC</state>
+        <district>5</district>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Pay Our Troops Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To make continuing appropriations for military pay in the event of a shutdown of the Federal Government.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Pay Our Troops Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Pay Our Troops Act of 2018</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 9 (Tuesday, January 16, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NORMAN:H.R. 4793.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article 1 of the United StatesConstitution[Page H404]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <title>Pay Our Troops Act of 2018</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

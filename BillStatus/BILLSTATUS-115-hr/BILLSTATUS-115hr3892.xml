@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <state>IN</state>
+        <lastName>Carson</lastName>
+        <firstName>Andre</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+        </identifiers>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <bioguideId>C001072</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+      </item>
+      <item>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <state>IN</state>
+        <lastName>Messer</lastName>
+        <firstName>Luke</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2130</lisID>
+          <gpoId />
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <bioguideId>M001189</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>R</party>
+      </item>
+      <item>
+        <sponsorshipDate>2017-11-01</sponsorshipDate>
+        <state>IN</state>
+        <lastName>Bucshon</lastName>
+        <firstName>Larry</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <bioguideId>B001275</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <createDate>2017-09-29T03:11:26Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <updateDate>2018-03-30T14:16:22Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-09-28</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <lastName>Walorski</lastName>
+        <byRequestType />
+        <bioguideId>W000813</bioguideId>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <congress>115</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-09-28T13:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <notes />
+    <title>To amend the Internal Revenue Code of 1986 to provide an exception for certain spun-off voluntary employees' beneficiary associations to the limitation on the exemption from tax on unrelated business taxable income of amounts set aside for qualified benefits.</title>
+    <laws />
+    <billNumber>3892</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-09-28</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide an exception for certain spun-off voluntary employees' beneficiary associations to the limitation on the exemption from tax on unrelated business taxable income of amounts set aside for qualified benefits.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide an exception for certain spun-off voluntary employees' beneficiary associations to the limitation on the exemption from tax on unrelated business taxable income of amounts set aside for qualified benefits.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-03-12T18:18:44Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-09-28T04:00:00Z</updateDate>
+          <actionDate>2017-09-28</actionDate>
+          <text><![CDATA[<p>This bill amends the Internal Revenue Code to exempt certain spun-off voluntary employees' beneficiary associations (VEBAs) from the limitation on the amount of funds that may be set aside for benefits without being subject to the tax on unrelated business income. </p> <p>The exemption applies if: </p> <ul> <li> the VEBA was originally established prior to the enactment of this bill by an employer to provide benefits for eligible employees, retirees, and their dependents and beneficiaries;</li> <li> the benefits are limited to post-retirement medical and life benefits;</li> <li> the employer has delegated (before the beginning of the tax year) all authority and responsibility for the VEBA to one or more independent persons who do not have an employment relationship with the members entitled to benefits from the VEBA; </li> <li> no member entitled to benefits from the VEBA is entitled to benefits from any other VEBA as a result of employment with the employer; and </li> <li> the employer has no obligation to make contributions to the VEBA and has not contributed during the 11-year period ending with the tax year. </li> </ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-09-28</introducedDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. WALORSKI:H.R. 3892.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H7636]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

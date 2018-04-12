@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2018-01-11</introducedDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-01-23T14:33:52Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <updateDate>2018-01-11T05:00:00Z</updateDate>
+          <actionDate>2018-01-11</actionDate>
+          <text><![CDATA[<p><b>Transparency for Taxpayers Act </b></p> <p>This bill requires the Department of the Treasury to make publicly available by April 1, 2018, an online tool that allows taxpayers (other than corporations) to calculate the approximate change in taxpayer income tax liability by reason of P.L. 115-97 (commonly known as the Tax Cuts and Jobs Act). </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <amendments />
+    <titles>
+      <item>
+        <title>Transparency for Taxpayers Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To direct the Secretary of the Treasury to make available an online tax calculator to estimate the change in an individual's income tax liability with respect to the amendments made by the Tax Cuts and Jobs Act.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Transparency for Taxpayers Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Transparency for Taxpayers Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2018-01-12T03:11:03Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 7 (Thursday, January 11, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MacARTHUR:H.R. 4780.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States.[Page H170]</pre>]]></constitutionalAuthorityStatementText>
+    <actions>
+      <item>
+        <actionDate>2018-01-11</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-01-11</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-01-11</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <state>IL</state>
+        <middleName />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000619</bioguideId>
+        <lastName>Davis</lastName>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000563</bioguideId>
+        <lastName>Gibbs</lastName>
+        <district>7</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000292</bioguideId>
+        <lastName>Johnson</lastName>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NY</state>
+        <middleName>J.</middleName>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000464</bioguideId>
+        <lastName>Faso</lastName>
+        <district>19</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000464</bioguideId>
+          <gpoId />
+          <lisID>2343</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>KS</state>
+        <middleName>W.</middleName>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Roger</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001198</bioguideId>
+        <lastName>Marshall</lastName>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>VA</state>
+        <middleName>A.</middleName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000580</bioguideId>
+        <lastName>Garrett</lastName>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2353</lisID>
+          <bioguideId>G000580</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName>H.</middleName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000609</bioguideId>
+        <lastName>Rutherford</lastName>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2316</lisID>
+          <gpoId />
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Warren</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000626</bioguideId>
+        <lastName>Davidson</lastName>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000626</bioguideId>
+          <lisID>2296</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>WV</state>
+        <middleName>X.</middleName>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Alexander</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001195</bioguideId>
+        <lastName>Mooney</lastName>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NE</state>
+        <middleName />
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Don</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001298</bioguideId>
+        <lastName>Bacon</lastName>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001187</bioguideId>
+        <lastName>Stivers</lastName>
+        <district>15</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MO</state>
+        <middleName />
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <firstName>Blaine</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000569</bioguideId>
+        <lastName>Luetkemeyer</lastName>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1931</lisID>
+          <gpoId>8017</gpoId>
+          <bioguideId>L000569</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>IL</state>
+        <middleName />
+        <fullName>Rep. Hultgren, Randy [R-IL-14]</fullName>
+        <sponsorshipDate>2018-01-25</sponsorshipDate>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001059</bioguideId>
+        <lastName>Hultgren</lastName>
+        <district>14</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7934</gpoId>
+          <lisID>2015</lisID>
+          <bioguideId>H001059</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <firstName>Jim</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000289</bioguideId>
+        <lastName>Jordan</lastName>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+          <lisID>1868</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName />
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <district>11</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>4780</billNumber>
+    <committeeReports />
+    <notes />
+    <latestAction>
+      <actionDate>2018-01-11</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2018-01-11T14:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-03-30T14:19:42Z</updateDate>
+    <title>Transparency for Taxpayers Act</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <state>NJ</state>
+        <lastName>MacArthur</lastName>
+        <bioguideId>M001193</bioguideId>
+        <district>3</district>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001193</bioguideId>
+          <lisID>2258</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T21:30:12Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-10</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Water, Power and Oceans Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Power and Oceans Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-29</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>3</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2017-06-29</introducedDate>
+    <createDate>2017-06-30T03:11:37Z</createDate>
+    <titles>
+      <item>
+        <title>SEA Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Streamlining Environmental Approvals Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Marine Mammal Protection Act of 1972 to reduce unnecessary permitting delays by clarifying associated procedures to increase economic development and support coastal restoration programs, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>SEA Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>SEA Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Streamlining Environmental Approvals Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2018-01-10T20:56:56Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-19T19:11:49Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2018-01-10T20:58:16Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T14:08:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3133, SEA Act of 2017</title>
+        <pubDate>2018-02-08T21:01:36Z</pubDate>
+        <url>https://www.cbo.gov/publication/53565</url>
+      </item>
+    </cboCostEstimates>
+    <billNumber>3133</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>D000615</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Duncan</lastName>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <state>LA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2329</lisID>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+        </identifiers>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>H001077</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Higgins</lastName>
+        <firstName>Clay</firstName>
+      </item>
+      <item>
+        <state>LA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2244</lisID>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>A000374</bioguideId>
+        <middleName>Lee</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Abraham</lastName>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <state>LA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000577</bioguideId>
+          <lisID>2245</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <bioguideId>G000577</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Graves</lastName>
+        <firstName>Garret</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <bioguideId>H001071</bioguideId>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Hice</lastName>
+        <firstName>Jody</firstName>
+      </item>
+      <item>
+        <state>NC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2256</lisID>
+          <gpoId />
+          <bioguideId>R000603</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <bioguideId>R000603</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>Rouzer</lastName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <state>GA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2238</lisID>
+          <bioguideId>L000583</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <bioguideId>L000583</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <lastName>Loudermilk</lastName>
+        <firstName>Barry</firstName>
+      </item>
+      <item>
+        <state>MS</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <bioguideId>P000601</bioguideId>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <lastName>Palazzo</lastName>
+        <firstName>Steven</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <links />
+      <actionDate>2018-01-10</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Mike</firstName>
+        <middleName />
+        <party>R</party>
+        <state>LA</state>
+        <byRequestType />
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <district>4</district>
+        <bioguideId>J000299</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2330</lisID>
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Louisiana:H.R. 3133.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H5378]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <calendarNumbers />
+    <title>SEA Act of 2017</title>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <latestTitle>SECURE American Energy Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 14.</text>
+          <actionDate>2017-11-08</actionDate>
+        </latestAction>
+        <number>4239</number>
+        <congress>115</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

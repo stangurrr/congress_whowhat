@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <district>17</district>
+        <party>D</party>
+        <firstName>Cheri</firstName>
+        <middleName />
+        <lastName>Bustos</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <state>IL</state>
+      </item>
+    </sponsors>
+    <actions>
+      <item>
+        <actionDate>2017-09-01</actionDate>
+        <committee>
+          <systemCode>hsag22</systemCode>
+          <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Agriculture.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-28</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <name>Agriculture Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsag22</systemCode>
+              <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-09-01T13:08:15Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:05:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>AR</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1989</lisID>
+          <bioguideId>C001087</bioguideId>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>C001087</bioguideId>
+        <middleName>A. "Rick"</middleName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <lastName>Crawford</lastName>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <state>KS</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>M001198</bioguideId>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <lastName>Marshall</lastName>
+        <firstName>Roger</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>E000296</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>Sinema</lastName>
+        <firstName>Kyrsten</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <lastName>Soto</lastName>
+        <firstName>Darren</firstName>
+      </item>
+      <item>
+        <state>AL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+        </identifiers>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <bioguideId>S001185</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <lastName>Sewell</lastName>
+        <firstName>Terri</firstName>
+      </item>
+      <item>
+        <state>IL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <bioguideId>B001295</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-10-26</sponsorshipDate>
+        <lastName>Bost</lastName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <state>WI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>K000188</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <lastName>KIND</lastName>
+        <firstName>RON</firstName>
+      </item>
+      <item>
+        <state>ME</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-01-05</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>T000467</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <lastName>Thompson</lastName>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <bioguideId>S001196</bioguideId>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <lastName>Stefanik</lastName>
+        <firstName>Elise</firstName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2258</lisID>
+          <bioguideId>M001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>M001193</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-01-19</sponsorshipDate>
+        <lastName>MacArthur</lastName>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-01-29</sponsorshipDate>
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+      </item>
+      <item>
+        <state>KY</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <bioguideId>B001282</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <lastName>Barr</lastName>
+        <firstName>Andy</firstName>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>N000188</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <lastName>Norcross</lastName>
+        <firstName>Donald</firstName>
+      </item>
+      <item>
+        <state>WV</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>M001195</bioguideId>
+        <middleName>X.</middleName>
+        <sponsorshipDate>2018-03-09</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <firstName>Alexander</firstName>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <bioguideId>M001185</bioguideId>
+        <middleName>Patrick</middleName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <lastName>Maloney</lastName>
+        <firstName>Sean</firstName>
+      </item>
+      <item>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <sponsorshipDate>2018-04-10</sponsorshipDate>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <introducedDate>2017-07-28</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Addiction Recovery for Rural Communities Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To strengthen resources to combat the heroin and opioid epidemic in rural communities across America.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Addiction Recovery for Rural Communities Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Addiction Recovery for Rural Communities Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <billNumber>3566</billNumber>
+    <updateDate>2018-04-11T07:16:06Z</updateDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-09-01</actionDate>
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <title>Addiction Recovery for Rural Communities Act</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Educational technology and distance education</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>1677</number>
+        <congress>115</congress>
+        <latestTitle>A bill to amend the Food, Agriculture, Conservation, and Trade Act of 1990 to improve access to grants and loans for evidence-based substance use disorder treatment services in rural areas, and for other purposes.</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-31</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>1678</number>
+        <congress>115</congress>
+        <latestTitle>A bill to amend the Consolidated Farm and Rural Development Act to improve access to grants and loans for evidence-based substance use disorder treatment services in rural areas, and for other purposes.</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-31</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2017-07-29T03:11:38Z</createDate>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BUSTOS:H.R. 3566.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 18 of the UnitedStates Constitution.[Page H6578]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

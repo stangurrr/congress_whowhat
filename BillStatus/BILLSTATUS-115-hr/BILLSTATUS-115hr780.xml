@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>780</billNumber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[Provides for the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-31</actionDate>
+          <updateDate>2017-01-31T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-01T09:02:22Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-08</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2017-01-31</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-01-31</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-01-31</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-01-31</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. PELOSI:H.R. 780.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 4 of the Constitution providesthat Congress shall have power to ``establish an uniform Ruleof Naturalization''. The Supreme Court has long found thatthis provision of the Constitution grants Congress plenarypower over immigration policy. As the Court found in Galvanv. Press, 347 U.S. 522, 531 (1954), ``that the formulation ofpolicies [pertaining to the entry of aliens and their rightto remain here] is entrusted exclusively to Congress hasbecome about as firmly imbedded in the legislative andjudicial tissues of our body politic as any aspect of ourgovernment.'' And, as the Court found in Kleindienst v.Mandel, 408 U.S. 753, 766 (1972) (quoting Boutilier v. INS,387 U.S. 118, 123 (1967)), ``[t]he Court without exceptionhas sustained Congress' `plenary power to make rules for theadmission of aliens and to exclude those who possess thosecharacteristics which Congress has forbidden.' ''[Page H821]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors />
+    <laws />
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2017-02-08</actionDate>
+    </latestAction>
+    <title>For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.</title>
+    <createDate>2017-02-01T04:48:47Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>PELOSI</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>P000197</bioguideId>
+        <firstName>NANCY</firstName>
+        <state>CA</state>
+        <fullName>Rep. Pelosi, Nancy [D-CA-12]</fullName>
+        <identifiers>
+          <bioguideId>P000197</bioguideId>
+          <gpoId>7813</gpoId>
+          <lisID>905</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>12</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:01:17Z</updateDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2017-02-08T21:39:59Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-01-31T15:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

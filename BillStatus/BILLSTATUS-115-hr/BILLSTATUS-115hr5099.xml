@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <updateDate>2018-04-11T12:28:05Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-03-20</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>16:30:33</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H1665</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1665</url>
+          </link>
+        </links>
+        <actionTime>16:30:32</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1665)</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>16:30:32</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 5099</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/5099</url>
+          </link>
+        </links>
+        <actionTime>16:23:36</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5099.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <name>H1665-1666</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H1665-1666</url>
+          </link>
+        </links>
+        <actionTime>16:23:34</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H1665-1666)</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionTime>16:23:23</actionTime>
+        <text>Mr. Estes (KS) moved to suspend the rules and pass the bill.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 459.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12410</actionCode>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-603</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/603</url>
+          </link>
+        </links>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 115-603.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-603</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/603</url>
+          </link>
+        </links>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 115-603.</text>
+        <actionDate>2018-03-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-07</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-07</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-07</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Counterterrorism and Intelligence Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-05</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionDate>2018-02-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2018-02-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2018-02-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <actionStageOverride>1</actionStageOverride>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <considerationByHouse>1</considerationByHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>3</placeholderTextForH>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <introducedDate>2018-02-27</introducedDate>
+    <createDate>2018-02-28T08:11:02Z</createDate>
+    <titles>
+      <item>
+        <title>Enhancing DHS' Fusion Center Technical Assistance Program Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Enhancing DHS' Fusion Center Technical Assistance Program Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Homeland Security Act of 2002 to establish in the Department of Homeland Security a fusion center technical assistance program.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Enhancing DHS' Fusion Center Technical Assistance Program Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Enhancing DHS’ Fusion Center Technical Assistance Program Act</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Enhancing DHS’ Fusion Center Technical Assistance Program Act</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Enhancing DHS’ Fusion Center Technical Assistance Program Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-03-20T15:18:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-03-19T16:35:56Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2018-03-07T22:25:58Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2018-02-27T15:00:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hshm05</systemCode>
+              <name>Counterterrorism and Intelligence Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2018-03-07T22:25:50Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2018-03-05T19:35:38Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Homeland Security Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billNumber>5099</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <district>10</district>
+        <party>R</party>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <lastName>McCaul</lastName>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <bioguideId>M001157</bioguideId>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <state>WI</state>
+        <district>8</district>
+        <party>R</party>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <lastName>Gallagher</lastName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <bioguideId>G000579</bioguideId>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <state>NV</state>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipDate>2018-03-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <lastName>Rosen</lastName>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <bioguideId>R000608</bioguideId>
+        <firstName>Jacky</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2018-03-20</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <firstName>Ron</firstName>
+        <middleName />
+        <party>R</party>
+        <state>KS</state>
+        <byRequestType />
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <district>4</district>
+        <bioguideId>E000298</bioguideId>
+        <identifiers>
+          <bioguideId>E000298</bioguideId>
+          <lisID>2358</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Estes</lastName>
+      </item>
+    </sponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Enhancing DHS' Fusion Center Technical Assistance Program Act</b></p> <p>This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to establish a fusion center technical assistance program.</p> <p>DHS, in carrying out the program, shall: (1) provide technical assistance to fusion centers regarding grants administered under the Urban Areas Security Initiative and the Homeland Security Grant Program, terrorism prevention activities, and intelligence and information sharing; (2) provide to fusion centers notice of any changes to such activities; and (3) make available best practices regarding fusion center operations, information sharing and analysis of homeland security threats, and protecting privacy, civil rights, and civil liberties.</p> <ul> </ul> </p>]]></text>
+          <actionDate>2018-02-27</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2018-02-27T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-04-05T19:57:44Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 35 (Tuesday, February 27, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ESTES of Kansas:H.R. 5099.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18--To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.[Page H1334]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-603</citation>
+      </committeeReport>
+    </committeeReports>
+    <calendarNumbers>
+      <item>
+        <calendar>U00459</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <title>Enhancing DHS' Fusion Center Technical Assistance Program Act</title>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <billType>HR</billType>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

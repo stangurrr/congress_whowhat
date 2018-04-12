@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>5271</billNumber>
+    <laws />
+    <recordedVotes />
+    <introducedDate>2018-03-14</introducedDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-03-14</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-03-14</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-03-14</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <billType>HR</billType>
+    <amendments />
+    <cosponsors>
+      <item>
+        <middleName>M.</middleName>
+        <lastName>Grijalva</lastName>
+        <sponsorshipDate>2018-04-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <district>3</district>
+        <party>D</party>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <updateDate>2018-04-06T07:15:38Z</updateDate>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2018-03-14</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-03-14T14:00:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Freedom of information</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <createDate>2018-03-15T07:10:59Z</createDate>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-03-14</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-03-22T20:58:57Z</lastSummaryUpdateDate>
+          <updateDate>2018-03-14T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Tiahrt Restrictions Repeal Act</b></p> <p>This bill amends several appropriations laws to remove limitations on the authority of the Bureau of Alcohol, Tobacco, Firearms and Explosives to conduct activities related to the administration of federal firearms laws.</p> <p>Specifically, the bill removes provisions that: </p> <ul> <li>limit the use of firearms tracing data, </li> <li>prohibit the imposition of a requirement that firearms dealers conduct a physical inventory, </li> <li>require national instant criminal background check records to be destroyed within 24 hours. </li> </ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <lastName>LEE</lastName>
+        <middleName />
+        <party>D</party>
+        <bioguideId>L000551</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Tiahrt Restrictions Repeal Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To repeal certain impediments to the administration of the firearms laws.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Tiahrt Restrictions Repeal Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Tiahrt Restrictions Repeal Act</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 45 (Wednesday, March 14, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. LEE:H.R. 5271.Congress has the power to enact this legislation pursuantto the following:The Congress shall have power to lay and collect taxes,duties, imposts and excises, to pay the debts and provide forthe common defense and general welfare of the United States;but all duties, imposts and excises shall be uniformthroughout the United States;To borrow money on the credit of the United States;To regulate commerce with foreign nations, and among theseveral states, and with the Indian tribes;To establish a uniform rule of naturalization, and uniformlaws on the subject of bankruptcies throughout the UnitedStates;To coin money, regulate the value thereof, and of foreigncoin, and fix the standard of weights and measures;To provide for the punishment of counterfeiting thesecurities and current coin of the United States;[Page H1608]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <title>Tiahrt Restrictions Repeal Act</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

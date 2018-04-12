@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <billNumber>3903</billNumber>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3903, Encouraging Public Offerings Act of 2017</title>
+        <pubDate>2017-10-27T21:17:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53263</url>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <rollNumber>599</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-11-01T22:25:09Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <url>http://clerk.house.gov/evs/2017/roll599.xml</url>
+      </recordedVote>
+    </recordedVotes>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <reportedToHouse>1</reportedToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <clerkAuthorizationConsiderationThruPassage>1</clerkAuthorizationConsiderationThruPassage>
+        <generalDebate>1</generalDebate>
+        <actionStageOverride>2</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <considerationByHouse>2</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-02</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:25:30</actionTime>
+        <actionCode>H38900</actionCode>
+        <links>
+          <link>
+            <name>H.R. 3903</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3903</url>
+          </link>
+        </links>
+        <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3903.</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:25:10</actionTime>
+        <actionCode>H38310</actionCode>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:25:09</actionTime>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <name>H8318</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8318</url>
+          </link>
+          <link>
+            <name>Roll no. 599</name>
+            <url>http://clerk.house.gov/evs/2017/roll599.xml</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 599). (text: CR H8318)</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>18:25:09</actionTime>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <name>Roll no. 599</name>
+            <url>http://clerk.house.gov/evs/2017/roll599.xml</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 599).</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:19:12</actionTime>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H8361-8362</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8361-8362</url>
+          </link>
+        </links>
+        <text>Considered as unfinished business. (consideration: CR H8361-8362)</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>14:18:29</actionTime>
+        <actionCode>H37220</actionCode>
+        <links />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:59:30</actionTime>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <name>H.R. 3903</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3903</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3903.</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:59:29</actionTime>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H8318-8320</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H8318-8320</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H8318-8320)</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:59:08</actionTime>
+        <actionCode>H30300</actionCode>
+        <links />
+        <text>Mr. Huizenga moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+        <actionDate>2017-11-01</actionDate>
+      </item>
+      <item>
+        <type>Calendars</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12410</actionCode>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 274.</text>
+        <committee />
+        <actionDate>2017-10-31</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-374</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/374</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-374.</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-10-31</actionDate>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <name>H. Rept. 115-374</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/374</url>
+          </link>
+        </links>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-374.</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-10-31</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-12</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-10-02</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 157 (Monday, October 2, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUDD:H.R. 3903.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3, providing the power to``regulate commerce with foreign nations, and among theseveral states.''[Page H7671]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Securities Act of 1933 to expand the ability to use testing the waters and confidential draft registration submissions, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Encouraging Public Offerings Act of 2017</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>5</district>
+        <state>NY</state>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <middleName>W.</middleName>
+        <firstName>GREGORY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MEEKS</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00274</calendar>
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-374</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2017-11-02</actionDate>
+    </latestAction>
+    <title>Encouraging Public Offerings Act of 2017</title>
+    <createDate>2017-10-03T03:11:21Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Budd</lastName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>B001305</bioguideId>
+        <firstName>Ted</firstName>
+        <state>NC</state>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+        </identifiers>
+        <party>R</party>
+        <district>13</district>
+      </item>
+    </sponsors>
+    <updateDate>2018-03-30T14:16:25Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-07-13</actionDate>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 115-108.</text>
+        </latestAction>
+        <number>10</number>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Encouraging Public Offerings Act of 2018</latestTitle>
+        <latestAction>
+          <actionDate>2018-01-25</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <number>2347</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-11-02T15:43:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-10-31T16:27:34Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-10-12T21:45:15Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-10-02T16:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

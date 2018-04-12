@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <number>832</number>
+        <congress>115</congress>
+        <latestTitle>AGOA and MCA Modernization Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-10-17</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2017-07-28T03:11:36Z</createDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-484</citation>
+      </committeeReport>
+    </committeeReports>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-01-03T18:06:25Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-09-28T18:30:37Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-27T14:08:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <billNumber>3445</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <reportedToHouse>1</reportedToHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placedOnCalendarSection>1</placedOnCalendarSection>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedSenate>1</passedSenate>
+        <considerationByHouse>1</considerationByHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-04-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-04-09</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2015</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2015</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S2015)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>Floor</type>
+        <committee />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionDate>2018-04-09</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-02-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2018-01-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionTime>14:20:27</actionTime>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H430-432</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H430-432</url>
+          </link>
+        </links>
+        <actionTime>14:20:18</actionTime>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H430-432)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionTime>14:20:18</actionTime>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 3445</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/3445</url>
+          </link>
+        </links>
+        <actionTime>13:58:41</actionTime>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3445.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H430-435</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H430-435</url>
+          </link>
+        </links>
+        <actionTime>13:58:40</actionTime>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H430-435)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionTime>13:58:24</actionTime>
+        <actionDate>2018-01-17</actionDate>
+        <committee />
+        <text>Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>Calendars</type>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 358.</text>
+        <actionDate>2018-01-03</actionDate>
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-484</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/484</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <text>Reported by the Committee on Foreign Affairs. H. Rept. 115-484.</text>
+        <actionDate>2018-01-03</actionDate>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-484</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/484</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <text>Reported by the Committee on Foreign Affairs. H. Rept. 115-484.</text>
+        <actionDate>2018-01-03</actionDate>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-28</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2017-07-27</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-27</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-07-27</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>5</senate>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>AGOA and MCA Modernization Act</title>
+    <updateDate>2018-04-11T12:28:02Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 127 (Thursday, July 27, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROYCE of California:H.R. 3445.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the Constitution of the UnitedStates[Page H6518]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <bioguideId>E000179</bioguideId>
+        <district>16</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <lastName>ENGEL</lastName>
+        <state>NY</state>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ELIOT</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <bioguideId>S000522</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <lastName>SMITH</lastName>
+        <state>NJ</state>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>CHRISTOPHER</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>B001270</bioguideId>
+        <district>37</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <lastName>Bass</lastName>
+        <state>CA</state>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Karen</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <bioguideId>S001185</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <lastName>Sewell</lastName>
+        <state>AL</state>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <identifiers>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Terri</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>L000582</bioguideId>
+        <district>33</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <lastName>Lieu</lastName>
+        <state>CA</state>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>G.</middleName>
+        <bioguideId>R000578</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <lastName>Reichert</lastName>
+        <state>WA</state>
+        <sponsorshipDate>2017-10-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8212</gpoId>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <bioguideId>C001037</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <lastName>CAPUANO</lastName>
+        <state>MA</state>
+        <sponsorshipDate>2017-11-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001037</bioguideId>
+          <lisID>1564</lisID>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <bioguideId>S000248</bioguideId>
+        <district>15</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <lastName>SERRANO</lastName>
+        <state>NY</state>
+        <sponsorshipDate>2017-12-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JOSE</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <district>39</district>
+        <identifiers>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <firstName>ED</firstName>
+        <bioguideId>R000487</bioguideId>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <party>R</party>
+        <middleName />
+        <lastName>ROYCE</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <latestAction>
+      <text>Message on Senate action sent to the House.</text>
+      <links />
+      <actionDate>2018-04-10</actionDate>
+    </latestAction>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act or the AGOA and MCA Modernization Act</b></p> <p> This bill directs the President to establish a website for the collection and dissemination of information regarding the African Growth and Opportunity Act (AGOA). </p> <p> The Department of State is urged to promote the use by eligible sub-Saharan African countries of the benefits available under the African Growth and Opportunity Act. </p> <p> The President is urged to:</p> <ul> <li> facilitate trans-boundary trade among eligible sub-Saharan African countries; </li> <li>provide training for business and government trade officials on accessing AGOA benefits; </li> <li>provide capacity building for African entrepreneurs and trade associations on production strategies, quality standards, and market development;</li> <li>provide capacity building training to promote product diversification and value-added processing; and </li> <li>provide capacity building and technical assistance funding to help African businesses and institutions comply with U.S. counter-terrorism policies. </li> </ul> <p> The Millennium Challenge Act of 2003 is amended to permit an eligible country that has entered into a Millennium Challenge Compact to enter into one additional compact under specified conditions. </p> <p>The bill establishes, beginning with FY2013, new assistance criteria for a low-income or a lower middle income candidate country eligible to enter into a Millennium Challenge Compact with the United States. </p> <p> The Millennium Challenge Corporation shall: (1) before selecting a compact country, provide the Board of Directors with information regarding the country's treatment of civil society; and (2) submit an assessment of the feasibility of developing partnerships at the sub national level within candidate countries.</p>]]></text>
+          <updateDate>2017-07-27T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-21T19:32:29Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-07-27</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/53195</url>
+        <pubDate>2017-10-11T20:44:10Z</pubDate>
+        <title>H.R. 3445, AGOA and MCA Modernization Act</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To enhance the transparency and accelerate the impact of programs under the African Growth and Opportunity Act and the Millennium Challenge Corporation, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>AGOA and MCA Modernization Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>African Growth and Opportunity Act and Millennium Challenge Act Modernization Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>U00358</calendar>
+        <number />
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0304</number>
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <introducedDate>2017-07-27</introducedDate>
+    <recordedVotes />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Business education</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

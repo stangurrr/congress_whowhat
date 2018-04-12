@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-04-05T13:03:55Z</updateDate>
+    <createDate>2017-11-29T03:11:25Z</createDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Transportation Security Subcommittee</name>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <date>2017-12-05T16:43:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-11-28T17:02:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 193 (Tuesday, November 28, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. WATSON COLEMAN:H.R. 4474.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H9468]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2017-11-28</introducedDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billType>HR</billType>
+    <committeeReports />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestTitle>Surface Transportation Security Improvement Act of 2018</latestTitle>
+        <latestAction>
+          <actionDate>2018-03-22</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5131</number>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <bioguideId>W000822</bioguideId>
+        <lastName>Watson Coleman</lastName>
+        <party>D</party>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>NJ</state>
+        <district>12</district>
+        <firstName>Bonnie</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <title>Surface Transportation and Public Area Security Act of 2017</title>
+    <laws />
+    <billNumber>4474</billNumber>
+    <amendments />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Surface Transportation and Public Area Security Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>To enhance the security of surface transportation assets, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Surface Transportation and Public Area Security Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Surface Transportation and Public Area Security Act of 2017</title>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000193</bioguideId>
+        <firstName>BENNIE</firstName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000032</bioguideId>
+        <firstName>SHEILA</firstName>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>LANGEVIN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000559</bioguideId>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000604</bioguideId>
+        <firstName>Donald</firstName>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <lastName>Lipinski</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000563</bioguideId>
+        <firstName>Daniel</firstName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+      </item>
+      <item>
+        <lastName>Demings</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000627</bioguideId>
+        <firstName>Val</firstName>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000627</bioguideId>
+          <lisID>2320</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-11-30</sponsorshipDate>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <middleName>Butler</middleName>
+      </item>
+      <item>
+        <lastName>Correa</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001110</bioguideId>
+        <firstName>J.</firstName>
+        <district>46</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <middleName>Luis</middleName>
+      </item>
+      <item>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001072</bioguideId>
+        <firstName>Andre</firstName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <identifiers>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-12-06</sponsorshipDate>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Lynch</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000562</bioguideId>
+        <firstName>Stephen</firstName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7974</gpoId>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <lastName>Swalwell</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001193</bioguideId>
+        <firstName>Eric</firstName>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001067</bioguideId>
+        <firstName>Yvette</firstName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <lastName>PASCRELL</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000096</bioguideId>
+        <firstName>WILLIAM</firstName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-12-11</sponsorshipDate>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000602</bioguideId>
+        <firstName>Kathleen</firstName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000586</bioguideId>
+        <firstName>Al</firstName>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <lisID>2317</lisID>
+          <bioguideId>L000586</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000297</bioguideId>
+        <firstName>Adriano</firstName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-12-14</sponsorshipDate>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Barragan</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001300</bioguideId>
+        <firstName>Nanette</firstName>
+        <district>44</district>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+          <lisID>2311</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <middleName>Diaz</middleName>
+      </item>
+      <item>
+        <lastName>Sires</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001165</bioguideId>
+        <firstName>Albio</firstName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-12-18</sponsorshipDate>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-01-11</sponsorshipDate>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000808</bioguideId>
+        <firstName>Frederica</firstName>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <identifiers>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-02-05</sponsorshipDate>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <middleName>S.</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2017-12-05</actionDate>
+        <committee>
+          <name>Transportation Security Subcommittee</name>
+          <systemCode>hshm07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-28</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-28</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-28</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2017-12-05</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+    </latestAction>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

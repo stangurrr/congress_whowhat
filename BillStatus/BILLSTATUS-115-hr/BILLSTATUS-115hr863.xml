@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-04T05:07:04Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>102</rollNumber>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2017/roll102.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <congress>115</congress>
+        <date>2017-02-28T00:35:23Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-05-16T15:10:15Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-03-30T13:30:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-02-28T16:54:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-02-16T21:44:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-03T14:03:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Became Public Law No: 115-111.</text>
+      <actionDate>2018-01-10</actionDate>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/115th-congress/house-bill/863/text/pl</url>
+          <name>Public Law No: 115-111</name>
+        </link>
+      </links>
+    </latestAction>
+    <billNumber>863</billNumber>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-70</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 19 (Friday, February 3, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LARSON of Connecticut:H.R. 863.Congress has the power to enact this legislation pursuantto the following:Clause 1 of Section 8 of Article I of the Constitution;Clause 18 of Section 8 of Article I of the Constitution;Clause 2 of Section 3 of Article IV of the Constitution.[Page H978]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors />
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 863, an act to facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes</title>
+        <url>https://www.cbo.gov/publication/52605</url>
+        <pubDate>2017-04-10T20:24:48Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <sponsors>
+      <item>
+        <state>CT</state>
+        <bioguideId>L000557</bioguideId>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <identifiers>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <firstName>JOHN</firstName>
+        <district>1</district>
+        <lastName>LARSON</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <senate>8</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Became Public Law No: 115-111.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/863/text/pl</url>
+            <name>Public Law No: 115-111</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-10</actionDate>
+        <actionCode>E40000</actionCode>
+        <committee />
+        <type>President</type>
+      </item>
+      <item>
+        <text>Became Public Law No: 115-111.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/863/text/pl</url>
+            <name>Public Law No: 115-111</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-01-10</actionDate>
+        <actionCode>36000</actionCode>
+        <committee />
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-01-10</actionDate>
+        <actionCode>E30000</actionCode>
+        <committee />
+        <type>President</type>
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2018-01-10</actionDate>
+        <actionCode>36000</actionCode>
+        <committee />
+        <type>BecameLaw</type>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-12-29</actionDate>
+        <actionCode>E20000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-29</actionDate>
+        <actionCode>28000</actionCode>
+        <committee />
+        <type>President</type>
+      </item>
+      <item>
+        <actionDate>2017-12-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-21</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S8267-8269</url>
+            <name>S8267-8269</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S8267-8269)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-12-21</actionDate>
+        <actionCode>17000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-05-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-05-16</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/70</url>
+            <name>report No. 115-70</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-70.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-70.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/70</url>
+            <name>report No. 115-70</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-16</actionDate>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>19:35:24</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>19:35:23</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 42 (Roll no. 102). (text: CR H1332)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1332</url>
+            <name>H1332</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll102.xml</url>
+            <name>Roll no. 102</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>19:35:23</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 42 (Roll no. 102).(text: CR H1332)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1332</url>
+            <name>H1332</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll102.xml</url>
+            <name>Roll no. 102</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>8000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>19:29:25</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H1339-1340)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1339-1340</url>
+            <name>H1339-1340</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>17:10:24</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H37220</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>17:00:23</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 863.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/863</url>
+            <name>H.R. 863</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>17:00:21</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H1332-1334)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1332-1334</url>
+            <name>H1332-1334</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>17:00:11</actionTime>
+        <text>Mr. McClintock moved to suspend the rules and pass the bill.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-02-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-03</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <becamePublicLaw>2</becamePublicLaw>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForE>3</placeholderTextForE>
+        <billReferrals>1</billReferrals>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <passedSenate>1</passedSenate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <presentedToPresident>1</presentedToPresident>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <orderedReported>1</orderedReported>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Connecticut</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-02-03</introducedDate>
+    <laws>
+      <item>
+        <number>115-111</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill revises a condition for establishment of the Coltsville National Historical Park in Connecticut to require the state, the city, or the private property owner, as appropriate, to enter into a written agreement with the Department of the Interior to donate at least 10,000 square feet of space in the Colt Armory Complex (currently, the East Armory). </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-02-03</actionDate>
+          <updateDate>2017-02-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-22T19:55:10Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill revises a condition for establishment of the Coltsville National Historical Park in Connecticut to require the state, the city, or the private property owner, as appropriate, to enter into a written agreement with the Department of the Interior to donate at least 10,000 square feet of space in the Colt Armory Complex (currently, the East Armory). </p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-02-27</actionDate>
+          <updateDate>2017-02-27T14:12:23Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-27T17:49:13Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)</p> <p>(Sec. 1) This bill revises a condition for establishment of the Coltsville National Historical Park in Connecticut to require the state, the city, or the private property owner, as appropriate, to enter into a written agreement with the Department of the Interior to donate at least 10,000 square feet of space in the Colt Armory Complex (currently, the East Armory). </p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <actionDate>2017-05-16</actionDate>
+          <updateDate>2017-05-16T12:34:46Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-25T20:58:38Z</lastSummaryUpdateDate>
+          <versionCode>80</versionCode>
+          <name>Reported to Senate without amendment</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)</p> <p>(Sec. 1) This bill revises a condition for establishment of the Coltsville National Historical Park in Connecticut to require the state, the city, or the private property owner, as appropriate, to enter into a written agreement with the Department of the Interior to donate at least 10,000 square feet of space in the Colt Armory Complex (currently, the East Armory). </p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-12-21</actionDate>
+          <updateDate>2017-12-21T16:14:04Z</updateDate>
+          <lastSummaryUpdateDate>2018-01-19T21:18:31Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)</p> <p>(Sec. 1) This bill revises a condition for establishment of the Coltsville National Historical Park in Connecticut to require the state, the city, or the private property owner, as appropriate, to enter into a written agreement with the Department of the Interior to donate at least 10,000 square feet of space in the Colt Armory Complex (currently, the East Armory). </p>]]></text>
+          <actionDesc>Public Law</actionDesc>
+          <actionDate>2018-01-10</actionDate>
+          <updateDate>2018-01-11T04:59:58Z</updateDate>
+          <lastSummaryUpdateDate>2018-01-24T22:47:54Z</lastSummaryUpdateDate>
+          <versionCode>49</versionCode>
+          <name>Public Law</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <title>To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes.</title>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0088</number>
+      </item>
+    </calendarNumbers>
+    <updateDate>2018-03-30T14:01:37Z</updateDate>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

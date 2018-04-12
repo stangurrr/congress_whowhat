@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>5012</billNumber>
+    <laws />
+    <recordedVotes />
+    <introducedDate>2018-02-14</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionDate>2018-02-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-02-14</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2018-02-14</actionDate>
+        <links />
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <amendments />
+    <cosponsors>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001179</bioguideId>
+          <lisID>2053</lisID>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Marino</lastName>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <bioguideId>M001179</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Babin</lastName>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <bioguideId>B001291</bioguideId>
+        <district>36</district>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2002</lisID>
+          <gpoId>7880</gpoId>
+          <bioguideId>W000806</bioguideId>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Webster</lastName>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <bioguideId>W000806</bioguideId>
+        <district>11</district>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>979</lisID>
+          <gpoId>7851</gpoId>
+          <bioguideId>R000409</bioguideId>
+        </identifiers>
+        <firstName>DANA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>ROHRABACHER</lastName>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <bioguideId>R000409</bioguideId>
+        <district>48</district>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>VA</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2353</lisID>
+          <gpoId />
+          <bioguideId>G000580</bioguideId>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Garrett</lastName>
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <bioguideId>G000580</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meadows</lastName>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>AZ</state>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gosar</lastName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <bioguideId>G000565</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>SC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ralph</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Norman</lastName>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <bioguideId>N000190</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MO</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+        </identifiers>
+        <firstName>SAM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GRAVES</lastName>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <bioguideId>G000546</bioguideId>
+        <district>6</district>
+        <sponsorshipDate>2018-02-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>GA</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+        </identifiers>
+        <firstName>Jody</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Hice</lastName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <bioguideId>H001071</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2344</lisID>
+          <bioguideId>T000478</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Claudia</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tenney</lastName>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <bioguideId>T000478</bioguideId>
+        <district>22</district>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>WV</state>
+        <middleName>X.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+        </identifiers>
+        <firstName>Alexander</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Mooney</lastName>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <bioguideId>M001195</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2018-02-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>VA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000477</bioguideId>
+          <lisID>2351</lisID>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Taylor</lastName>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <bioguideId>T000477</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2334</lisID>
+          <gpoId />
+          <bioguideId>M001201</bioguideId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Mitchell</lastName>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <bioguideId>M001201</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2018-03-06</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Francis</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rooney</lastName>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <bioguideId>R000607</bioguideId>
+        <district>19</district>
+        <sponsorshipDate>2018-03-19</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Budd</lastName>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <bioguideId>B001305</bioguideId>
+        <district>13</district>
+        <sponsorshipDate>2018-03-19</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LaMalfa</lastName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <lisID>2256</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rouzer</lastName>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <bioguideId>R000603</bioguideId>
+        <district>7</district>
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <bioguideId>C000266</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>IA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <bioguideId>K000362</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TX</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Flores</lastName>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <bioguideId>F000461</bioguideId>
+        <district>17</district>
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>TN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DesJarlais</lastName>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <bioguideId>D000616</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2018-04-02</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Perry</lastName>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <bioguideId>P000605</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2018-04-05</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <firstName>Matt</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gaetz</lastName>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <bioguideId>G000578</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2018-04-05</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <updateDate>2018-04-06T07:15:35Z</updateDate>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2018-02-14</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-14T15:00:11Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <createDate>2018-02-18T21:46:26Z</createDate>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Creating Real and Useful Middle-Class Benefits and Savings (CRUMBS) Act of 2018 </b></p> <p>This bill excludes up to $2,500 of bonus income received by an employee in 2018 from being considered taxable earnings for the purpose of determining an employee's federal tax liability. The bill defines a &quot;bonus&quot; as wages paid in addition to the compensation ordinarily given, required, optioned, or obligated under an employment contract. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2018-02-14</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-02-14T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2018-02-23T15:03:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <lastName>Rokita</lastName>
+        <middleName />
+        <party>R</party>
+        <bioguideId>R000592</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <lisID>2017</lisID>
+          <gpoId>7943</gpoId>
+        </identifiers>
+        <state>IN</state>
+        <district>4</district>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <firstName>Todd</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Creating Real and Useful Middle-Class Benefits and Savings (CRUMBS) Act of 2018</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide further tax relief for Americans receiving bonuses.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Creating Real and Useful Middle-Class Benefits and Savings (CRUMBS) Act of 2018</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Creating Real and Useful Middle-Class Benefits and Savings (CRUMBS) Act of 2018</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 29 (Wednesday, February 14, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROKITA:H.R. 5012.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States.[Page H1178]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <title>Creating Real and Useful Middle-Class Benefits and Savings (CRUMBS) Act of 2018</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

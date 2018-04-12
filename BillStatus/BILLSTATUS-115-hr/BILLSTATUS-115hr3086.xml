@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <lastName>Perlmutter</lastName>
+        <middleName />
+        <district>7</district>
+        <identifiers>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <state>CO</state>
+        <firstName>Ed</firstName>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <bioguideId>P000593</bioguideId>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <billType>HR</billType>
+    <title>Space Weather Research and Forecasting Act</title>
+    <amendments />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Space Weather Research and Forecasting Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To improve understanding and forecasting of space weather events, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Space Weather Research and Forecasting Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Space Weather Research and Forecasting Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-26T15:36:47Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsas29</systemCode>
+              <name>Strategic Forces Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-06-27T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-28T17:57:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-06-27T14:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-27T14:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <type>Select</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-27T14:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-27T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hsas29</systemCode>
+          <name>Strategic Forces Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Strategic Forces.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-28</actionDate>
+        <committee>
+          <systemCode>hspw05</systemCode>
+          <name>Aviation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Intelligence (Permanent Select), Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Intelligence (Permanent Select), Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Intelligence (Permanent Select), Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent Select) Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Intelligence (Permanent Select), Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Armed Services, Intelligence (Permanent Select), Foreign Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-06-27</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>5</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <recordedVotes />
+    <createDate>2017-06-28T03:11:37Z</createDate>
+    <billNumber>3086</billNumber>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <lastName>Bridenstine</lastName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>2155</lisID>
+          <bioguideId>B001283</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Jim</firstName>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <bioguideId>B001283</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+        <middleName>BERNICE</middleName>
+        <district>30</district>
+        <identifiers>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <firstName>EDDIE</firstName>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <bioguideId>J000126</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Derek</firstName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <bioguideId>K000381</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <sponsorshipDate>2017-10-31</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>2</district>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <introducedDate>2017-06-27</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>115</congress>
+        <latestTitle>Space Weather Research and Forecasting Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-05-23</actionDate>
+          <text>Referred to the Subcommittee on Strategic Forces.</text>
+        </latestAction>
+        <number>141</number>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PERLMUTTER:H.R. 3086.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H5232]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <text>Referred to the Subcommittee on Strategic Forces.</text>
+      <links />
+      <actionDate>2017-07-26</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <updateDate>2018-04-04T22:00:11Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Space Weather Research and Forecasting Act</b></p> <p> This bill directs the Office of Science and Technology Policy to:</p> <ul> <li>coordinate the development and implementation of federal government activities to improve the nation's ability to prepare, avoid, mitigate, respond to, and recover from potentially devastating impacts of space weather events; </li> <li>coordinate the activities of an interagency working group on space weather to be established by the National Science and Technology Council to continue coordination of executive branch efforts to understand, prepare, coordinate, and plan for space weather; and</li> <li>develop an integrated strategy for space and ground-based space weather observations. </li> </ul> <p>The National Aeronautics and Space Administration (NASA) and the National Oceanic and Atmospheric Administration (NOAA) shall enter interagency agreements providing for cooperation and collaboration in the development of space weather spacecraft, instruments, and technologies and in the transition of research to operations.</p> <p>NASA shall: (1) maintain operations of the Solar and Heliospheric Observatory/Large Angle and Spectrometric Coronagraph (SOHO/LASCO) for as long as the satellite continues to deliver quality observations; and (2) prioritize the reception of LASCO data.</p> <p>NOAA shall: (1) secure reliable secondary capability for near real-time coronal mass ejection imagery; and (2) develop requirements and a plan for follow-on space-based observations for operational purposes. </p> <p>The National Science Foundation (NSF), the Air Force, and the Navy shall each: (1)maintain and improve ground-based observations of the Sun, and (2) provide space weather data by means of ground-based facilities. </p> <p>NOAA, the Air Force, and the Navy shall conduct a survey to prioritize the needs of space weather forecast users. </p> <p>The NSF, NASA, and the Department of Defense (DOD) shall continue to carry out basic research activities on heliophysics, geospace science, and space weather and support merit-based proposals for research, modeling, and monitoring of space weather and its impacts.</p> <p>The NSF and NOAA shall support basic research activities in the social, behavioral, and economic sciences that will lead to improving national preparedness and encouraging mitigation and protection measures before a space weather event. </p> <p> The NSF, NOAA, and NASA shall pursue multidisciplinary research in subjects that further our understanding of solar physics, space physics, and space weather. </p> <p>NASA shall seek to implement missions meeting science objectives identified in National Academy of Sciences (NAS) Solar and Space Physics Decadal surveys. </p> <p>NASA, the NSF, NOAA, the Air Force, and the Navy shall: (1) develop a mechanism to transition NASA, NSF, Air Force, and Navy research findings, research needs, models, and capabilities to NOAA and DOD space weather operational forecasting centers; and (2) enhance coordination between research modeling centers and forecasting centers. </p> <p>NASA and the NSF shall: (1) make space weather related data obtained for scientific research available to space weather forecasters and operations centers, and (2) support model development and applications to space weather forecasting. </p> <p>NOAA shall arrange with the NAS to establish a Space Weather Government-Industry-University Roundtable to facilitate communication and knowledge transfer among government participants in the Space Weather Interagency Group, industry, and academia to facilitate advances in space weather prediction and forecasting, help enable the two-way coordination of research and operations, and improve preparedness for potential space weather events. </p> <p> The space weather interagency working group shall develop benchmarks for measuring solar disturbances. </p> <p> NOAA shall inform the Department of Homeland Security about space weather hazards to protect national critical infrastructure from space weather events. </p> <p>The National Security Council shall develop mechanisms to protect national security assets from space weather threats. </p> <p> The Federal Aviation Administration (FAA) shall: (1) assess the safety implications and vulnerability of the nation's airspace system by space weather events, and (2) develop methods to increase the interaction between the aviation community and the space weather research and service provider community. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-09-06T17:46:52Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-27</actionDate>
+          <updateDate>2017-06-27T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
